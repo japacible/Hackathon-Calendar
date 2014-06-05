@@ -28,6 +28,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 | |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 | |
 | [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 | |
+| [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 | #pennappsX |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 | |
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 | |
 | [Dubhacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 | |
