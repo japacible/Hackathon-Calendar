@@ -6,7 +6,7 @@ This repo tracks upcoming hackathons. To add a hackathon to this list, please su
 Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
 
 | Hackathon                                                | Location        | Date (2014)            | Hashtag    |
-| :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
+| -------------------------------------------------------------- |-------------  | :---------------------:| :----------:| 
 | [Smart Money Hackathon](http://www.eventbrite.com/e/smart-money-hackathon-registration-11443791689) | San Francisco, CA | 6.6 - 6.8 | |
 | [AngelHack Boston](http://www.angelhack.com/event/angelhack-boston-spring-2014/) | Boston, MA | 6.7 - 6.8 | |
 | [Hamburg Geekettes & OTS HH Hackathon](http://hamburg-hackathon.de/hackathon/) | Hamburg, Germany | 6.7 - 6.8 | |
