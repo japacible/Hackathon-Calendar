@@ -36,8 +36,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 | |
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 | |
 | [Dubhacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 | |
-| [Facebook Summer of Hack](facebook.com/hackathon) | Seattle, WA | TBA | |
-| [Facebook Summer of Hack](facebook.com/hackathon) | New York, NY | TBA | |
+| [Facebook Summer of Hack](http://facebook.com/hackathon) | Seattle, WA | TBA | |
+| [Facebook Summer of Hack](http://facebook.com/hackathon) | New York, NY | TBA | |
 
 | Hackathon                                                | Location        | Date (2015)            | Hashtag    |
 | :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
