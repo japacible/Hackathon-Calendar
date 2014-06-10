@@ -7,12 +7,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            | Hashtag    |
 | -------------------------------------------------------------- |-------------  | :---------------------:| :----------:| 
-| [Smart Money Hackathon](http://www.eventbrite.com/e/smart-money-hackathon-registration-11443791689) | San Francisco, CA | 6.6 - 6.8 | |
-| [AngelHack Boston](http://www.angelhack.com/event/angelhack-boston-spring-2014/) | Boston, MA | 6.7 - 6.8 | |
-| [Hamburg Geekettes & OTS HH Hackathon](http://hamburg-hackathon.de/hackathon/) | Hamburg, Germany | 6.7 - 6.8 | |
-| [IDOL OnDemand Hackathon](http://www.eventbrite.com/e/idol-ondemand-hackathon-unleashing-innovation-and-breaking-boundaries-tickets-10845853239) | San Francisco, CA | 6.7 - 6.8 | |
-| [AngelHack Sao Paulo](http://www.angelhack.com/event/angelhack-sao-paulo-spring-2014/) | Sao Paulo, Brazil | 6.7 - 6.8 | |
-| [AngelHack Delhi](http://www.angelhack.com/event/angelhackdelhispring-2014/) | Gurgaon, India | 6.7 - 6.8 | |
+| [~~Smart Money Hackathon~~](http://www.eventbrite.com/e/smart-money-hackathon-registration-11443791689) | ~~San Francisco, CA~~ | ~~6.6 - 6.8~~ | |
+| [~~AngelHack Boston~~](http://www.angelhack.com/event/angelhack-boston-spring-2014/) | ~~Boston, MA~~ | ~~6.7 - 6.8~~ | |
+| [~~Hamburg Geekettes & OTS HH Hackathon~~](http://hamburg-hackathon.de/hackathon/) | ~~Hamburg, Germany~~ | ~~6.7 - 6.8~~ | |
+| [~~IDOL OnDemand Hackathon~~](http://www.eventbrite.com/e/idol-ondemand-hackathon-unleashing-innovation-and-breaking-boundaries-tickets-10845853239) | ~~San Francisco, CA~~ | ~~6.7 - 6.8~~ | |
+| [~~AngelHack Sao Paulo~~](http://www.angelhack.com/event/angelhack-sao-paulo-spring-2014/) | ~~Sao Paulo, Brazil~~ | ~~6.7 - 6.8~~ | |
+| [~~AngelHack Delhi~~](http://www.angelhack.com/event/angelhackdelhispring-2014/) | ~~Gurgaon, India~~ | ~~6.7 - 6.8~~ | |
 | [AngelHack London](http://www.angelhack.com/event/angelhack-london-spring-2014/) | London, United Kingdom | 6.14 - 6.15 | |
 | [AngelHack Mexico City](http://www.angelhack.com/event/angelhack-mexico-city-spring-2014/) | Cuauhtemoc, Mexico D.F. | 6.14 - 6.15 | |
 | [Pre-I/O Glass Hackathon](https://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795) | San Francisco, CA | 6.20 - 6.21 | |
