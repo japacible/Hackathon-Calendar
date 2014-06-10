@@ -39,5 +39,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Facebook Summer of Hack](http://facebook.com/hackathon) | Seattle, WA | TBA |
 | [Facebook Summer of Hack](http://facebook.com/hackathon) | New York, NY | TBA |
 
-| Hackathon                                                | Location        | Date (2015)            | Hashtag    |
-| :--------------------------------------------------------------: |:-------------:  | :---------------------:| :----------:| 
+| Hackathon                                                | Location        | Date (2015)            |
+| :--------------------------------------------------------------: |:-------------:  | :---------------------:|
