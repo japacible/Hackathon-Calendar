@@ -26,6 +26,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Buenos Aires](http://www.angelhack.com/event/angelhack-buenos-aires-spring-2014/) | Buenos Aires, Argentina | 6.28 - 6.29 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
 | [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
+| [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
 | [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
