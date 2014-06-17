@@ -13,8 +13,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [~~IDOL OnDemand Hackathon~~](http://www.eventbrite.com/e/idol-ondemand-hackathon-unleashing-innovation-and-breaking-boundaries-tickets-10845853239) | ~~San Francisco, CA~~ | ~~6.7 - 6.8~~ |
 | [~~AngelHack Sao Paulo~~](http://www.angelhack.com/event/angelhack-sao-paulo-spring-2014/) | ~~Sao Paulo, Brazil~~ | ~~6.7 - 6.8~~ |
 | [~~AngelHack Delhi~~](http://www.angelhack.com/event/angelhackdelhispring-2014/) | ~~Gurgaon, India~~ | ~~6.7 - 6.8~~ |
-| [AngelHack London](http://www.angelhack.com/event/angelhack-london-spring-2014/) | London, United Kingdom | 6.14 - 6.15 |
-| [AngelHack Mexico City](http://www.angelhack.com/event/angelhack-mexico-city-spring-2014/) | Cuauhtemoc, Mexico D.F. | 6.14 - 6.15 |
+| [~~AngelHack London~~](http://www.angelhack.com/event/angelhack-london-spring-2014/) | ~~London, United Kingdom~~ | ~~6.14 - 6.15~~ |
+| [~~AngelHack Mexico City~~](http://www.angelhack.com/event/angelhack-mexico-city-spring-2014/) | ~~Cuauhtemoc, Mexico D.F.~~ | ~~6.14 - 6.15~~ |
 | [Pre-I/O Glass Hackathon](https://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795) | San Francisco, CA | 6.20 - 6.21 |
 | [AngelHack Tel Aviv](http://www.angelhack.com/event/angelhack-tel-aviv-spring-2014/) | Tel Aviv, Israel | 6.20 - 6.21 |
 | [AngelHack Kuala Lumpur](http://www.angelhack.com/event/angelhack-kuala-lumpur-spring-2014/) | Kuala Lumpur, Malaysia | 6.21 - 6.22 |
