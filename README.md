@@ -21,16 +21,20 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Phoenix](http://www.angelhack.com/event/angelhack-phoenix-arizona-spring-2014/) | Tempe, AZ | 6.21 - 6.22 |
 | [AngelHack Toronto](http://www.angelhack.com/event/angelhack-toronto-spring-2014/) | Toronto, Canada | 6.21 - 6.22 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/san-francisco/) | San Francisco, CA | 6.21 - 6.22 |
+| [Hack//Dining NYC](http://hackdiningnyc.foodtechconnect.com/) | New York, NY | 6.27 - 6.29 |
 | [Startup Weekend Denver](http://denver.startupweekend.org) | Denver, CO | 6.27 - 6.29 |
 | [AngelHack Athens](http://www.angelhack.com/event/angelhackathensspring-2014/) | Athens, Greece | 6.28 - 6.29 |
 | [AngelHack Buenos Aires](http://www.angelhack.com/event/angelhack-buenos-aires-spring-2014/) | Buenos Aires, Argentina | 6.28 - 6.29 |
+| [IDEO NY Hacks: Waste](http://www.ideo.com/hackathon/nyc/) | New York, NY | 7.11 - 7.12 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
 | [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
-| [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
+| [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
+| [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.19 - 7.20 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
 | [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
 | [Startup Weekend Mobile/Wearables Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3912) | Seattle, WA | 7.25 - 7.27 |
+| [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
