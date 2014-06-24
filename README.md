@@ -15,12 +15,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [~~AngelHack Delhi~~](http://www.angelhack.com/event/angelhackdelhispring-2014/) | ~~Gurgaon, India~~ | ~~6.7 - 6.8~~ |
 | [~~AngelHack London~~](http://www.angelhack.com/event/angelhack-london-spring-2014/) | ~~London, United Kingdom~~ | ~~6.14 - 6.15~~ |
 | [~~AngelHack Mexico City~~](http://www.angelhack.com/event/angelhack-mexico-city-spring-2014/) | ~~Cuauhtemoc, Mexico D.F.~~ | ~~6.14 - 6.15~~ |
-| [Pre-I/O Glass Hackathon](https://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795) | San Francisco, CA | 6.20 - 6.21 |
-| [AngelHack Tel Aviv](http://www.angelhack.com/event/angelhack-tel-aviv-spring-2014/) | Tel Aviv, Israel | 6.20 - 6.21 |
-| [AngelHack Kuala Lumpur](http://www.angelhack.com/event/angelhack-kuala-lumpur-spring-2014/) | Kuala Lumpur, Malaysia | 6.21 - 6.22 |
-| [AngelHack Phoenix](http://www.angelhack.com/event/angelhack-phoenix-arizona-spring-2014/) | Tempe, AZ | 6.21 - 6.22 |
-| [AngelHack Toronto](http://www.angelhack.com/event/angelhack-toronto-spring-2014/) | Toronto, Canada | 6.21 - 6.22 |
-| [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/san-francisco/) | San Francisco, CA | 6.21 - 6.22 |
+| [~~Pre-I/O Glass Hackathon~~](https://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795) | ~~San Francisco, CA~~ | ~~6.20 - 6.21~~ |
+| [~~AngelHack Tel Aviv~~](http://www.angelhack.com/event/angelhack-tel-aviv-spring-2014/) | ~~Tel Aviv, Israel~~ | ~~6.20 - 6.21~~ |
+| [~~AngelHack Kuala Lumpur~~](http://www.angelhack.com/event/angelhack-kuala-lumpur-spring-2014/) | ~~Kuala Lumpur, Malaysia~~ | ~~6.21 - 6.22~~ |
+| [~~AngelHack Phoenix~~](http://www.angelhack.com/event/angelhack-phoenix-arizona-spring-2014/) | ~~Tempe, AZ~~ | ~~6.21 - 6.22~~ |
+| [~~AngelHack Toronto~~](http://www.angelhack.com/event/angelhack-toronto-spring-2014/) | ~~Toronto, Canada~~ | ~~6.21 - 6.22~~ |
+| [~~SmallBizDev Hackathon~~](http://smallbizdevhackathon.com/event/san-francisco/) | ~~San Francisco, CA~~ | ~~6.21 - 6.22~~ |
 | [Hack//Dining NYC](http://hackdiningnyc.foodtechconnect.com/) | New York, NY | 6.27 - 6.29 |
 | [Startup Weekend Denver](http://denver.startupweekend.org) | Denver, CO | 6.27 - 6.29 |
 | [AngelHack Athens](http://www.angelhack.com/event/angelhackathensspring-2014/) | Athens, Greece | 6.28 - 6.29 |
