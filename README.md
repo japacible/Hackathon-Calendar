@@ -7,15 +7,22 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [AT&T Mobile App Hackathon - Social Good](http://www.eventbrite.com/e/att-mobile-app-hackathon-houston-social-good-tickets-11385701941) | Houston, TX | 7.11 - 7.12 |
 | [IDEO NY Hacks: Waste](http://www.ideo.com/hackathon/nyc/) | New York, NY | 7.11 - 7.12 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | New York, NY | 7.11 - 7.13 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
 | [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Los Angeles, CA | 7.18 - 7.20 |
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
 | [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
 | [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.19 - 7.20 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
 | [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
+| [HackUWIN](http://hackuwin.com/) | Windsor, Canada | 7.25 - 7.27 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | London | 7.18 - 7.20 |
 | [Startup Weekend Mobile/Wearables Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3912) | Seattle, WA | 7.25 - 7.27 |
+| [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
 | [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
@@ -30,7 +37,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 |
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
 | [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
-| [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.3 - 10.5 |
+| [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
 | [HackSC](http://s2014-wrap.hacksc.com/) | Los Angeles, CA | 10.10 - 10.12 |
 | [Dubhacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
@@ -43,8 +50,3 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
-| [Facebook Summer of Hack](http://facebook.com/hackathon) | Seattle, WA | TBA |
-| [Facebook Summer of Hack](http://facebook.com/hackathon) | New York, NY | TBA |
-
-| Hackathon                                                | Location        | Date (2015)            |
-| :--------------------------------------------------------------: |:-------------:  | :---------------------:|
