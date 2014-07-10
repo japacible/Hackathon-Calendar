@@ -10,8 +10,10 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AT&T Mobile App Hackathon - Social Good](http://www.eventbrite.com/e/att-mobile-app-hackathon-houston-social-good-tickets-11385701941) | Houston, TX | 7.11 - 7.12 |
 | [IDEO NY Hacks: Waste](http://www.ideo.com/hackathon/nyc/) | New York, NY | 7.11 - 7.12 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | New York, NY | 7.11 - 7.13 |
+| [DataHack14](https://www.eventbrite.com/e/datahack14-tickets-11934894591) | Redwood City, CA | 7.12 - 7.13 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
 | [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
+| [Lincoln Labs Hackathon: Reboot](https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723) | San Francisco, CA | 7.18 - 7.29 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Los Angeles, CA | 7.18 - 7.20 |
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
@@ -22,11 +24,17 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackUWIN](http://hackuwin.com/) | Windsor, Canada | 7.25 - 7.27 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | London | 7.18 - 7.20 |
 | [Startup Weekend Mobile/Wearables Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3912) | Seattle, WA | 7.25 - 7.27 |
+| [Hackadoge: 24hr Dogecoin Hackathon](http://hackadoge.com) | San Francisco, CA | 7.26 - 7.27 |
+| [Meteor Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 7.26 - 7.27 |
+| [Outside Hacks](https://www.eventbrite.com/e/outside-hacks-tickets-12202940323) | San Francisco, CA | 7.26 - 7.27 |
 | [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
 | [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
+| [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
+| [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
+| [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
 | [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
 | [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
@@ -47,6 +55,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
 | [McHacks](http://mchacks.io) | Montreal, Canada | 11.7 - 11.9 |
+| [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
+| [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
