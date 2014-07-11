@@ -12,6 +12,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | New York, NY | 7.11 - 7.13 |
 | [DataHack14](https://www.eventbrite.com/e/datahack14-tickets-11934894591) | Redwood City, CA | 7.12 - 7.13 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
+| [Travel & Education Hackathon](https://www.eventbrite.com/e/travel-education-hackathon-tickets-11993939195) | Boston, MA | 7.18 - 7.19 |
 | [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
 | [Lincoln Labs Hackathon: Reboot](https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723) | San Francisco, CA | 7.18 - 7.29 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
@@ -28,7 +29,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Meteor Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 7.26 - 7.27 |
 | [Outside Hacks](https://www.eventbrite.com/e/outside-hacks-tickets-12202940323) | San Francisco, CA | 7.26 - 7.27 |
 | [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
-| [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
+| [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.8 - 8.3 |
+| [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 8.2 - 8.9 |
 | [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
 | [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
