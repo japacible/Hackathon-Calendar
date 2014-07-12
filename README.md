@@ -34,6 +34,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
 | [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
+| [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
 | [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
