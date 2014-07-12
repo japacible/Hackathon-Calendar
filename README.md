@@ -56,6 +56,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [2014 HackFest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
 | [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
+| [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
 | [McHacks](http://mchacks.io) | Montreal, Canada | 11.7 - 11.9 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
