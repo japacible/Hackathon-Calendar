@@ -24,3 +24,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [~~Startup Weekend Denver~~](http://denver.startupweekend.org) | ~~Denver, CO~~ | ~~6.27 - 6.29~~ |
 | [~~AngelHack Athens~~](http://www.angelhack.com/event/angelhackathensspring-2014/) | ~~Athens, Greece~~ | ~~6.28 - 6.29~~ |
 | [~~AngelHack Buenos Aires~~](http://www.angelhack.com/event/angelhack-buenos-aires-spring-2014/) | ~~Buenos Aires, Argentina~~ | ~~6.28 - 6.29~~ |
+| [AT&T Mobile App Hackathon - Social Good](http://www.eventbrite.com/e/att-mobile-app-hackathon-houston-social-good-tickets-11385701941) | Houston, TX | 7.11 - 7.12 |
+| [IDEO NY Hacks: Waste](http://www.ideo.com/hackathon/nyc/) | New York, NY | 7.11 - 7.12 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | New York, NY | 7.11 - 7.13 |
+| [DataHack14](https://www.eventbrite.com/e/datahack14-tickets-11934894591) | Redwood City, CA | 7.12 - 7.13 |
+| [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
