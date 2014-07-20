@@ -29,3 +29,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | New York, NY | 7.11 - 7.13 |
 | [DataHack14](https://www.eventbrite.com/e/datahack14-tickets-11934894591) | Redwood City, CA | 7.12 - 7.13 |
 | [Seattle Wearables Hackathon](http://www.meetup.com/Seattle-Hackathons/events/184601052/) | Seattle, WA | 7.12 - 7.13 |
+| [Travel & Education Hackathon](https://www.eventbrite.com/e/travel-education-hackathon-tickets-11993939195) | Boston, MA | 7.18 - 7.19 |
+| [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
+| [Lincoln Labs Hackathon: Reboot](https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723) | San Francisco, CA | 7.18 - 7.29 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Los Angeles, CA | 7.18 - 7.20 |
+| [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
+| [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
+| [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.19 - 7.20 |
+| [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
