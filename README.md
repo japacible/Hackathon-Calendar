@@ -7,15 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Travel & Education Hackathon](https://www.eventbrite.com/e/travel-education-hackathon-tickets-11993939195) | Boston, MA | 7.18 - 7.19 |
-| [AngelHack Manila](http://www.angelhack.com/event/angelhackmanilaspring-2014/) | TBD | 7.18 - 7.20 |
-| [Lincoln Labs Hackathon: Reboot](https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723) | San Francisco, CA | 7.18 - 7.29 |
-| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
-| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Los Angeles, CA | 7.18 - 7.20 |
-| [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
-| [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
-| [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.19 - 7.20 |
-| [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
 | [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
 | [HackUWIN](http://hackuwin.com/) | Windsor, Canada | 7.25 - 7.27 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | London | 7.18 - 7.20 |
