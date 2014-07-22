@@ -15,6 +15,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hackadoge: 24hr Dogecoin Hackathon](http://hackadoge.com) | San Francisco, CA | 7.26 - 7.27 |
 | [Meteor Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 7.26 - 7.27 |
 | [Outside Hacks](https://www.eventbrite.com/e/outside-hacks-tickets-12202940323) | San Francisco, CA | 7.26 - 7.27 |
+| [Palantir Performance Engineering Hackathon](https://www.eventbrite.com/e/palantir-performance-engineering-hackathon-tickets-12260757255) | Palo Alto, CA | 7.26 |
 | [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
 | [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 8.2 - 8.9 |
