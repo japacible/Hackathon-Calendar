@@ -34,7 +34,17 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Lincoln Labs Hackathon: Reboot](https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723) | San Francisco, CA | 7.18 - 7.29 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Bangalore | 7.18 - 7.20 |
 | [Salesforce Hackathon Series](http://www.summerofhacks.com/) | Los Angeles, CA | 7.18 - 7.20 |
+| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | London | 7.18 - 7.20 |
 | [AngelHack Sillicon Valley](http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/) | Redwood City, CA | 7.19 - 7.20 |
 | [Greylock Hackfest](http://greylocku.com/hackfest/) | San Francisco, CA | 7.19 - 7.20 |
 | [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.19 - 7.20 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/chicago/) | Chicago, IL | 7.19 - 7.20 |
+| [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
+| [HackUWIN](http://hackuwin.com/) | Windsor, Canada | 7.25 - 7.27 |
+| [Startup Weekend Mobile/Wearables Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3912) | Seattle, WA | 7.25 - 7.27 |
+| [BattleHack Sydney](https://2014.battlehack.org/sydney) | Sydney | 7.26 - 7.27 |
+| [Hackadoge: 24hr Dogecoin Hackathon](http://hackadoge.com) | San Francisco, CA | 7.26 - 7.27 |
+| [Meteor Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 7.26 - 7.27 |
+| [Outside Hacks](https://www.eventbrite.com/e/outside-hacks-tickets-12202940323) | San Francisco, CA | 7.26 - 7.27 |
+| [Palantir Performance Engineering Hackathon](https://www.eventbrite.com/e/palantir-performance-engineering-hackathon-tickets-12260757255) | Palo Alto, CA | 7.26 |
+| [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
