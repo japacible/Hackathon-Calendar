@@ -7,16 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [AT&T Mobile App Hackathon - Connected Car](http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 7.25 - 7.26 |
-| [HackUWIN](http://hackuwin.com/) | Windsor, Canada | 7.25 - 7.27 |
-| [Salesforce Hackathon Series](http://www.summerofhacks.com/) | London | 7.18 - 7.20 |
-| [Startup Weekend Mobile/Wearables Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3912) | Seattle, WA | 7.25 - 7.27 |
-| [BattleHack Sydney](https://2014.battlehack.org/sydney) | Sydney | 7.26 - 7.27 |
-| [Hackadoge: 24hr Dogecoin Hackathon](http://hackadoge.com) | San Francisco, CA | 7.26 - 7.27 |
-| [Meteor Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 7.26 - 7.27 |
-| [Outside Hacks](https://www.eventbrite.com/e/outside-hacks-tickets-12202940323) | San Francisco, CA | 7.26 - 7.27 |
-| [Palantir Performance Engineering Hackathon](https://www.eventbrite.com/e/palantir-performance-engineering-hackathon-tickets-12260757255) | Palo Alto, CA | 7.26 |
-| [Yo Hackathon NYC](http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843) | New York, NY | 7.26 |
 | [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 8.2 - 8.9 |
 | [Hero Hacks](http://hackathonofheroes.com/) | San Mateo, CA | 8.8 - 8.9 |
