@@ -45,6 +45,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
+| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
