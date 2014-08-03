@@ -7,7 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [YC Hacks](http://blog.ycombinator.com/yc-hacks-august-2-3-2014) | Mountain View, CA | 8.2 - 8.3 |
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 8.2 - 8.9 |
 | [Hero Hacks](http://hackathonofheroes.com/) | San Mateo, CA | 8.8 - 8.9 |
 | [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
