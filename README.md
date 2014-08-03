@@ -23,6 +23,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
 | [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
 | [Hack the North](http://hackthenorth.com/) | Waterloo, Canada | 9.19 - 9.21 |
+| [Unhackathon](http://www.unhackathon.org/) | Stony Brook, NY | 9.20 - 9.21 |
 | [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
 | [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
