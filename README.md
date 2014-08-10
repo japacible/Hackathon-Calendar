@@ -7,10 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 8.2 - 8.9 |
-| [Hero Hacks](http://hackathonofheroes.com/) | San Mateo, CA | 8.8 - 8.9 |
-| [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
-| [BattleHack Boston](https://2014.battlehack.org/boston) | Boston, MA | 8.9 - 8.10 |
 | [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Breaking Barriers Hackathon](https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693) | New York, NY | 8.16 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
