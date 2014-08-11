@@ -47,3 +47,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
+
+| Hackathon                                                | Location        | Date (2015)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [HackStanford](http://www.hackstanford.net/) | Stanford, CA | 1.9 - 1.11 |
