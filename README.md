@@ -26,6 +26,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
 | [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
+| [HackPR](http://hackpr.io/) | Mayagüez, Puerto Rico | 9.27 - 9.28 |
 | [HackUMBC](http://hackumbc.org/) | Baltimore, MD | 9.27 - 9.28 |
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 |
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
