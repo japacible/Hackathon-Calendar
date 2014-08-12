@@ -12,6 +12,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
 | [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
+| [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
 | [#neoHack14](https://www.eventbrite.com/e/neohack14-tickets-12557544955) | San Francisco, CA | 9.5 - 9.6 |
@@ -32,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
 | [HackSC](http://s2014-wrap.hacksc.com/) | Los Angeles, CA | 10.10 - 10.12 |
 | [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
+| [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
 | [Dubhacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 10.18 - 10.19 |
@@ -46,9 +48,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
+| [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [HackStanford](http://www.hackstanford.net/) | Stanford, CA | 1.9 - 1.11 |
+| [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
