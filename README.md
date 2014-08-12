@@ -14,6 +14,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
+| [#neoHack14](https://www.eventbrite.com/e/neohack14-tickets-12557544955) | San Francisco, CA | 9.5 - 9.6 |
 | [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
 | [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
 | [BattleHack Singapore](https://2014.battlehack.org/singapore) | Singapore | 9.13 - 9.14 |
