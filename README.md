@@ -33,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
 | [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
+| [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
 | [HackSC](http://s2014-wrap.hacksc.com/) | Los Angeles, CA | 10.10 - 10.12 |
 | [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
 | [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
