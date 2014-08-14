@@ -13,6 +13,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
 | [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
 | [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |
+| [Yacht Hack](http://www.yachthack.com/) | Croatia | 8.30 - 9.4 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
 | [#neoHack14](https://www.eventbrite.com/e/neohack14-tickets-12557544955) | San Francisco, CA | 9.5 - 9.6 |
@@ -44,6 +45,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
 | [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
 | [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
+| [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
@@ -52,6 +54,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
+| [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
