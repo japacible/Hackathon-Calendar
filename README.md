@@ -7,7 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Breaking Barriers Hackathon](https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693) | New York, NY | 8.16 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
@@ -47,6 +46,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
 | [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
 | [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
+| [Money20/20 Hackathon](https://www.eventbrite.com/e/money2020-hackathon-tickets-12201506033) | Las Vegas, NV | 10.31 - 11.2 |
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
