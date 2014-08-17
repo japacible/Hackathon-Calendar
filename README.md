@@ -7,7 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Breaking Barriers Hackathon](https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693) | New York, NY | 8.16 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
 | [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
 | [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |

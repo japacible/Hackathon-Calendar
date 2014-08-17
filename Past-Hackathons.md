@@ -54,3 +54,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Spartan Hackathon Prelim](http://www.hackfit.com/portfolio/spartan-hackathon-prelim/) | San Francisco, CA | 8.8 - 8.9 |
 | [BattleHack Boston](https://2014.battlehack.org/boston) | Boston, MA | 8.9 - 8.10 |
 | [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
+| [Breaking Barriers Hackathon](https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693) | New York, NY | 8.16 |
