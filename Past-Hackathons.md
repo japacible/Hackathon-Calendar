@@ -55,3 +55,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [BattleHack Boston](https://2014.battlehack.org/boston) | Boston, MA | 8.9 - 8.10 |
 | [Shirts.io Hackathon](https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823) | San Francisco, CA | 8.15 - 8.17 |
 | [Breaking Barriers Hackathon](https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693) | New York, NY | 8.16 |
+| [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
+| [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
+| [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
+| [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |

@@ -7,10 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 8.22 - 8.24 |
-| [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
-| [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
-| [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |
 | [GeauxHack](http://geauxhack.com/) | Baton Rouge, LA | 8.30 - 8.31 |
 | [Yacht Hack](http://www.yachthack.com/) | Croatia | 8.30 - 9.4 |
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
