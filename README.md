@@ -58,6 +58,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
+| [CodeDay Fall](http://codeday.org/) | Multiple | 11.8 - 11.9 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
