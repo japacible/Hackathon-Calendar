@@ -16,6 +16,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
 | [#hack4good](http://hack4good.io/) | Multiple Cities | 9.12 - 9.14 |
 | [HackISU](http://hackisu.com/) | Ames, IA | 9.12 - 9.14 |
+| [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
 | [BattleHack Singapore](https://2014.battlehack.org/singapore) | Singapore | 9.13 - 9.14 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
 | [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
