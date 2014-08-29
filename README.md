@@ -39,7 +39,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackSC](http://s2014-wrap.hacksc.com/) | Los Angeles, CA | 10.10 - 10.12 |
 | [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
 | [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
-| [Dubhacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
+| [DubHacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 10.18 - 10.19 |
 | [LeadingAge Hackfest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
