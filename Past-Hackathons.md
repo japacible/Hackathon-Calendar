@@ -59,3 +59,5 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Youbetme Hackathon](https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657) | Seattle, WA | 8.22 - 8.23 |
 | [Hackathon 4: Pirates of Silicon Harbor](http://hackathon.sparcedge.com/) | Charleston, SC | 8.23 - 8.24 |
 | [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |
+| [GeauxHack](http://geauxhack.com/) | Baton Rouge, LA | 8.30 - 8.31 |
+| [Yacht Hack](http://www.yachthack.com/) | Croatia | 8.30 - 9.4 |
