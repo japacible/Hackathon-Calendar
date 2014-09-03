@@ -31,6 +31,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 |
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
 | [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
+| [OHI/O](https://www.ohiohackathon.org/) | Columbus, OH | 10.3 - 10.5 |
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
 | [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
 | [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
