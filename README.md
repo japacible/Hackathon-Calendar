@@ -24,6 +24,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
 | [IrishHacks](http://irishhacks.com/) | South Bend, IN | 9.26 - 9.28 |
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
+| [WearHacks 2014](http://wearhacks.com/) | Montreal, Canada | 9.26 - 9.27 |
 | [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
 | [HackPR](http://hackpr.io/) | Mayagüez, Puerto Rico | 9.27 - 9.28 |
 | [HackUMBC](http://hackumbc.org/) | Baltimore, MD | 9.27 - 9.28 |
