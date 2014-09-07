@@ -9,6 +9,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [ProLiteracy Hackathon](http://www.proliteracy.org/literacyhackathon) | Syracuse, NY | 9.13 - 9.14 |
 | [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
+| [AEC Hackathon Seattle](http://aechackathon.com/seattle.html) | Seattle, WA | 9.12 - 9.14 |
+| [AT&T Mobile App Hackathon - Connected Car](https://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 9.12 - 9.13 |
 | [#hack4good](http://hack4good.io/) | Multiple Cities | 9.12 - 9.14 |
 | [HackISU](http://hackisu.com/) | Ames, IA | 9.12 - 9.14 |
 | [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
@@ -16,6 +18,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
 | [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
 | [Hack the North](http://hackthenorth.com/) | Waterloo, Canada | 9.19 - 9.21 |
+| [Startup Weekend Seattle Women](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Kirkland, WA | 9.19 - 9.21 |
 | [Unhackathon](http://www.unhackathon.org/) | Stony Brook, NY | 9.20 - 9.21 |
 | [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
 | [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
@@ -30,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
 | [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
 | [OHI/O](https://www.ohiohackathon.org/) | Columbus, OH | 10.3 - 10.5 |
+| [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 10.3 - 10.5 |
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
 | [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
 | [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
@@ -45,6 +49,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
 | [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
+| [Startup Weekend Bellevue](http://bellevue.startupweekend.org/) | Bellevue, WA | 10.24 - 10.26 |
 | [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
 | [Childish Gambino Hackathon](http://www.eventbrite.com/e/childish-gambino-hackathon-tickets-12760012541) | Los Angeles, CA | 10.25 |
 | [HackNC](http://hacknc.us/) | Chapel Hill, NC | 10.25 - 10.26 |
