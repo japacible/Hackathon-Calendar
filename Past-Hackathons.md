@@ -61,3 +61,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [ProtoHack San Francisco](http://protohack.org/san-francisco-august-23-2014/) | San Francisco, CA | 8.23 |
 | [GeauxHack](http://geauxhack.com/) | Baton Rouge, LA | 8.30 - 8.31 |
 | [Yacht Hack](http://www.yachthack.com/) | Croatia | 8.30 - 9.4 |
+| [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
+| [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
+| [#neoHack14](https://www.eventbrite.com/e/neohack14-tickets-12557544955) | San Francisco, CA | 9.5 - 9.6 |
