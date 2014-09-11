@@ -7,7 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [ProLiteracy Hackathon](http://www.proliteracy.org/literacyhackathon) | Syracuse, NY | 9.13 - 9.14 |
 | [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
 | [AEC Hackathon Seattle](http://aechackathon.com/seattle.html) | Seattle, WA | 9.12 - 9.14 |
 | [AT&T Mobile App Hackathon - Connected Car](https://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 9.12 - 9.13 |
@@ -15,6 +14,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackISU](http://hackisu.com/) | Ames, IA | 9.12 - 9.14 |
 | [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
 | [BattleHack Singapore](https://2014.battlehack.org/singapore) | Singapore | 9.13 - 9.14 |
+| [ProLiteracy Hackathon](http://www.proliteracy.org/literacyhackathon) | Syracuse, NY | 9.13 - 9.14 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
 | [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
 | [Hack the North](http://hackthenorth.com/) | Waterloo, Canada | 9.19 - 9.21 |
