@@ -20,6 +20,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack the North](http://hackthenorth.com/) | Waterloo, Canada | 9.19 - 9.21 |
 | [Startup Weekend Seattle Women](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Kirkland, WA | 9.19 - 9.21 |
 | [Unhackathon](http://www.unhackathon.org/) | Stony Brook, NY | 9.20 - 9.21 |
+| [Westfield Fashion Hackathon](http://westfield.decodedfashion.com/) | London, UK | 9.20 - 9.21 |
 | [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
 | [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
 | [IrishHacks](http://irishhacks.com/) | South Bend, IN | 9.26 - 9.28 |
@@ -35,6 +36,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [OHI/O](https://www.ohiohackathon.org/) | Columbus, OH | 10.3 - 10.5 |
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 10.3 - 10.5 |
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
+| [jacobsHack!](https://jacobshack.com/) | Bremen, Germany | 10.4 - 10.5 |
 | [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
 | [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
 | [HackSC](http://s2014-wrap.hacksc.com/) | Los Angeles, CA | 10.10 - 10.12 |
