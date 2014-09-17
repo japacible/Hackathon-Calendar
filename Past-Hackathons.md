@@ -64,3 +64,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HopHacks](http://hophacks.com/) | Baltimore, MD | 9.5 - 9.7 |
 | [MHacks](http://www.mhacks.org) | Ann Arbor, MI | 9.5 - 9.7 |
 | [#neoHack14](https://www.eventbrite.com/e/neohack14-tickets-12557544955) | San Francisco, CA | 9.5 - 9.6 |
+| [HackTheHearst 2014](https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631) | Berkeley, CA | 9.10 - 9.21 |
+| [AEC Hackathon Seattle](http://aechackathon.com/seattle.html) | Seattle, WA | 9.12 - 9.14 |
+| [AT&T Mobile App Hackathon - Connected Car](https://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601) | Seattle, WA | 9.12 - 9.13 |
+| [#hack4good](http://hack4good.io/) | Multiple Cities | 9.12 - 9.14 |
+| [HackISU](http://hackisu.com/) | Ames, IA | 9.12 - 9.14 |
+| [PennApps X](http://2014f.pennapps.com/) | Philadelphia, PA | 9.12 - 9.14 |
+| [BattleHack Singapore](https://2014.battlehack.org/singapore) | Singapore | 9.13 - 9.14 |
+| [ProLiteracy Hackathon](http://www.proliteracy.org/literacyhackathon) | Syracuse, NY | 9.13 - 9.14 |
+| [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
