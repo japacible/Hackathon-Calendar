@@ -1,7 +1,7 @@
 Upcoming Hackathons
 =====================
 
-This repo tracks upcoming hackathons. To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request.
+This repo tracks upcoming hackathons. To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. Keep hackathons organized by start date and then alphabetically.
 
 Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
 
@@ -24,6 +24,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
 | [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
 | [IrishHacks](http://irishhacks.com/) | South Bend, IN | 9.26 - 9.28 |
+| [SpeedHack](www.apistrategyconference.com/2014Chicago/speed_hack_challenge.php) | Chicago, IL | 9.26 |
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
 | [WearHacks 2014](http://wearhacks.com/) | Montreal, Canada | 9.26 - 9.27 |
 | [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
@@ -65,6 +66,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
 | [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
+| [Startup Weekend Seattle Latino](http://www.up.co/communities/usa/seattle/startup-weekend/4130) | Seattle, WA | 11.14 - 11.16 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
