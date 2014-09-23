@@ -16,6 +16,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
 | [IrishHacks](http://irishhacks.com/) | South Bend, IN | 9.26 - 9.28 |
 | [SpeedHack](www.apistrategyconference.com/2014Chicago/speed_hack_challenge.php) | Chicago, IL | 9.26 |
+| [Startup Weekend Central District](http://www.up.co/communities/usa/seattle/startup-weekend/4339) | Seattle, WA | 9.26 - 9.28 |
 | [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
 | [WearHacks 2014](http://wearhacks.com/) | Montreal, Canada | 9.26 - 9.27 |
 | [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
@@ -31,6 +32,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [jacobsHack!](https://jacobshack.com/) | Bremen, Germany | 10.4 - 10.5 |
 | [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
 | [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
+| [Startup Weekend Legal Tech](http://www.up.co/communities/usa/seattle/startup-weekend/4218) | Seattle, WA | 10.10 - 10.12 |
 | [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
 | [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
 | [DubHacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
@@ -61,6 +63,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
+| [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
 | [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
