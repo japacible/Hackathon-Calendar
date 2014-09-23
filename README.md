@@ -30,6 +30,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 10.3 - 10.5 |
 | [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
 | [jacobsHack!](https://jacobshack.com/) | Bremen, Germany | 10.4 - 10.5 |
+| [LA Open Source Hackthon](http://www.eventbrite.com/e/la-open-source-hackathon-2014-tickets-12681774529) | Los Angeles, CA | 10.4 |
 | [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
 | [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
 | [Startup Weekend Legal Tech](http://www.up.co/communities/usa/seattle/startup-weekend/4218) | Seattle, WA | 10.10 - 10.12 |
