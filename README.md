@@ -23,6 +23,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackPR](http://hackpr.io/) | Mayagüez, Puerto Rico | 9.27 - 9.28 |
 | [HackUMBC](http://hackumbc.org/) | Baltimore, MD | 9.27 - 9.28 |
 | [LexHack](http://lexhack.org/) | Lexington, MA | 9.27 |
+| [Silicon Chef 2014 - Hardware Hackathon](http://www.eventbrite.com/e/silicon-chef-2014-hardware-hackathon-by-hackbright-academy-tickets-12454627125) | San Francisco, CA | 10.27 - 10.28 |
 | [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 |
 | [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
 | [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
