@@ -56,6 +56,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
 | [HackCC](http://www.hackcc.org) | Santa Monica, CA | 11.7 - 11.9 |
 | [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
+| [McHacks](http://mchacks.io/) | Montreal, Canada | 11.7 - 11.9 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
 | [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
