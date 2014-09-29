@@ -73,3 +73,20 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [BattleHack Singapore](https://2014.battlehack.org/singapore) | Singapore | 9.13 - 9.14 |
 | [ProLiteracy Hackathon](http://www.proliteracy.org/literacyhackathon) | Syracuse, NY | 9.13 - 9.14 |
 | [SmallBizDev Hackathon](http://smallbizdevhackathon.com/event/new-york/) | New York, NY | 9.13 - 9.14 |
+| [HackGT](http://www.hackgt.com) | Atlanta, GA | 9.19 - 9.21 |
+| [Hack the North](http://hackthenorth.com/) | Waterloo, Canada | 9.19 - 9.21 |
+| [Startup Weekend Seattle Women](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Kirkland, WA | 9.19 - 9.21 |
+| [Unhackathon](http://www.unhackathon.org/) | Stony Brook, NY | 9.20 - 9.21 |
+| [Westfield Fashion Hackathon](http://westfield.decodedfashion.com/) | London, UK | 9.20 - 9.21 |
+| [Big Red Hacks](http://bigredhacks.com/) | Ithaca, NY | 9.26 - 9.28 |
+| [Design & Hack](http://designandhack.org/) | New York City, NY | 9.26 - 9.28 |
+| [IrishHacks](http://irishhacks.com/) | South Bend, IN | 9.26 - 9.28 |
+| [SpeedHack](www.apistrategyconference.com/2014Chicago/speed_hack_challenge.php) | Chicago, IL | 9.26 |
+| [Startup Weekend Central District](http://www.up.co/communities/usa/seattle/startup-weekend/4339) | Seattle, WA | 9.26 - 9.28 |
+| [Startup Weekend Women Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/3658) | Seattle, WA | 9.26 - 9.28 |
+| [WearHacks 2014](http://wearhacks.com/) | Montreal, Canada | 9.26 - 9.27 |
+| [BattleHack Mexico City](https://2014.battlehack.org/mexico_city) | Mexico City | 9.27 - 9.28 |
+| [HackPR](http://hackpr.io/) | Mayagüez, Puerto Rico | 9.27 - 9.28 |
+| [HackUMBC](http://hackumbc.org/) | Baltimore, MD | 9.27 - 9.28 |
+| [LexHack](http://lexhack.org/) | Lexington, MA | 9.27 |
+| [Silicon Chef 2014 - Hardware Hackathon](http://www.eventbrite.com/e/silicon-chef-2014-hardware-hackathon-by-hackbright-academy-tickets-12454627125) | San Francisco, CA | 9.27 - 9.28 |
