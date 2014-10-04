@@ -27,6 +27,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Mission2Mars Female Hackathon](http://m2mars.ticketleap.com/mission-to-mars-female-hackathon) | San Francisco, CA | 10.18 - 10.19 |
 | [2014 HackFest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
 | [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
+| [Hack the Gender Gap at WVU](http://www.eventbrite.com/e/hack-the-gender-gap-at-wvu-registration-12678488701) | Morgantown, WV | 10.24 - 10.26 |
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
 | [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
 | [Startup Weekend Bellevue](http://bellevue.startupweekend.org/) | Bellevue, WA | 10.24 - 10.26 |
