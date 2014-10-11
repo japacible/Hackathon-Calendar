@@ -52,6 +52,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
 | [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
+| [THacks](http://thacks.org/) | Beijing, China | 11.22 - 11.23 |
 | [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
