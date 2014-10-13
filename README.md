@@ -7,19 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [AT&T Mobile App Hackathon Seattle - Women in Tech](https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379) | Seattle, WA | 10.3 - 10.4 |
-| [CalHacks](http://www.calhacks.io/) | Berkeley, CA | 10.3 - 10.5 |
-| [HackMizzou](http://2014.hackmizzou.com/) | Columbia, MO | 10.3 - 10.5 |
-| [OHI/O](https://www.ohiohackathon.org/) | Columbus, OH | 10.3 - 10.5 |
-| [Startup Weekend Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4001) | Seattle, WA | 10.3 - 10.5 |
-| [HackMIT](http://www.hackmit.org/) | Cambridge, MA | 10.4 - 10.5 |
-| [jacobsHack!](https://jacobshack.com/) | Bremen, Germany | 10.4 - 10.5 |
-| [LA Open Source Hackthon](http://www.eventbrite.com/e/la-open-source-hackathon-2014-tickets-12681774529) | Los Angeles, CA | 10.4 |
-| [Launch Hack](http://launch.mlh.io/) | London | 10.4 - 10.5 |
-| [Fundhack](http://fundhack.com/) | Irvine, CA | 10.10 - 10.12 |
-| [Startup Weekend Legal Tech](http://www.up.co/communities/usa/seattle/startup-weekend/4218) | Seattle, WA | 10.10 - 10.12 |
-| [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
-| [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
 | [DubHacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 10.18 - 10.19 |
