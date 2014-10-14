@@ -36,6 +36,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [Startup Weekend Seattle Latino](http://www.up.co/communities/usa/seattle/startup-weekend/4130) | Seattle, WA | 11.14 - 11.16 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
+| [Bayes Impact Hackathon](http://www.bayesimpact.org/hack) | San Francisco, CA | 11.15 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
