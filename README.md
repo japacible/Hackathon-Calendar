@@ -35,7 +35,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [Startup Weekend Seattle Latino](http://www.up.co/communities/usa/seattle/startup-weekend/4130) | Seattle, WA | 11.14 - 11.16 |
-| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 11.14 - 11.16 |
 | [Bayes Impact Hackathon](http://www.bayesimpact.org/hack) | San Francisco, CA | 11.15 - 11.16 |
 | [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
@@ -54,6 +53,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
+| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.22 - 2.23 |
 | [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
