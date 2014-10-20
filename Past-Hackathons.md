@@ -103,3 +103,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Startup Weekend Legal Tech](http://www.up.co/communities/usa/seattle/startup-weekend/4218) | Seattle, WA | 10.10 - 10.12 |
 | [BattleHack London](https://2014.battlehack.org/london) | London | 10.11 - 10.12 |
 | [ProtoHack Los Angeles](http://protohack.org/los-angeles-october-11-2014/) | Los Angeles, CA | 10.11 |
+| [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
+| [DubHacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
+| [HackTX](http://hacktx.com/) | Austin, TX | 10.18 - 10.19 |
+| [LeadingAge Hackfest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
+| [Mission2Mars Female Hackathon](http://m2mars.ticketleap.com/mission-to-mars-female-hackathon) | San Francisco, CA | 10.18 - 10.19 |
+| [2014 HackFest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |

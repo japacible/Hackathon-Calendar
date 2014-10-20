@@ -7,12 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [DubHacks](http://dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
-| [BoilerMake](http://boilermake.org) | West Lafayette, IN | 10.17 - 10.19 |
-| [HackTX](http://hacktx.com/) | Austin, TX | 10.18 - 10.19 |
-| [LeadingAge Hackfest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
-| [Mission2Mars Female Hackathon](http://m2mars.ticketleap.com/mission-to-mars-female-hackathon) | San Francisco, CA | 10.18 - 10.19 |
-| [2014 HackFest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
 | [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
 | [Hack the Gender Gap at WVU](http://www.eventbrite.com/e/hack-the-gender-gap-at-wvu-registration-12678488701) | Morgantown, WV | 10.24 - 10.26 |
 | [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
