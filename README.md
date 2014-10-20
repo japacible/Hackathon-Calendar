@@ -21,6 +21,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
 | [Childish Gambino Hackathon](http://www.eventbrite.com/e/childish-gambino-hackathon-tickets-12760012541) | Los Angeles, CA | 10.25 |
 | [HackNC](http://hacknc.us/) | Chapel Hill, NC | 10.25 - 10.26 |
+| [Product Hunt Hackathon](https://www.eventbrite.com/e/product-hunt-hackathon-tickets-13715061117) | Mountain View, CA | 10.25 - 10.26 |
 | [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
 | [Money20/20 Hackathon](https://www.eventbrite.com/e/money2020-hackathon-tickets-12201506033) | Las Vegas, NV | 10.31 - 11.2 |
 | [StudentHack](http://www.studenthack.com/) | Manchester, UK | 10.31 - 11.2 |
