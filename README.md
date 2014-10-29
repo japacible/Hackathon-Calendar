@@ -7,16 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
-| [Hack the Gender Gap at WVU](http://www.eventbrite.com/e/hack-the-gender-gap-at-wvu-registration-12678488701) | Morgantown, WV | 10.24 - 10.26 |
-| [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
-| [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
-| [Startup Weekend Bellevue](http://bellevue.startupweekend.org/) | Bellevue, WA | 10.24 - 10.26 |
-| [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
-| [Childish Gambino Hackathon](http://www.eventbrite.com/e/childish-gambino-hackathon-tickets-12760012541) | Los Angeles, CA | 10.25 |
-| [HackNC](http://hacknc.us/) | Chapel Hill, NC | 10.25 - 10.26 |
-| [Product Hunt Hackathon](https://www.eventbrite.com/e/product-hunt-hackathon-tickets-13715061117) | Mountain View, CA | 10.25 - 10.26 |
-| [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
 | [Money20/20 Hackathon](https://www.eventbrite.com/e/money2020-hackathon-tickets-12201506033) | Las Vegas, NV | 10.31 - 11.2 |
 | [StudentHack](http://www.studenthack.com/) | Manchester, UK | 10.31 - 11.2 |
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |

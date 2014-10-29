@@ -109,3 +109,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [LeadingAge Hackfest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
 | [Mission2Mars Female Hackathon](http://m2mars.ticketleap.com/mission-to-mars-female-hackathon) | San Francisco, CA | 10.18 - 10.19 |
 | [2014 HackFest](http://www.leadingagehackfest.org/) | Nashville, TN | 10.18 - 10.20 |
+| [Hack RU](http://www.hackru.org/) | Piscataway Township, NJ | 10.24 - 10.26 |
+| [Hack the Gender Gap at WVU](http://www.eventbrite.com/e/hack-the-gender-gap-at-wvu-registration-12678488701) | Morgantown, WV | 10.24 - 10.26 |
+| [Kent Hack Enough](http://hacksu.cs.kent.edu/khe2014) | Kent, OH | 10.24 - 10.26 |
+| [TAMUHack](http://www.tamuhack.com) | College Station, TX | 10.24 - 10.25 |
+| [Startup Weekend Bellevue](http://bellevue.startupweekend.org/) | Bellevue, WA | 10.24 - 10.26 |
+| [BattleHack Moscow](https://2014.battlehack.org/moscow) | Moscow | 10.25 - 10.26 |
+| [Childish Gambino Hackathon](http://www.eventbrite.com/e/childish-gambino-hackathon-tickets-12760012541) | Los Angeles, CA | 10.25 |
+| [HackNC](http://hacknc.us/) | Chapel Hill, NC | 10.25 - 10.26 |
+| [Product Hunt Hackathon](https://www.eventbrite.com/e/product-hunt-hackathon-tickets-13715061117) | Mountain View, CA | 10.25 - 10.26 |
+| [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
