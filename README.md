@@ -46,9 +46,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [HackStanford](http://www.hackstanford.net/) | Stanford, CA | 1.9 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
+| [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
-| [PennApps XI](http://2014s.pennapps.com/) | Philadelphia, PA | 2.14 - 2.16 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.22 - 2.23 |
 | [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
