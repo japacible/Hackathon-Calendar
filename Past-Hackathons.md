@@ -119,3 +119,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackNC](http://hacknc.us/) | Chapel Hill, NC | 10.25 - 10.26 |
 | [Product Hunt Hackathon](https://www.eventbrite.com/e/product-hunt-hackathon-tickets-13715061117) | Mountain View, CA | 10.25 - 10.26 |
 | [TeenHacks](http://teenhacks.org/) | Fullerton, CA | 10.25 - 10.26 |
+| [Money20/20 Hackathon](https://www.eventbrite.com/e/money2020-hackathon-tickets-12201506033) | Las Vegas, NV | 10.31 - 11.2 |
+| [StudentHack](http://www.studenthack.com/) | Manchester, UK | 10.31 - 11.2 |
+| [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
+| [Bay BitHack 2014](http://baybithack.com/) | Berkeley, CA | 11.1 - 11.2 |
+| [Haunted Hackathon at Spotify](https://www.eventbrite.com/e/haunted-hackathon-at-spotify-tickets-13663444731) | New York, NY | 11.1 |
