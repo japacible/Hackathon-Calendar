@@ -52,6 +52,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.22 - 2.23 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
+| [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
+| [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.11 - 4.13 |
