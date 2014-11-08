@@ -16,11 +16,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackHolyoke](https://www.mtholyoke.edu/org/compsci/hackholyoke/) | South Hadley, MA | 11.7 - 11.8 | 
 | [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 11.7 - 11.9 |
+| [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
 | [HackNe](http://hackne.com/) | Newcastle upon Tyne, UK | 11.8 - 11.9 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
-| [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
 | [DevelopHer Hackday 2014](http://hackday.linkedin.com/developher/2014.html) | Sunnyvale, CA | 11.14 - 11.15 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [My Brother's Keeper Hackathon](http://www.mbkhack.com/) | Philadelphia, PA | 11.14 - 11.16 |
@@ -51,7 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.22 - 2.23 |
-| [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
+| [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.11 - 4.13 |
