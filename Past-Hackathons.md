@@ -124,3 +124,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [YHack 2014](http://www.yhack.org/) | New Haven, CT | 10.31 - 11.2 |
 | [Bay BitHack 2014](http://baybithack.com/) | Berkeley, CA | 11.1 - 11.2 |
 | [Haunted Hackathon at Spotify](https://www.eventbrite.com/e/haunted-hackathon-at-spotify-tickets-13663444731) | New York, NY | 11.1 |
+| [HackCC](http://www.hackcc.org) | Santa Monica, CA | 11.7 - 11.9 |
+| [HackHolyoke](https://www.mtholyoke.edu/org/compsci/hackholyoke/) | South Hadley, MA | 11.7 - 11.8 | 
+| [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
+| [McHacks](http://mchacks.io/) | Montreal, Canada | 11.7 - 11.9 |
+| [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
+| [HackNe](http://hackne.com/) | Newcastle upon Tyne, UK | 11.8 - 11.9 |
+| [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
+| [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
+| [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |

@@ -7,15 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackCC](http://www.hackcc.org) | Santa Monica, CA | 11.7 - 11.9 |
-| [HackHolyoke](https://www.mtholyoke.edu/org/compsci/hackholyoke/) | South Hadley, MA | 11.7 - 11.8 | 
-| [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
-| [McHacks](http://mchacks.io/) | Montreal, Canada | 11.7 - 11.9 |
-| [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
-| [HackNe](http://hackne.com/) | Newcastle upon Tyne, UK | 11.8 - 11.9 |
-| [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
-| [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
-| [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
 | [DevelopHer Hackday 2014](http://hackday.linkedin.com/developher/2014.html) | Sunnyvale, CA | 11.14 - 11.15 |
 | [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
 | [My Brother's Keeper Hackathon](http://www.mbkhack.com/) | Philadelphia, PA | 11.14 - 11.16 |
@@ -31,6 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
 | [THacks](http://thacks.org/) | Beijing, China | 11.22 - 11.23 |
 | [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
+| [HACKAGONG](http://hackagong.com/) | Wollongong, Australia | 11.29 - 11.30 |
 | [OxHACK 2014](http://oxhack.co.uk/) | Oxford, UK | 11.29 - 11.30 |
 | [Local Hack Day](http://localhackday.mlh.io/) | Multiple Cities | 12.6 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
