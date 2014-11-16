@@ -7,17 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [DevelopHer Hackday 2014](http://hackday.linkedin.com/developher/2014.html) | Sunnyvale, CA | 11.14 - 11.15 |
-| [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
-| [My Brother's Keeper Hackathon](http://www.mbkhack.com/) | Philadelphia, PA | 11.14 - 11.16 |
-| [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 11.14 - 11.16 |
-| [Startup Weekend Seattle Latino](http://www.up.co/communities/usa/seattle/startup-weekend/4130) | Seattle, WA | 11.14 - 11.16 |
-| [Bayes Impact Hackathon](http://www.bayesimpact.org/hack) | San Francisco, CA | 11.15 - 11.16 |
-| [HackDuke](http://www.hackduke.com/) | Durham, NC | 11.15 - 11.16 |
-| [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
-| [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
-| [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
-| [WarwickHack](http://techsoc.uwcs.co.uk/hack) | Coventry, UK | 11.15 - 11.16 |
 | [HackaSoton Global](http://global.hackasoton.com/) | Southampton, UK | 11.21 - 11.23 |
 | [Hacktion 4 Ebola](http://hacktion4ebola.com/) | San Francisco, CA | 11.21 - 11.23 |
 | [McDonald's Hackathon](http://mcdonaldshackathon.bemyapp.com/) | London, UK | 11.21 - 11.23 |

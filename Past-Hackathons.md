@@ -133,3 +133,14 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [Monta Vista Hacks](https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605) | Cupertino, CA | 11.8 - 11.10 |
 | [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 11.8 - 11.9 |
+| [DevelopHer Hackday 2014](http://hackday.linkedin.com/developher/2014.html) | Sunnyvale, CA | 11.14 - 11.15 |
+| [HackPrinceton](http://hackprinceton.com/) | Princeton, NJ | 11.14 - 11.16 |
+| [My Brother's Keeper Hackathon](http://www.mbkhack.com/) | Philadelphia, PA | 11.14 - 11.16 |
+| [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 11.14 - 11.16 |
+| [Startup Weekend Seattle Latino](http://www.up.co/communities/usa/seattle/startup-weekend/4130) | Seattle, WA | 11.14 - 11.16 |
+| [Bayes Impact Hackathon](http://www.bayesimpact.org/hack) | San Francisco, CA | 11.15 - 11.16 |
+| [HackDuke](http://www.hackduke.com/) | Durham, NC | 11.15 - 11.16 |
+| [HackRPI](http://hack.rpi.edu/) | Troy, NY | 11.15 - 11.16 |
+| [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
+| [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
+| [WarwickHack](http://techsoc.uwcs.co.uk/hack) | Coventry, UK | 11.15 - 11.16 |
