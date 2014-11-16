@@ -18,6 +18,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
 | [WarwickHack](http://techsoc.uwcs.co.uk/hack) | Coventry, UK | 11.15 - 11.16 |
+| [HackaSoton Global](http://global.hackasoton.com/) | Southampton, UK | 11.21 - 11.23 |
 | [Hacktion 4 Ebola](http://hacktion4ebola.com/) | San Francisco, CA | 11.21 - 11.23 |
 | [McDonald's Hackathon](http://mcdonaldshackathon.bemyapp.com/) | London, UK | 11.21 - 11.23 |
 | [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
@@ -35,13 +36,19 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [HackStanford](http://www.hackstanford.net/) | Stanford, CA | 1.9 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
+| [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
+| [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
+| [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
+| [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.22 - 2.23 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
+| [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
+| [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
 | [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
