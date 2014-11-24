@@ -23,6 +23,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/austin-january-10-2015/) | Austin, TX | 1.10 |
 | [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
