@@ -20,6 +20,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
 | [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
+| [hackTBILISI](http://hacktbilisi.com) | Tbilisi, Georgia | 12.19 - 12.21 |
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
