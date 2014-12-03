@@ -22,7 +22,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
 | [hackTBILISI](http://hacktbilisi.com) | Tbilisi, Georgia | 12.19 - 12.21 |
 
-
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
