@@ -42,4 +42,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackDuke](http://www.hackduke.com/) | Durham, NC | 3.29 - 3.30 |
 | [HackPSU](http://www.hackpsu.com/) | University Park, PA | 4.4 - 4.6 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 4.11 - 4.13 |
+| [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.11 - 4.13 |
