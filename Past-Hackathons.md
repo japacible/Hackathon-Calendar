@@ -144,3 +144,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackShanghai / hack(上海)](http://www.hackshanghai.com/) | Shanghai, China | 11.15 - 11.16 |
 | [ProtoHack New York](http://protohack.org/new-york-november-15-2014/) | New York, NY | 11.15 |
 | [WarwickHack](http://techsoc.uwcs.co.uk/hack) | Coventry, UK | 11.15 - 11.16 |
+| [HackaSoton Global](http://global.hackasoton.com/) | Southampton, UK | 11.21 - 11.23 |
+| [Hacktion 4 Ebola](http://hacktion4ebola.com/) | San Francisco, CA | 11.21 - 11.23 |
+| [McDonald's Hackathon](http://mcdonaldshackathon.bemyapp.com/) | London, UK | 11.21 - 11.23 |
+| [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
+| [THacks](http://thacks.org/) | Beijing, China | 11.22 - 11.23 |
+| [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
+| [Yo Hackathon](https://www.eventbrite.com/e/24-hr-yo-hackathon-at-yo-headquarters-in-sf-tickets-13686186753) | San Francisco, CA | 11.22 - 11.23 |
+| [HACKAGONG](http://hackagong.com/) | Wollongong, Australia | 11.29 - 11.30 |
+| [OxHACK 2014](http://oxhack.co.uk/) | Oxford, UK | 11.29 - 11.30 |
+| [Local Hack Day](http://localhackday.mlh.io/) | Multiple Cities | 12.6 |

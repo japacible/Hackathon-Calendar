@@ -7,16 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2014)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackaSoton Global](http://global.hackasoton.com/) | Southampton, UK | 11.21 - 11.23 |
-| [Hacktion 4 Ebola](http://hacktion4ebola.com/) | San Francisco, CA | 11.21 - 11.23 |
-| [McDonald's Hackathon](http://mcdonaldshackathon.bemyapp.com/) | London, UK | 11.21 - 11.23 |
-| [Startup Weekend EDU Seattle](http://www.up.co/communities/usa/seattle/startup-weekend/4531) | Seattle, WA | 11.21 - 11.23 |
-| [THacks](http://thacks.org/) | Beijing, China | 11.22 - 11.23 |
-| [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
-| [Yo Hackathon](https://www.eventbrite.com/e/24-hr-yo-hackathon-at-yo-headquarters-in-sf-tickets-13686186753) | San Francisco, CA | 11.22 - 11.23 |
-| [HACKAGONG](http://hackagong.com/) | Wollongong, Australia | 11.29 - 11.30 |
-| [OxHACK 2014](http://oxhack.co.uk/) | Oxford, UK | 11.29 - 11.30 |
-| [Local Hack Day](http://localhackday.mlh.io/) | Multiple Cities | 12.6 |
 | [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
 | [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
