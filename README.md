@@ -11,6 +11,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackPoly](http://hackpoly.com) | Pomona, CA | 12.12 - 12.14 |
 | [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
 | [hackTBILISI](http://hacktbilisi.com) | Tbilisi, Georgia | 12.19 - 12.21 |
+| [Seattle Police Hackathon 2014](http://www.eventbrite.com/e/seattle-police-hackathon-2014-tickets-14818202643) | Seattle, WA | 12.19 |
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
