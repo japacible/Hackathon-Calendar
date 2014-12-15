@@ -49,6 +49,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.5 - 4.6 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
+| [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
 | [Owlhacks](http://www.owlhacks.com/) | Philadelphia, PA | 4.17 - 4.19 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
 | [Hacking Journalism](http://hackingjournalism.com/) | Boston, MA | 6.7 - 6.8 |
