@@ -5,13 +5,6 @@ This repo tracks upcoming hackathons. To add a hackathon to this list, please su
 
 Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
 
-| Hackathon                                                | Location        | Date (2014)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
-| [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safe2ty-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
-| [HackDC](http://hackdc.org/) | Washington DC | 12.13 - 12.14 |
-| [hackTBILISI](http://hacktbilisi.com) | Tbilisi, Georgia | 12.19 - 12.21 |
-| [Seattle Police Hackathon 2014](http://www.eventbrite.com/e/seattle-police-hackathon-2014-tickets-14818202643) | Seattle, WA | 12.19 |
-
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
