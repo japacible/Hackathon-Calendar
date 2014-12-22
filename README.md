@@ -46,8 +46,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
-| [HackUMass](http://hackumass.com/) | Amherst, MA | 4.5 - 4.6 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
+| [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
 | [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
 | [Owlhacks](http://www.owlhacks.com/) | Philadelphia, PA | 4.17 - 4.19 |
