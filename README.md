@@ -20,9 +20,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackSI](http://www.hacksi.me/) | Carbondale, IL | 1.30 - 2.1 |
 | [MedStart](http://tuftsmedstart.com/) | Boston, MA | 1.30 - 2.1 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
+| [She Innovates](http://cs.pitt.edu/events/other/2154/event.php?id=578) | Pittsburgh, PA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
 | [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
+| [TartanHacks](http://tartanhacks.com/) | Pittsburgh, PA | 2.6 - 2.7 |
 | [VTHacks](http://vthacks.com/) | Blacksburg, VA | 2.6 - 2.8 |
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
