@@ -154,3 +154,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HACKAGONG](http://hackagong.com/) | Wollongong, Australia | 11.29 - 11.30 |
 | [OxHACK 2014](http://oxhack.co.uk/) | Oxford, UK | 11.29 - 11.30 |
 | [Local Hack Day](http://localhackday.mlh.io/) | Multiple Cities | 12.6 |
+| [AT&T Mobile App Hackathon Bay Area - Public Safety](https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207) | Palo Alto, CA | 12.12 - 12.13 |
+| [HackDC](http://www.dchacks.org/) | Washington, DC | 12.13 - 12.14 |
+| [hackTBILISI](http://hacktbilisi.com/) | Tbilisi, GA | 12.19 - 12.21 |
+| [Seattle Police Hackathon 2014](http://www.eventbrite.com/e/seattle-police-hackathon-2014-tickets-14818202643) | Seattle, WA | 12.19 |
