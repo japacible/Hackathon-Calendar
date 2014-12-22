@@ -27,25 +27,35 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackSI](http://www.hacksi.me/) | Carbondale, IL | 1.30 - 2.1 |
 | [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
+| [MedStart](http://tuftsmedstart.com/) | Boston, MA | 1.30 - 2.1 |
 | [VTHacks](http://vthacks.com/) | Blacksburg, VA | 2.6 - 2.8 |
+| [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
+| [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
 | [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
+| [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
+| [UHack](http://uhack.us/) | Miami, FL | 2.21 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
 | [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
+| [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
+| [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
 | [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
 | [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.20 - 3.22 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
 | [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
+| [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
+| [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
+| [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.4 - 4.5 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
