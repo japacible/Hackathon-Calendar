@@ -7,6 +7,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Miami Bitcoin Hackathon](http://www.miamibitcoinhackathon.com/) | Miami, FL | 1.9 - 1.11 |
 | [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
 | [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/) | Austin, TX | 1.10 |
