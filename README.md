@@ -25,6 +25,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
 | [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
+| [HackCWRU](http://hackcwru.com/) | Cleveland, OH | 2.6 - 2.8 |
 | [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
 | [TartanHacks](http://tartanhacks.com/) | Pittsburgh, PA | 2.6 - 2.7 |
 | [VTHacks](http://vthacks.com/) | Blacksburg, VA | 2.6 - 2.8 |
