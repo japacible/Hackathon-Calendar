@@ -14,6 +14,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 1.16 - 1.18 |
 | [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
+| [IDEA Hacks](http://www.ideahacks.la/) | Los Angeles, CA | 1.23 - 1.25 |
 | [Hacking Generation Y](http://hackgeny.com/) | San Francisco, CA | 1.24 - 1.25 |
 | [HackTech](http://www.hacktech.io/) | Santa Monica, CA| 1.24 - 1.26 |
 | [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.30 - 2.1 |
