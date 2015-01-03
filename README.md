@@ -10,6 +10,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Miami Bitcoin Hackathon](http://www.miamibitcoinhackathon.com/) | Miami, FL | 1.9 - 1.11 |
 | [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
 | [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
+| [Hack The Drive](http://hackthedrive.com/) | San Francisco, CA | 1.10 - 1.11 |
 | [ProtoHack Austin](http://protohack.org/) | Austin, TX | 1.10 |
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 1.16 - 1.18 |
 | [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
