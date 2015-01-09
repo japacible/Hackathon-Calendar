@@ -56,6 +56,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
 | [BattleHack Singapore](https://2015.battlehack.org/singapore) | Singapore, Singapore | 3.28 - 3.29 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
+| [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
 | [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
 | [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.4 - 4.5 |
