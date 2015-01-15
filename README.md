@@ -32,6 +32,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
 | [TartanHacks](http://tartanhacks.com/) | Pittsburgh, PA | 2.6 - 2.7 |
 | [VTHacks](http://vthacks.com/) | Blacksburg, VA | 2.6 - 2.8 |
+| [AccelerateSF](http://developerweek.com/hackathon/) | San Francisco, CA | 2.7 - 2.8 |
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
 | [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
