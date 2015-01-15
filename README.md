@@ -35,6 +35,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
 | [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
+| [HackCooper](http://hackcooper.org) | New York, NY | 2.14 - 2.15 |
 | [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
