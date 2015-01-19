@@ -158,3 +158,14 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackDC](http://www.dchacks.org/) | Washington, DC | 12.13 - 12.14 |
 | [hackTBILISI](http://hacktbilisi.com/) | Tbilisi, GA | 12.19 - 12.21 |
 | [Seattle Police Hackathon 2014](http://www.eventbrite.com/e/seattle-police-hackathon-2014-tickets-14818202643) | Seattle, WA | 12.19 |
+
+| Hackathon                                                | Location        | Date (2015)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Miami Bitcoin Hackathon](http://www.miamibitcoinhackathon.com/) | Miami, FL | 1.9 - 1.11 |
+| [WatchKit Zurich](http://watchkitzurich.ch/) | Zurich, Switzerland | 1.9 - 1.11 |
+| [Dragon Hacks](http://hack-dragon.com/) | Philadelphia, PA | 1.10 - 1.11 |
+| [Hack The Drive](http://hackthedrive.com/) | San Francisco, CA | 1.10 - 1.11 |
+| [ProtoHack Austin](http://protohack.org/) | Austin, TX | 1.10 |
+| [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 1.16 - 1.18 |
+| [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
+| [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
