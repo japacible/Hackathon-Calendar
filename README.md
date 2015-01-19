@@ -9,7 +9,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [IDEA Hacks](http://www.ideahacks.la/) | Los Angeles, CA | 1.23 - 1.25 |
 | [Startup Weekend EuroSeattle](http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127) | Seattle, WA | 1.23 - 1.25 |
-| [Hacking Generation Y](http://hackgeny.com/) | San Francisco, CA | 1.24 - 1.25 |
+| [Hacking Generation Y](http://hackgeny.com/) | Redwood City, CA | 1.24 - 1.25 |
 | [HackTech](http://www.hacktech.io/) | Santa Monica, CA| 1.24 - 1.26 |
 | [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.30 - 2.1 |
 | [Hack Rice](http://hack.rice.edu/) | Houston, TX | 1.30 - 2.1 |
@@ -54,6 +54,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
 | [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.4 - 4.5 |
+| [Bitcamp](https://bitca.mp) | College Park, MD | 4.10 - 4.12 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
