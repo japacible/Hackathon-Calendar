@@ -65,6 +65,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
+| [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
