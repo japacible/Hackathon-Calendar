@@ -42,6 +42,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
 | [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
+| [Hack BU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
 | [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
 | [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.20 - 3.22 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
