@@ -20,6 +20,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
 | [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
+| [Hack Housing](https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111) | Seattle, WA | 2.6 - 2.8 |
 | [HackCWRU](http://hackcwru.com/) | Cleveland, OH | 2.6 - 2.8 |
 | [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
 | [TartanHacks](http://tartanhacks.com/) | Pittsburgh, PA | 2.6 - 2.7 |
@@ -42,7 +43,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
 | [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
-| [Hack BU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
+| [HackBU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
 | [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
 | [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.20 - 3.22 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
