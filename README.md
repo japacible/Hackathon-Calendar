@@ -41,11 +41,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
 | [HackBU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
 | [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
-| [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.20 - 3.22 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
 | [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
 | [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
+| [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.27 - 3.29 |
 | [BattleHack Singapore](https://2015.battlehack.org/singapore) | Singapore, Singapore | 3.28 - 3.29 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
 | [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
