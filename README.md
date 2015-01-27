@@ -15,6 +15,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [She Innovates](http://cs.pitt.edu/events/other/2154/event.php?id=578) | Pittsburgh, PA | 1.30 - 2.1 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
+| [SocialGoodHacks](http://socialgoodhacks.splashthat.com/) | Bronx, NY | 1.31 |
 | [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
 | [Hack Housing](https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111) | Seattle, WA | 2.6 - 2.8 |
 | [HackCWRU](http://hackcwru.com/) | Cleveland, OH | 2.6 - 2.8 |
@@ -24,10 +25,13 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AccelerateSF](http://developerweek.com/hackathon/) | San Francisco, CA | 2.7 - 2.8 |
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
+| [IDHack](http://idhack.developersfordevelopment.org/) | Melford, MA | 2.13 - 2.14 |
 | [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
+| [deltaHacks](http://deltahacks.io/) | Hamilton, Canada | 2.14 - 2.15 |
 | [HackCooper](http://hackcooper.org) | New York, NY | 2.14 - 2.15 |
 | [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
+| [MBKHACK](http://www.mbkhack.com/) | Oakland, CA | 2.20 - 2.22 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
 | [UHack](http://uhack.us/) | Miami, FL | 2.21 - 2.22 |
@@ -42,6 +46,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackBU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
 | [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
+| [MTY Hackathon](http://monterrey.acm.org/hackathon.html) | Monterrey, Mexico | 3.21 - 3.22 |
 | [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
 | [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
@@ -62,6 +67,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Raleigh](https://2015.battlehack.org/raleigh) | Raleigh, NC | 4.18 - 4.19 |
 | [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
+| [RedbirdHacks](http://redbirdhacks.org/) | Normal, IL | 4.24 - 4.26 |
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
