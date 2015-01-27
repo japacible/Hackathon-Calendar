@@ -169,3 +169,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 1.16 - 1.18 |
 | [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
+| [IDEA Hacks](http://www.ideahacks.la/) | Los Angeles, CA | 1.23 - 1.25 |
+| [Startup Weekend EuroSeattle](http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127) | Seattle, WA | 1.23 - 1.25 |
+| [Hacking Generation Y](http://hackgeny.com/) | Redwood City, CA | 1.24 - 1.25 |
+| [HackTech](http://www.hacktech.io/) | Santa Monica, CA| 1.24 - 1.26 |
