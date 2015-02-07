@@ -60,6 +60,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.4 - 4.5 |
 | [Bitcamp](https://bitca.mp) | College Park, MD | 4.10 - 4.12 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
+| [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 4.10 - 4.12 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
 | [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
