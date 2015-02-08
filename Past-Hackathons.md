@@ -169,7 +169,18 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Audacious Hacks](http://audacious.is/hackdacious/) | San Francisco, CA | 1.16 - 1.18 |
 | [MHacks V](http://mhacks.org/) | Ann Arbor, MI | 1.16 - 1.18 |
 | [PennApps XI](http://2015s.pennapps.com/) | Philadelphia, PA | 1.16 - 1.18 |
+| [Hacking Journalism](http://hackingjournalism.com/) | New York City, NY | 1.17 - 1.18 |
 | [IDEA Hacks](http://www.ideahacks.la/) | Los Angeles, CA | 1.23 - 1.25 |
 | [Startup Weekend EuroSeattle](http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127) | Seattle, WA | 1.23 - 1.25 |
 | [Hacking Generation Y](http://hackgeny.com/) | Redwood City, CA | 1.24 - 1.25 |
 | [HackTech](http://www.hacktech.io/) | Santa Monica, CA| 1.24 - 1.26 |
+| [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.30 - 2.1 |
+| [Hack Rice](http://hack.rice.edu/) | Houston, TX | 1.30 - 2.1 |
+| [HackSI](http://www.hacksi.me/) | Carbondale, IL | 1.30 - 2.1 |
+| [MedStart](http://tuftsmedstart.com/) | Boston, MA | 1.30 - 2.1 |
+| [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
+| [She Innovates](http://cs.pitt.edu/events/other/2154/event.php?id=578) | Pittsburgh, PA | 1.30 - 2.1 |
+| [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
+| [SocialGoodHacks](http://socialgoodhacks.splashthat.com/) | Bronx, NY | 1.31 |
+| [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
+

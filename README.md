@@ -7,15 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.30 - 2.1 |
-| [Hack Rice](http://hack.rice.edu/) | Houston, TX | 1.30 - 2.1 |
-| [HackSI](http://www.hacksi.me/) | Carbondale, IL | 1.30 - 2.1 |
-| [MedStart](http://tuftsmedstart.com/) | Boston, MA | 1.30 - 2.1 |
-| [SB Hacks](http://www.ucsbhacks.com/) | Santa Barbara, CA | 1.30 - 2.1 |
-| [She Innovates](http://cs.pitt.edu/events/other/2154/event.php?id=578) | Pittsburgh, PA | 1.30 - 2.1 |
-| [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
-| [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
-| [SocialGoodHacks](http://socialgoodhacks.splashthat.com/) | Bronx, NY | 1.31 |
 | [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
 | [Hack Housing](https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111) | Seattle, WA | 2.6 - 2.8 |
 | [HackCWRU](http://hackcwru.com/) | Cleveland, OH | 2.6 - 2.8 |
@@ -76,7 +67,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
-| [Hacking Journalism](http://hackingjournalism.com/) | Boston, MA | 6.7 - 6.8 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
