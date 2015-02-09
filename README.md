@@ -75,7 +75,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
-| [HackMIT] (https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
+| [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
