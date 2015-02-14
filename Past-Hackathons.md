@@ -183,4 +183,12 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.30 - 2.1 |
 | [SocialGoodHacks](http://socialgoodhacks.splashthat.com/) | Bronx, NY | 1.31 |
 | [BattleHack Melbourne](https://2015.battlehack.org/melbourne) | Melbourne, Australia | 1.31 - 2.1 |
-
+| [CBBhacks](http://cbbhacks.org/) | Brunswick, ME | 2.6 - 2.8 |
+| [Hack Housing](https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111) | Seattle, WA | 2.6 - 2.8 |
+| [HackCWRU](http://hackcwru.com/) | Cleveland, OH | 2.6 - 2.8 |
+| [HopHacks](http://hophacks.com/s15/) | Baltimore, MD | 2.6 - 2.8 |
+| [TartanHacks](http://tartanhacks.com/) | Pittsburgh, PA | 2.6 - 2.7 |
+| [VTHacks](http://vthacks.com/) | Blacksburg, VA | 2.6 - 2.8 |
+| [AccelerateSF](http://developerweek.com/hackathon/) | San Francisco, CA | 2.7 - 2.8 |
+| [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
+| [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
