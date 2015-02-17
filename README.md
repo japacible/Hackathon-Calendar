@@ -7,11 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [IDHack](http://idhack.developersfordevelopment.org/) | Melford, MA | 2.13 - 2.14 |
-| [DOOMHACK](https://www.facebook.com/events/1409309589366211) | Burnaby, Canada | 2.13 |
-| [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
-| [deltaHacks](http://deltahacks.io/) | Hamilton, Canada | 2.14 - 2.15 |
-| [HackCooper](http://hackcooper.org) | New York, NY | 2.14 - 2.15 |
 | [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
 | [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
 | [MBKHACK](http://www.mbkhack.com/) | Oakland, CA | 2.20 - 2.22 |

@@ -192,3 +192,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [AccelerateSF](http://developerweek.com/hackathon/) | San Francisco, CA | 2.7 - 2.8 |
 | [Hack@Brown](http://hackatbrown.org/) | Providence, RI | 2.7 - 2.8 |
 | [HSHacks II](http://www.hshacks.com/) | San Jose, CA | 2.7 - 2.8 |
+| [IDHack](http://idhack.developersfordevelopment.org/) | Melford, MA | 2.13 - 2.14 |
+| [DOOMHACK](https://www.facebook.com/events/1409309589366211) | Burnaby, Canada | 2.13 |
+| [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
+| [deltaHacks](http://deltahacks.io/) | Hamilton, Canada | 2.14 - 2.15 |
+| [HackCooper](http://hackcooper.org) | New York, NY | 2.14 - 2.15 |
