@@ -42,6 +42,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Bitcamp](https://bitca.mp) | College Park, MD | 4.10 - 4.12 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
 | [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 4.10 - 4.12 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 4.11 - 4.12 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
 | [Make IT Wright Hackathon](http://www.makeitwright.org/) | Dayton, OH | 4.11 - 4.12 |
 | [Space Apps](https://2015.spaceappschallenge.org/) | Multiple Cities | 4.11 - 4.12 |
