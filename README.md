@@ -70,4 +70,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
