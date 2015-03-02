@@ -7,11 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
-| [BattleHack Los Angeles](https://2015.battlehack.org/los_angeles) | Los Angeles, CA | 2.28 - 3.1 |
-| [Hack London](https://hacklondon.org/) | London, United Kingdom | 2.28 - 3.1 |
-| [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
-| [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Capital One People & Money Hackathon](https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123) | San Francisco, CA | 3.6 - 3.8 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
 | [Meta Augmented Reality Hackathon](http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770) | San Francisco, CA | 3.6 - 3.7 |

@@ -205,3 +205,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [UHack](http://uhack.us/) | Miami, FL | 2.21 - 2.22 |
 | [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
 | [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
+| [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
+| [BattleHack Los Angeles](https://2015.battlehack.org/los_angeles) | Los Angeles, CA | 2.28 - 3.1 |
+| [Hack London](https://hacklondon.org/) | London, United Kingdom | 2.28 - 3.1 |
+| [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
+| [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
