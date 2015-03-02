@@ -9,6 +9,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
 | [BattleHack Los Angeles](https://2015.battlehack.org/los_angeles) | Los Angeles, CA | 2.28 - 3.1 |
+| [Hack London](https://hacklondon.org/) | London, United Kingdom | 2.28 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
 | [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Capital One People & Money Hackathon](https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123) | San Francisco, CA | 3.6 - 3.8 |
@@ -48,6 +49,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
 | [RedbirdHacks](http://redbirdhacks.org/) | Normal, IL | 4.24 - 4.26 |
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
+| [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
