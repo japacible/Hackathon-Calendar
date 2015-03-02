@@ -68,4 +68,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities, Earth | 10.10   |
 >>>>>>> 4a78fb521a174c2ffe42c3e84f20be8ab9cf6da0
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
