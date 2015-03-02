@@ -7,14 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
-| [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
-| [MBKHACK](http://www.mbkhack.com/) | Oakland, CA | 2.20 - 2.22 |
-| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
-| [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
-| [UHack](http://uhack.us/) | Miami, FL | 2.21 - 2.22 |
-| [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
-| [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
 | [SD Hacks](http://sdhacks.io) | San Diego, CA | 2.27 - 3.1 |
 | [BattleHack Los Angeles](https://2015.battlehack.org/los_angeles) | Los Angeles, CA | 2.28 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |

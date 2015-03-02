@@ -197,3 +197,11 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [CodeDay](https://codeday.org/) | Multiple Cities | 2.14 - 2.15 |
 | [deltaHacks](http://deltahacks.io/) | Hamilton, Canada | 2.14 - 2.15 |
 | [HackCooper](http://hackcooper.org) | New York, NY | 2.14 - 2.15 |
+| [HackPoly](http://hackpoly.com/) | Pomona, CA | 2.20 - 2.21 |
+| [hack.uva](http://hackuva.io/) | Charlottesville, VA | 2.20 - 2.21 |
+| [MBKHACK](http://www.mbkhack.com/) | Oakland, CA | 2.20 - 2.22 |
+| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.20 - 2.22 |
+| [McHacks](http://mchacks.io/) | Montreal, Canada | 2.21 - 2.22 |
+| [UHack](http://uhack.us/) | Miami, FL | 2.21 - 2.22 |
+| [HackIllinois](http://hackillinois.org) | Urbana, IL | 2.27 - 3.1 |
+| [MountainHacks](http://www.mountainhacks.com) | TBA, Utah | 2.27 - 2.28 |
