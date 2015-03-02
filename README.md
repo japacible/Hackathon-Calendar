@@ -13,6 +13,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
 | [Capital One People & Money Hackathon](https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123) | San Francisco, CA | 3.6 - 3.8 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
+| [Meta Augmented Reality Hackathon](http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770) | San Francisco, CA | 3.6 - 3.7 |
 | [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
 | [GunnHacks](http://gunnhacks.com/) | Palo Alto, CA | 3.14 - 3.15 |
 | [Hack the Commute](http://hackthecommute.seattle.gov/2015/01/13/hackthecommute) | Seattle, WA | 3.20 - 3.22 |
