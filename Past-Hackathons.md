@@ -210,3 +210,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hack London](https://hacklondon.org/) | London, United Kingdom | 2.28 - 3.1 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 2.28 - 3.1 |
 | [HackTCNJ](http://hacktcnj2015.splashthat.com/) | Ewing Township, NJ | 2.28 - 3.1 |
+| [Capital One People & Money Hackathon](https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123) | San Francisco, CA | 3.6 - 3.8 |
+| [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 3.6 - 3.8 |
+| [Meta Augmented Reality Hackathon](http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770) | San Francisco, CA | 3.6 - 3.7 |
+| [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
