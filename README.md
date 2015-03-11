@@ -47,6 +47,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
 | [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
+| [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
