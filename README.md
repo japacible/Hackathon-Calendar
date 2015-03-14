@@ -15,6 +15,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
 | [MTY Hackathon](http://monterrey.acm.org/hackathon.html) | Monterrey, Mexico | 3.21 - 3.22 |
 | [National Hack the Government](https://www.eventbrite.co.uk/e/national-hack-the-government-2015-london-tickets-15845722984) | Victoria, United Kingdom | 3.21 - 3.32 |
+| [Codestellation](http://codestellation.io/) | Waltham, Massachusetts | 3.27 - 3.28 |
 | [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
 | [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
 | [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
@@ -25,7 +26,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
 | [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
-| [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.4 - 4.5 |
 | [Bitcamp](https://bitca.mp) | College Park, MD | 4.10 - 4.12 |
 | [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
 | [HackNYU](http://hacknyu.org/) | Multiple Cities | 4.10 - 4.12 |
@@ -33,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 4.10 - 4.12 |
 | [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 4.11 - 4.12 |
 | [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
+| [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.11 - 4.12 |
 | [Make IT Wright Hackathon](http://www.makeitwright.org/) | Dayton, OH | 4.11 - 4.12 |
 | [Space Apps](https://2015.spaceappschallenge.org/) | Multiple Cities | 4.11 - 4.12 |
 | [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
@@ -41,6 +42,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Owlhacks](http://www.owlhacks.com/) | Philadelphia, PA | 4.17 - 4.19 |
 | [BattleHack Raleigh](https://2015.battlehack.org/raleigh) | Raleigh, NC | 4.18 - 4.19 |
 | [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
+| [FinTech Hackathon](http://fintechhack.com/nyc2015/) | New York City, NY | 4.18 - 4.19 |
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
 | [CarlHacks](http://carlhacks.io/) | Northfield, MN | 4.24 - 4.26 |
 | [Mobile App Hackathon](http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026) | Seattle, WA | 4.24 - 4.25 |
@@ -49,14 +51,19 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
 | [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
+| [WearHacks Toronto](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 5.8 - 5.10 |
 | [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
+| [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
 | [DubHacks](http://dubhacks.co/2015/) | Seattle, WA | 5.16 - 5.17 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
+| [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
+| [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
+| [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
