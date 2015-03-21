@@ -22,6 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.27 - 3.29 |
 | [BattleHack Singapore](https://2015.battlehack.org/singapore) | Singapore, Singapore | 3.28 - 3.29 |
 | [Hack@Smith](http://www.hackatsmith.org/) | Northampton, MA | 3.28 - 3.29 |
+| [Hackathon for Women in Technology - Phase 1](https://www.hackerearth.com/sprints/intuit-womens-hackathon/) | Online | 3.28 - 4.1 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
 | [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
 | [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
