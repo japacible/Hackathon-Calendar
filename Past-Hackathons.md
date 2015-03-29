@@ -215,3 +215,18 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackOTR](http://www.hackotr.com) | Cincinnati, OH | 3.6 - 3.7 |
 | [Meta Augmented Reality Hackathon](http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770) | San Francisco, CA | 3.6 - 3.7 |
 | [HackNY](http://hackny.org/a/) | New York, NY | 3.7 - 3.8 |
+| [GunnHacks](http://gunnhacks.com/) | Palo Alto, CA | 3.14 - 3.15 |
+| [SXSW Music Hackathon](http://sxsw.com/music/hackathon) | Austin, TX | 3.18 - 3.19 |
+| [Hack the Commute](http://hackthecommute.seattle.gov/2015/01/13/hackthecommute) | Seattle, WA | 3.20 - 3.22 |
+| [HackBU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
+| [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
+| [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
+| [MTY Hackathon](http://monterrey.acm.org/hackathon.html) | Monterrey, Mexico | 3.21 - 3.22 |
+| [National Hack the Government](https://www.eventbrite.co.uk/e/national-hack-the-government-2015-london-tickets-15845722984) | Victoria, United Kingdom | 3.21 - 3.32 |
+| [Codestellation](http://codestellation.io/) | Waltham, Massachusetts | 3.27 - 3.28 |
+| [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
+| [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
+| [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
+| [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.27 - 3.29 |
+| [BattleHack Singapore](https://2015.battlehack.org/singapore) | Singapore, Singapore | 3.28 - 3.29 |
+| [Hack@Smith](http://www.hackatsmith.org/) | Northampton, MA | 3.28 - 3.29 |

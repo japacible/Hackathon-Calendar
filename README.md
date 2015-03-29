@@ -7,21 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [GunnHacks](http://gunnhacks.com/) | Palo Alto, CA | 3.14 - 3.15 |
-| [SXSW Music Hackathon](http://sxsw.com/music/hackathon) | Austin, TX | 3.18 - 3.19 |
-| [Hack the Commute](http://hackthecommute.seattle.gov/2015/01/13/hackthecommute) | Seattle, WA | 3.20 - 3.22 |
-| [HackBU](http://hackathon.hackbu.org/) | Binghamton, NY | 3.20 - 3.22 |
-| [Pearl Hacks](http://www.pearlhacks.com/) | Chapel Hill, NC | 3.20 - 3.22 |
-| [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 3.20 - 3.22 |
-| [MTY Hackathon](http://monterrey.acm.org/hackathon.html) | Monterrey, Mexico | 3.21 - 3.22 |
-| [National Hack the Government](https://www.eventbrite.co.uk/e/national-hack-the-government-2015-london-tickets-15845722984) | Victoria, United Kingdom | 3.21 - 3.32 |
-| [Codestellation](http://codestellation.io/) | Waltham, Massachusetts | 3.27 - 3.28 |
-| [HackPSU](http://www.hackpsu.com/) | State College, PA | 3.27 - 3.29 |
-| [Hack Western](http://hackwestern.com/) | London, ON, Canada | 3.27 - 3.29 |
-| [SpartaHack](http://www.spartahack.com/) | East Lansing, MI | 3.27 - 3.29 |
-| [SteelHacks](http://steelhacks.pittcsc.org/) | Pittsburgh, PA | 3.27 - 3.29 |
-| [BattleHack Singapore](https://2015.battlehack.org/singapore) | Singapore, Singapore | 3.28 - 3.29 |
-| [Hack@Smith](http://www.hackatsmith.org/) | Northampton, MA | 3.28 - 3.29 |
 | [Hackathon for Women in Technology - Phase 1](https://www.hackerearth.com/sprints/intuit-womens-hackathon/) | Online | 3.28 - 4.1 |
 | [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
 | [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
