@@ -44,6 +44,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
+| [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
