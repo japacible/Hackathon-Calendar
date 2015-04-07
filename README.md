@@ -44,7 +44,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Seoul](http://www.eventbrite.com/e/angelhack-seoul-2015-tickets-15841594636) | Seoul, South Korea | 5.9 - 5.10 |
 | [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
 | [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
-| [DubHacks](http://dubhacks.co/15s/) | Seattle, WA | 5.16 - 5.17 |
+| [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
