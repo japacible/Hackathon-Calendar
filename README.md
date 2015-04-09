@@ -8,7 +8,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hackathon for Women in Technology - Phase 1](https://www.hackerearth.com/sprints/intuit-womens-hackathon/) | Online | 3.28 - 4.1 |
-| [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 |
+| [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 - 29 |
 | [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
 | [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
 | [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
@@ -26,15 +26,19 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
 | [MadHacks](https://madhacks.org) | Madison, WI | 4.17 - 4.19 |
 | [Owlhacks](http://www.owlhacks.com/) | Philadelphia, PA | 4.17 - 4.19 |
+| [SfunCube's Solar Hackathon](http://sfuncubesolarhackathon2015.challengepost.com/) | Oakland, CA | 4.17 - 4.18 |
+| [AT&T NYU ABILITY Technology Hackathon](https://www.eventbrite.com/e/att-nyu-ability-technology-hackathon-registration-16082956556) | Brooklyn, NY | 4.17 - 4.18 |
 | [BattleHack Raleigh](https://2015.battlehack.org/raleigh) | Raleigh, NC | 4.18 - 4.19 |
 | [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
 | [FinTech Hackathon](http://fintechhack.com/nyc2015/) | New York City, NY | 4.18 - 4.19 |
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
+| [THack @ Seattle Travel Hackathon](https://www.eventbrite.com/e/thack-seattle-travel-hackathon-tickets-16220346493) | Seattle, WA | 4.18 - 4.19 |
 | [CarlHacks](http://carlhacks.io/) | Northfield, MN | 4.24 - 4.26 |
 | [GRAND HACK](http://hackingmedicine.mit.edu/grandhack/) | Cambridge, MA | 4.24 - 4.26 |
 | [Mobile App Hackathon](http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026) | Seattle, WA | 4.24 - 4.25 |
 | [RedbirdHacks](http://redbirdhacks.org/) | Normal, IL | 4.24 - 4.26 |
 | [She Hacks NYC](http://shehacksnyc.splashthat.com/) | New York City, NY | 4.24 - 4.26 |
+| [AngelHack SF](http://angelhack.com/hackathon/san-francisco-2015) | San Francisco, CA | 4.25 - 4.26 |
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
 | [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
@@ -47,15 +51,18 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
+| [HackExeter](http://www.hackexeter.com/) | Exeter, NH | 5.23 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
+| [AngelHack Los Angeles](http://angelhack.com/hackathon/los-angeles-2015/) | Los Angeles, CA | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
+| [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
