@@ -70,6 +70,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
+| [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
 | [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
