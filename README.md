@@ -7,32 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Hackathon for Women in Technology - Phase 1](https://www.hackerearth.com/sprints/intuit-womens-hackathon/) | Online | 3.28 - 4.1 |
-| [hackBCA II](http://hackbca.com/) | Hackensack, NJ | 3.28 - 29 |
-| [CodeRED](http://codered.cougarcs.com/) | Houston, TX | 4.3 - 4.4 |
-| [HackHolyoke](http://hackholyoke.org/) | South Hadley, MA | 4.3 - 4.4 |
-| [LA Hacks](http://www.lahacks.com/) | Los Angeles, CA | 4.3 - 4.5 |
-| [Bitcamp](https://bitca.mp) | College Park, MD | 4.10 - 4.12 |
-| [HackCU](http://hackcu.org/) | Boulder, CO | 4.10 - 4.12 |
-| [HackNYU](http://hacknyu.org/) | Multiple Cities | 4.10 - 4.12 |
-| [Nordic IoT Hackathon](http://nordiciothackathon.com/) | Lund, Sweden | 4.10 - 4.12 |
-| [RevolutionUC](http://revolutionuc.com/) | Cincinnati, OH | 4.10 - 4.12 |
-| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 4.11 - 4.12 |
-| [HackUMass](http://hackumass.com/) | Amherst, MA | 4.11 - 4.12 |
-| [Hack Upstate](http://hackupstate.com/) | Syracuse, NY | 4.11 - 4.12 |
-| [Make IT Wright Hackathon](http://www.makeitwright.org/) | Dayton, OH | 4.11 - 4.12 |
-| [Space Apps](https://2015.spaceappschallenge.org/) | Multiple Cities | 4.11 - 4.12 |
-| [Citrus Hack](http://citrushack.com/) | Riverside, CA | 4.17 - 4.19 |
-| [HackYSU](http://www.hackysu.com/) | Youngstown, OH | 4.17 - 4.19 |
-| [MadHacks](https://madhacks.org) | Madison, WI | 4.17 - 4.19 |
-| [Owlhacks](http://www.owlhacks.com/) | Philadelphia, PA | 4.17 - 4.19 |
-| [SfunCube's Solar Hackathon](http://sfuncubesolarhackathon2015.challengepost.com/) | Oakland, CA | 4.17 - 4.18 |
-| [AT&T NYU ABILITY Technology Hackathon](https://www.eventbrite.com/e/att-nyu-ability-technology-hackathon-registration-16082956556) | Brooklyn, NY | 4.17 - 4.18 |
-| [BattleHack Raleigh](https://2015.battlehack.org/raleigh) | Raleigh, NC | 4.18 - 4.19 |
-| [BrickHack](http://brickhack.io) | Rochester, NY | 4.18 - 4.19 |
-| [FinTech Hackathon](http://fintechhack.com/nyc2015/) | New York City, NY | 4.18 - 4.19 |
-| [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
-| [THack @ Seattle Travel Hackathon](https://www.eventbrite.com/e/thack-seattle-travel-hackathon-tickets-16220346493) | Seattle, WA | 4.18 - 4.19 |
 | [CarlHacks](http://carlhacks.io/) | Northfield, MN | 4.24 - 4.26 |
 | [GRAND HACK](http://hackingmedicine.mit.edu/grandhack/) | Cambridge, MA | 4.24 - 4.26 |
 | [Mobile App Hackathon](http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026) | Seattle, WA | 4.24 - 4.25 |
