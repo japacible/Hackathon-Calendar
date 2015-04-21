@@ -44,6 +44,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
 | [What the Hack @ KAYAK](http://wth.kayak.com/) | Cambridge, MA | 4.25 - 4.26 |
 | [NeuroGaming Hackathon](http://neurogaming.brainihack.org/) | San Francisco, CA | 5.2 - 5.3 |
+| [IBM Watson Hackathon](http://www.ibm.com/smarterplanet/us/en/ibmwatson/watson-hackathon.html) | Brooklyn, NY | 5.4 - 5.5 |
 | [WearHacks Toronto](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 5.8 - 5.10 |
 | [AngelHack Seoul](http://www.eventbrite.com/e/angelhack-seoul-2015-tickets-15841594636) | Seoul, South Korea | 5.9 - 5.10 |
 | [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
@@ -66,6 +67,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
+| [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
 | [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
