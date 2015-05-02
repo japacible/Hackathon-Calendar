@@ -24,6 +24,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
 | [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
 | [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |
+| [Hackathon Of Things](http://hackathonofthings.splashthat.com/) | Portland, OR | 5.22 - 5.23 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
 | [HackExeter](http://www.hackexeter.com/) | Exeter, NH | 5.23 |
