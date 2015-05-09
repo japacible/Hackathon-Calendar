@@ -256,3 +256,15 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [FinTech Hackathon](http://fintechhack.com/nyc2015/) | New York City, NY | 4.18 - 4.19 |
 | [HackRU](http://hackru.org) | New Brunswick, NJ | 4.18 - 4.19 |
 | [THack @ Seattle Travel Hackathon](https://www.eventbrite.com/e/thack-seattle-travel-hackathon-tickets-16220346493) | Seattle, WA | 4.18 - 4.19 |
+| [CarlHacks](http://carlhacks.io/) | Northfield, MN | 4.24 - 4.26 |
+| [GRAND HACK](http://hackingmedicine.mit.edu/grandhack/) | Cambridge, MA | 4.24 - 4.26 |
+| [Mobile App Hackathon](http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026) | Seattle, WA | 4.24 - 4.25 |
+| [RedbirdHacks](http://redbirdhacks.org/) | Normal, IL | 4.24 - 4.26 |
+| [She Hacks NYC](http://shehacksnyc.splashthat.com/) | New York City, NY | 4.24 - 4.26 |
+| [AngelHack SF](http://angelhack.com/hackathon/san-francisco-2015) | San Francisco, CA | 4.25 - 4.26 |
+| [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
+| [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
+| [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
+| [What the Hack @ KAYAK](http://wth.kayak.com/) | Cambridge, MA | 4.25 - 4.26 |
+| [NeuroGaming Hackathon](http://neurogaming.brainihack.org/) | San Francisco, CA | 5.2 - 5.3 |
+| [IBM Watson Hackathon](http://www.ibm.com/smarterplanet/us/en/ibmwatson/watson-hackathon.html) | Brooklyn, NY | 5.4 - 5.5 |
