@@ -22,6 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
 | [AngelHack Los Angeles](http://angelhack.com/hackathon/los-angeles-2015/) | Los Angeles, CA | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
+| [HackMann](http://hackmann.horacemann.org/) | Bronx, NY | 6.7 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
