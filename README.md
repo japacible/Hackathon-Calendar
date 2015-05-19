@@ -37,6 +37,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
 | [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
+| [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
