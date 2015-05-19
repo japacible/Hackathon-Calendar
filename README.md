@@ -17,6 +17,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
 | [CodeDay](https://codeday.org/) | Multiple Cities | 5.23 - 5.24 |
 | [HackExeter](http://www.hackexeter.com/) | Exeter, NH | 5.23 |
+| [MTFScandi += Boston Music Hackathon](https://www.eventbrite.com/e/mtfscandi-boston-music-hackathon-tickets-17010716511) | Boston, MA | 5.29 - 5.30 |
 | [TM Forum Hackathon](https://www.eventbrite.com/e/tm-forum-hackathon-smart-citizens-in-a-smart-city-registration-16678819799) | Nice, France | 5.29 - 5.30 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
@@ -27,6 +28,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackMann](http://hackmann.horacemann.org/) | Bronx, NY | 6.7 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
+| [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
