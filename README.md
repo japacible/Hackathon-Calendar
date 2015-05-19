@@ -22,6 +22,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [Microsoft Big Data Hackathon](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-CA&eventid=1032622104&flag=1) | Redmond, WA | 5.30 - 5.31 |
+| [Hack & Fly Amsterdam](http://www.hackandfly.com/) | Amsterdam, Netherlands | 6.5 - 6.7 |
+| [Hack & Fly Paris](http://www.hackandfly.com/) | Paris, France | 6.5 - 6.7 |
 | [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
 | [AngelHack Los Angeles](http://angelhack.com/hackathon/los-angeles-2015/) | Los Angeles, CA | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
