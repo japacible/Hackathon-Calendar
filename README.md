@@ -22,6 +22,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [Microsoft Big Data Hackathon](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-CA&eventid=1032622104&flag=1) | Redmond, WA | 5.30 - 5.31 |
+| [Hack & Fly Amsterdam](http://www.hackandfly.com/) | Amsterdam, Netherlands | 6.5 - 6.7 |
+| [Hack & Fly Paris](http://www.hackandfly.com/) | Paris, France | 6.5 - 6.7 |
 | [AngelHack Brooklyn](http://angelhack.com/hackathon/brooklyn-2015/) | Brooklyn, NY | 6.6 - 6.7 |
 | [AngelHack Los Angeles](http://angelhack.com/hackathon/los-angeles-2015/) | Los Angeles, CA | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
@@ -31,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
+| [AngelHack Amsterdam](http://angelhack.com/hackathon/amsterdam-2015/) | Amsterdam, Netherlands | 7.4 - 7.5 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
 | [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
