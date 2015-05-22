@@ -268,3 +268,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [What the Hack @ KAYAK](http://wth.kayak.com/) | Cambridge, MA | 4.25 - 4.26 |
 | [NeuroGaming Hackathon](http://neurogaming.brainihack.org/) | San Francisco, CA | 5.2 - 5.3 |
 | [IBM Watson Hackathon](http://www.ibm.com/smarterplanet/us/en/ibmwatson/watson-hackathon.html) | Brooklyn, NY | 5.4 - 5.5 |
+| [WearHacks Toronto](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 5.8 - 5.10 |
+| [AngelHack Seoul](http://www.eventbrite.com/e/angelhack-seoul-2015-tickets-15841594636) | Seoul, South Korea | 5.9 - 5.10 |
+| [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
+| [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
+| [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |

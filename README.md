@@ -7,11 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [WearHacks Toronto](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 5.8 - 5.10 |
-| [AngelHack Seoul](http://www.eventbrite.com/e/angelhack-seoul-2015-tickets-15841594636) | Seoul, South Korea | 5.9 - 5.10 |
-| [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
-| [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
-| [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |
 | [Hackathon Of Things](http://hackathonofthings.splashthat.com/) | Portland, OR | 5.22 - 5.23 |
 | [HackUCI](http://hackuci.com/) | Irvine, CA | 5.22 - 5.24 |
 | [WearHacks Paris](https://wearhacksparis.splashthat.com/) | Paris, France | 5.22 - 5.24 |
