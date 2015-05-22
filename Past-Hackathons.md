@@ -261,8 +261,10 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Mobile App Hackathon](http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026) | Seattle, WA | 4.24 - 4.25 |
 | [RedbirdHacks](http://redbirdhacks.org/) | Normal, IL | 4.24 - 4.26 |
 | [She Hacks NYC](http://shehacksnyc.splashthat.com/) | New York City, NY | 4.24 - 4.26 |
+| [AC Apps Challenge](http://code.acgov.org) | Union City, CA | 4.25 |
 | [AngelHack SF](http://angelhack.com/hackathon/san-francisco-2015) | San Francisco, CA | 4.25 - 4.26 |
 | [BattleHack London](https://2015.battlehack.org/london) | London, United Kingdom | 4.25 - 4.26 |
+| [Berlin Speedhack](http://speedhack.io/events/berlin-speedhack) | Berlin, Germany | 4.25 |
 | [CSUSM Spring Women's Hackathon](http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169) | San Marcos, CA | 4.25 |
 | [STEMHacks](http://www.stemhacks.com/) | Downingtown, PA | 4.25 - 4.26 |
 | [What the Hack @ KAYAK](http://wth.kayak.com/) | Cambridge, MA | 4.25 - 4.26 |
@@ -271,5 +273,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [WearHacks Toronto](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 5.8 - 5.10 |
 | [AngelHack Seoul](http://www.eventbrite.com/e/angelhack-seoul-2015-tickets-15841594636) | Seoul, South Korea | 5.9 - 5.10 |
 | [ecomhack](http://www.ecomhack.io/) | Berlin, Germany | 5.9 - 5.10 |
+| [Revolution UC](http://revolutionuc.com) | Cincinnati, OH | 5.15 - 5.17 |
 | [WearHacks SF Bay](https://wearhacks-sfbay.splashthat.com/) | TBD | 5.15 - 5.17 |
 | [DubHacks](http://15s.dubhacks.co/) | Seattle, WA | 5.16 - 5.17 |
