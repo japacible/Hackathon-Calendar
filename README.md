@@ -72,6 +72,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
 | [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
 | [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
+| [Waterloo Tech Retreat](http://techretreat.ca/) | Waterloo, Canada | 8.15 |
 | [AngelHack Cairo](http://angelhack.com/hackathon/cairo-2015/)| Cairo, Egypt| 8.18 - 8.19 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
