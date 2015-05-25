@@ -55,6 +55,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Seoul](http://angelhack.com/hackathon/seoul-2015/) | Seoul, South Korea | 6.27 - 6.28 |
 | [AngelHack Tokyo](http://angelhack.com/hackathon/tokyo-spring-2015/) | TBD, Japan | 6.27 - 6.28 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
+| [Greylock Hackfest](http://greylocku.com/hackfest/) | Burlingame, CA | 6.27 - 6.28 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
 | [AngelHack Amsterdam](http://angelhack.com/hackathon/amsterdam-2015/) | Amsterdam, Netherlands | 7.4 - 7.5 |
 | [AngelHack Bogota](http://angelhack.com/hackathon/bogota-2015/) | Bogotá D.C., Colombia | 7.4 - 7.5 |
