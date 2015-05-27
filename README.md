@@ -22,9 +22,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Toronto](http://angelhack.com/hackathon/toronto-2015/) | Toronto, Canada | 5.30 - 5.31 |
 | [AT&T Mobile App Hackathon - CyberTECH & City of San Diego](http://www.eventbrite.com/e/att-mobile-app-hackathon-san-diego-cybertech-city-of-san-diego-tickets-15841790221) | San Diego, CA | 5.30 - 5.31 |
 | [BattleHack Athens](https://2015.battlehack.org/athens) | Athens, Greece | 5.30 - 5.31 |
+| [Hack For Nepal](http://www.venturesity.com/hack-for-nepal.html) | Bengaluru, India | 5.30 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [Microsoft Big Data Hackathon](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-CA&eventid=1032622104&flag=1) | Redmond, WA | 5.30 - 5.31 |
 | [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-denverboulder-tickets-15621124203) | Boulder, CO | 6.5 - 6.6 |
+| [Fishackathon](http://fishackathon.co/) | Multiple Cities | 6.5 - 6.7 |
 | [Hack & Fly Amsterdam](http://www.hackandfly.com/) | Amsterdam, Netherlands | 6.5 - 6.7 |
 | [Hack & Fly Paris](http://www.hackandfly.com/) | Paris, France | 6.5 - 6.7 |
 | [AngelHack Athens](http://angelhack.com/hackathon/athens-2015/) | Athens, Greece | 6.6 - 6.7 |
@@ -37,6 +39,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
 | [HackMann](http://hackmann.horacemann.org/) | Bronx, NY | 6.7 |
 | [Hacking Generation Y Israel](http://hackgeny.com/israel/) | Tel Aviv, Israel | 6.12 - 6.13 |
+| [361 Degree Hackathon Bengaluru](http://greymeter.com/hackathon) | Bengaluru, India | 6.13 - 6.14 |
+| [361 Degree Hackathon Delhi](http://greymeter.com/hackathon) | Delhi, India | 6.13 - 6.14 |
 | [AngelHack Bangkok](http://angelhack.com/hackathon/bangkok-2015/) | Bangkok, Thailand | 6.13 - 6.14 |
 | [AngelHack Kuala Lumpur](http://angelhack.com/hackathon/kuala-lumpur-2015/) | Petaling Jaya, Malaysia | 6.13 - 6.14 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
@@ -46,6 +50,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack London](http://angelhack.com/hackathon/london-2015/) | London, UK | 6.20 - 6.21 |
 | [AngelHack Zurich](http://angelhack.com/hackathon/zurich-2015/) | Zurich, Switzerland | 6.20 - 6.21 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
+| [HackBaroda](http://www.hackbaroda.in/) | Vadodara, India | 6.20 |
 | [AngelHack Buenos Aires](http://angelhack.com/hackathon/buenos-2015/) | Buenos Aires, Argentina | 6.21 - 6.22 |
 | [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-portland-tickets-16053435257) | Portland, OR | 6.26 - 6.27 |
 | [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
@@ -80,6 +85,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
+| [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
+| [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
 | [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
