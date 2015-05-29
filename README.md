@@ -51,6 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Zurich](http://angelhack.com/hackathon/zurich-2015/) | Zurich, Switzerland | 6.20 - 6.21 |
 | [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
 | [HackBaroda](http://www.hackbaroda.in/) | Vadodara, India | 6.20 |
+| [Sense360 iOS Hackathon](http://www.eventbrite.com/e/sense360-ios-hackathon-tickets-17160820476) | Los Angeles, CA | 6.20 |
 | [AngelHack Buenos Aires](http://angelhack.com/hackathon/buenos-2015/) | Buenos Aires, Argentina | 6.21 - 6.22 |
 | [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-portland-tickets-16053435257) | Portland, OR | 6.26 - 6.27 |
 | [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
