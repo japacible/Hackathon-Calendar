@@ -45,6 +45,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Kuala Lumpur](http://angelhack.com/hackathon/kuala-lumpur-2015/) | Petaling Jaya, Malaysia | 6.13 - 6.14 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [Hacking Generation Y India](http://hackerupt.org/) | Bangalore, India | 6.13 |
+| [VR Hackathon Seattle](http://vrhackathon.com/seattle.html) | Seattle, WA | 6.19 - 6.21 |
 | [AngelHack Delhi](http://angelhack.com/hackathon/delhi-2015/) | New Delhi, India | 6.20 - 6.21 |
 | [AngelHack Hong Kong](http://angelhack.com/hackathon/hongkong-2015/) | Hong Kong, China | 6.20 - 6.21 |
 | [AngelHack London](http://angelhack.com/hackathon/london-2015/) | London, UK | 6.20 - 6.21 |
@@ -88,10 +89,13 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
+| [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
 | [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
+| [VR Hackathon South Africa](http://vrhackathon.com/south-africa.html) | Cape Town, South Africa | 10.9 - 10.11 |
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
