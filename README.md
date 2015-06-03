@@ -25,10 +25,13 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack For Nepal](http://www.venturesity.com/hack-for-nepal.html) | Bengaluru, India | 5.30 |
 | [HR Hackathon Berlin](https://www.eventbrite.com/e/hr-hackathon-berlin-tickets-15957636721) | Berlin, Germany | 5.30 - 5.31 |
 | [Microsoft Big Data Hackathon](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-CA&eventid=1032622104&flag=1) | Redmond, WA | 5.30 - 5.31 |
+| [Summer Jam - Open Data Mashup](http://sjopendata.challengepost.com/) | Online | 6.1 - 6.22 |
+| [Summer Jam - Reinvent the Selfie](http://sjselfie.challengepost.com/) | Online | 6.1 - 6.22 |
 | [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-denverboulder-tickets-15621124203) | Boulder, CO | 6.5 - 6.6 |
 | [Fishackathon](http://fishackathon.co/) | Multiple Cities | 6.5 - 6.7 |
 | [Hack & Fly Amsterdam](http://www.hackandfly.com/) | Amsterdam, Netherlands | 6.5 - 6.7 |
 | [Hack & Fly Paris](http://www.hackandfly.com/) | Paris, France | 6.5 - 6.7 |
+| [HackBajio 2015](http://hackbajio.com/) | Monterrey, México | 6.5 - 6.7 |
 | [AngelHack Athens](http://angelhack.com/hackathon/athens-2015/) | Athens, Greece | 6.6 - 6.7 |
 | [AngelHack Beijing](http://angelhack.com/hackathon/beijing-2015/) | Beijing, China | 6.6 - 6.7 |
 | [AngelHack Boston](http://angelhack.com/hackathon/boston-2015/) | Boston, MA | 6.6 - 6.7 |
@@ -37,7 +40,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Los Angeles](http://angelhack.com/hackathon/los-angeles-2015/) | Los Angeles, CA | 6.6 - 6.7 |
 | [AngelHack Montreal](http://angelhack.com/hackathon/montreal-2015/) | Montreal, Canada | 6.6 - 6.7 |
 | [Hack for Western Mass](http://hackforwesternmass.org/) | Holyoke, MA | 6.6 - 6.8 |
+| [Summer Jam - Connect With Your Team](http://summerjam.challengepost.com/) | Online | 6.6 - 6.27 |
 | [HackMann](http://hackmann.horacemann.org/) | Bronx, NY | 6.7 |
+| [Summer Jam - Financial Literacy](http://summerjam.challengepost.com/) | Online | 6.8 - 6.29 |
 | [Hacking Generation Y Israel](http://hackgeny.com/israel/) | Tel Aviv, Israel | 6.12 - 6.13 |
 | [361 Degree Hackathon Bengaluru](http://greymeter.com/hackathon) | Bengaluru, India | 6.13 - 6.14 |
 | [361 Degree Hackathon Delhi](http://greymeter.com/hackathon) | Delhi, India | 6.13 - 6.14 |
@@ -45,6 +50,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Kuala Lumpur](http://angelhack.com/hackathon/kuala-lumpur-2015/) | Petaling Jaya, Malaysia | 6.13 - 6.14 |
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [Hacking Generation Y India](http://hackerupt.org/) | Bangalore, India | 6.13 |
+| [Summer Jam - The Bionic Hacker](http://summerjam.challengepost.com/) | Online | 6.15 - 7.6 |
 | [VR Hackathon Seattle](http://vrhackathon.com/seattle.html) | Seattle, WA | 6.19 - 6.21 |
 | [AngelHack Delhi](http://angelhack.com/hackathon/delhi-2015/) | New Delhi, India | 6.20 - 6.21 |
 | [AngelHack Hong Kong](http://angelhack.com/hackathon/hongkong-2015/) | Hong Kong, China | 6.20 - 6.21 |
@@ -55,6 +61,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Sense360 iOS Hackathon](http://www.eventbrite.com/e/sense360-ios-hackathon-tickets-17160820476) | Los Angeles, CA | 6.20 |
 | [AngelHack Buenos Aires](http://angelhack.com/hackathon/buenos-2015/) | Buenos Aires, Argentina | 6.21 - 6.22 |
 | [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-portland-tickets-16053435257) | Portland, OR | 6.26 - 6.27 |
+| [Hack{Cyprus}](http://hackathons.hackcyprus.com/2015) | Strovolos, Cyprus | 6.26 - 6.28 |
 | [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
 | [AngelHack Chennai](http://angelhack.com/hackathon/chennai-2015/) | Chennai, India | 6.27 - 6.28 |
 | [AngelHack Maputo](http://angelhack.com/hackathon/maputo-2015/) | Maputo City, Mozambique | 6.27 - 6.28 |
@@ -63,6 +70,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Tokyo](http://angelhack.com/hackathon/tokyo-spring-2015/) | TBD, Japan | 6.27 - 6.28 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
 | [Greylock Hackfest](http://greylocku.com/hackfest/) | Burlingame, CA | 6.27 - 6.28 |
+| [Summer Jam - Maps As Art](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
+| [Summer Jam - Wearable Tech](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
 | [AngelHack Amsterdam](http://angelhack.com/hackathon/amsterdam-2015/) | Amsterdam, Netherlands | 7.4 - 7.5 |
 | [AngelHack Bogota](http://angelhack.com/hackathon/bogota-2015/) | Bogotá D.C., Colombia | 7.4 - 7.5 |
@@ -70,6 +79,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack San Pedro Sula](http://angelhack.com/hackathon/san-pedro-sula-2015/) | San Petro Sula, Honduras | 7.4 - 7.5 |
 | [AngelHack Manhattan](http://angelhack.com/hackathon/manhattan-2015/) | Manhattan, NY | 7.11 - 7.12 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
+| [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
 | [AngelHack Cincinnati](http://angelhack.com/hackathon/cincinnati-2015/) | Covington, KY | 7.18 - 7.19 |
 | [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | TBD | 7.18 - 7.19 |
