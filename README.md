@@ -85,6 +85,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | TBD | 7.18 - 7.19 |
 | [AngelHack Tel Aviv](http://angelhack.com/hackathon/tel-aviv-spring-2015/) | Tel Aviv-Yafo, Israel | 7.18 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
+| [Bay Area Interns Personal Website Hackathon](https://www.facebook.com/events/501665919987158/) | TBD | 7.25 |
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
 | [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
