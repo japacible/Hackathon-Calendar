@@ -51,6 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Tokyo](https://2015.battlehack.org/tokyo) | Tokyo, Japan | 6.13 - 6.14 |
 | [Hacking Generation Y India](http://hackerupt.org/) | Bangalore, India | 6.13 |
 | [Summer Jam - The Bionic Hacker](http://summerjam.challengepost.com/) | Online | 6.15 - 7.6 |
+| [Climathon Boston 2015](http://www.climathonboston.com/) | Multiple Cities | 6.18 |
 | [VR Hackathon Seattle](http://vrhackathon.com/seattle.html) | Seattle, WA | 6.19 - 6.21 |
 | [AngelHack Delhi](http://angelhack.com/hackathon/delhi-2015/) | New Delhi, India | 6.20 - 6.21 |
 | [AngelHack Hong Kong](http://angelhack.com/hackathon/hongkong-2015/) | Hong Kong, China | 6.20 - 6.21 |
