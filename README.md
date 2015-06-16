@@ -70,6 +70,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Seoul](http://angelhack.com/hackathon/seoul-2015/) | Seoul, South Korea | 6.27 - 6.28 |
 | [AngelHack Tokyo](http://angelhack.com/hackathon/tokyo-spring-2015/) | TBD, Japan | 6.27 - 6.28 |
 | [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
+| [Bring Your Daughter To Hack - Day 1](https://bringyourdaughtertohack.splashthat.com/) | San Francisco, CA | 6.27 |
+| [Bring Your Daughter To Hack - Day 2](https://bringyourdaughtertohack.splashthat.com/) | New York City, NY | 6.28 |
 | [Greylock Hackfest](http://greylocku.com/hackfest/) | Burlingame, CA | 6.27 - 6.28 |
 | [Summer Jam - Maps As Art](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
 | [Summer Jam - Wearable Tech](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
@@ -86,6 +88,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | TBD | 7.18 - 7.19 |
 | [AngelHack Tel Aviv](http://angelhack.com/hackathon/tel-aviv-spring-2015/) | Tel Aviv-Yafo, Israel | 7.18 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
+| [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 | 
 | [Bay Area Interns Personal Website Hackathon](https://www.facebook.com/events/501665919987158/) | TBD | 7.25 |
 | [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
