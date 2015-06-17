@@ -85,7 +85,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
 | [AngelHack Cincinnati](http://angelhack.com/hackathon/cincinnati-2015/) | Covington, KY | 7.18 - 7.19 |
-| [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | TBD | 7.18 - 7.19 |
+| [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | Palo Alto, CA | 7.18 - 7.19 |
 | [AngelHack Tel Aviv](http://angelhack.com/hackathon/tel-aviv-spring-2015/) | Tel Aviv-Yafo, Israel | 7.18 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 | 
