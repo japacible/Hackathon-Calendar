@@ -50,7 +50,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 |
 | [New Musical Instruments Hackathon](http://www.eventbrite.com/e/new-musical-instruments-hackathon-tickets-16168387081?aff=es2) | New York, NY | 7.24 - 7.25 |
 | [Bay Area Interns Personal Website Hackathon](https://www.facebook.com/events/501665919987158/) | TBD | 7.25 |
-| [Global Hackathon Seoul](http://seoul.globalhackathon.io/) | Seoul, Korea | 7.29 - 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
 | [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
 | [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
