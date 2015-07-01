@@ -47,6 +47,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Tel Aviv](http://angelhack.com/hackathon/tel-aviv-spring-2015/) | Tel Aviv-Yafo, Israel | 7.18 - 7.19 |
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Hack ECPAT](http://hackecpat.splashthat.com/) | New York, NY | 7.18 - 7.19 |
+| [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.18 - 7.19 |
 | [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 |
 | [New Musical Instruments Hackathon](http://www.eventbrite.com/e/new-musical-instruments-hackathon-tickets-16168387081?aff=es2) | New York, NY | 7.24 - 7.25 |
 | [Bay Area Interns Personal Website Hackathon](https://www.facebook.com/events/501665919987158/) | TBD | 7.25 |
