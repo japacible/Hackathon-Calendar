@@ -60,6 +60,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [AngelHack Cairo](http://angelhack.com/hackathon/cairo-2015/)| Cairo, Egypt| 8.18 - 8.19 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
+| [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
 | [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
