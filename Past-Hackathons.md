@@ -321,3 +321,34 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hacking Generation Y India](http://hackerupt.org/) | Bangalore, India | 6.13 |
 | [Summer Jam - The Bionic Hacker](http://summerjam.challengepost.com/) | Online | 6.15 - 7.6 |
 | [Climathon Boston 2015](http://www.climathonboston.com/) | Multiple Cities | 6.18 |
+| [VR Hackathon Seattle](http://vrhackathon.com/seattle.html) | Seattle, WA | 6.19 - 6.21 |
+| [AngelHack Delhi](http://angelhack.com/hackathon/delhi-2015/) | New Delhi, India | 6.20 - 6.21 |
+| [AngelHack Hong Kong](http://angelhack.com/hackathon/hongkong-2015/) | Hong Kong, China | 6.20 - 6.21 |
+| [AngelHack London](http://angelhack.com/hackathon/london-2015/) | London, UK | 6.20 - 6.21 |
+| [AngelHack Zurich](http://angelhack.com/hackathon/zurich-2015/) | Zurich, Switzerland | 6.20 - 6.21 |
+| [BattleHack Berlin](https://2015.battlehack.org/berlin) | Berlin, Germany | 6.20 - 6.21 |
+| [HackBaroda](http://www.hackbaroda.in/) | Vadodara, India | 6.20 |
+| [Sense360 iOS Hackathon](http://www.eventbrite.com/e/sense360-ios-hackathon-tickets-17160820476) | Los Angeles, CA | 6.20 |
+| [AngelHack Buenos Aires](http://angelhack.com/hackathon/buenos-2015/) | Buenos Aires, Argentina | 6.21 - 6.22 |
+| [Levi's Stadium IoT Hackathon](http://www.eventbrite.com/e/levis-stadium-iot-hackathon-tickets-17177788227?aff=es2) | Santa Clara, CA | 6.22 - 6.24 |
+| [PubHack #4](http://www.eventbrite.co.uk/e/pubhack-4-tickets-15633362809?aff=es2) | Southsea, UK | 6.25 - 6.26 |
+| [Sustainable eCommerce Hackathon](http://www.eventbrite.co.uk/e/sustainable-ecommerce-hackathon-by-unilever-tickets-16579784582?aff=es2) | London, UK | 6.25 - 6.26 |
+| [AT&T Mobile App Hackathon](http://www.eventbrite.com/e/att-mobile-app-hackathon-portland-tickets-16053435257) | Portland, OR | 6.26 - 6.27 |
+| [Game Hack 2015](http://www.eventbrite.com/e/game-hack-2015-rsvp-email-list-tickets-11671011309?aff=es2) | Burbank, CA | 6.26 - 6.28 |
+| [Hack{Cyprus}](http://hackathons.hackcyprus.com/2015) | Strovolos, Cyprus | 6.26 - 6.28 |
+| [Summer Hack Day](http://www.summerhackday.com/) | San Francisco, CA | 6.26 - 6.27 |
+| [AngelHack Chennai](http://angelhack.com/hackathon/chennai-2015/) | Chennai, India | 6.27 - 6.28 |
+| [AngelHack Maputo](http://angelhack.com/hackathon/maputo-2015/) | Maputo City, Mozambique | 6.27 - 6.28 |
+| [AngelHack Seattle](http://angelhack.com/hackathon/seattle-2015/) | Seattle, WA | 6.27 - 6.28 |
+| [AngelHack Seoul](http://angelhack.com/hackathon/seoul-2015/) | Seoul, South Korea | 6.27 - 6.28 |
+| [AngelHack Tokyo](http://angelhack.com/hackathon/tokyo-spring-2015/) | TBD, Japan | 6.27 - 6.28 |
+| [BattleHack Chicago](https://2015.battlehack.org/chicago) | Chicago, IL | 6.27 - 6.28 |
+| [Bring Your Daughter To Hack - Day 1](https://bringyourdaughtertohack.splashthat.com/) | San Francisco, CA | 6.27 |
+| [Destination Hack: London](http://www.eventbrite.com/e/destination-hack-london-tickets-15841892527?aff=es2) | London, UK | 6.27 - 6.28 |
+| [Greylock Hackfest](http://greylocku.com/hackfest/) | Burlingame, CA | 6.27 - 6.28 |
+| [Hackster Hardware Weekend](https://www.eventbrite.com/e/hackster-hardware-weekend-new-york-tickets-16585231875) | New York, NY | 6.27 - 6.28 |
+| [RandTech Hackathon 2015](https://www.eventbrite.com/e/randtech-hackathon-2015-tickets-17332135885) | San Francisco, CA | 6.27 - 6.28 |
+| [Sunnyvale Hacker Home - Mobile App Hackathon](http://www.eventbrite.com/e/sunnyvale-hacker-home-mobile-app-hackathon-tickets-17397067096?aff=es2) | Sunnyvale, CA | 6.27 |
+| [Touch Develop](http://www.eventbrite.co.uk/e/touch-develop-hackathon-27th-june-tickets-17259976053?aff=es2) | Uppingham, UK | 6.27 |
+| [Bring Your Daughter To Hack - Day 2](https://bringyourdaughtertohack.splashthat.com/) | New York City, NY | 6.28 |
+| [Girls Hackathon](http://www.eventbrite.com/e/girls-hackathon-tickets-16908896966?aff=es2) | Livermore, California | 6.28 |
