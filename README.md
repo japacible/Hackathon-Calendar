@@ -11,6 +11,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Summer Jam - Wearable Tech](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
 | [Bioversity Hackathon](http://www.eventbrite.co.uk/e/bioversity-hackathon-tickets-17290622718?aff=es2) | London, UK | 7.3 - 7.6 |
 | [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
+| [Hack Friday](http://www.nycresistor.com/2015/07/01/hackfriday-2015/) | Brooklyn, NY | 7.3 |
 | [Hacka{EXPO}](https://hackaexpo.com/) | Milan, Italy | 7.3 - 7.5 |
 | [AngelHack Amsterdam](http://angelhack.com/hackathon/amsterdam-2015/) | Amsterdam, Netherlands | 7.4 - 7.5 |
 | [AngelHack Bogota](http://angelhack.com/hackathon/bogota-2015/) | Bogotá D.C., Colombia | 7.4 - 7.5 |
@@ -46,6 +47,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Urban Spark Weekend Hackathon](http://www.eventbrite.com/e/urban-spark-weekend-hackathon-pdx-an-iurban-teen-event-tickets-17127992286?aff=es2) | Portland, OR | 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
 | [Piazza Hackathon](http://www.eventbrite.com/e/piazza-hackathon-tickets-17331078723?aff=es2) | Palo Alto, CA | 8.8 |
+| [2015 HackNTU](http://www.accupass.com/event/register/1505141917107287993140) | Taipei City, Taiwan | 8.19 - 8.23 |
 | [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
 | [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
 | [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
