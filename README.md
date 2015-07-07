@@ -79,6 +79,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
+| [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
 | [H2O Hackathon](http://www.eventbrite.com/e/h2o-hackathon-tickets-15609669943?aff=es2) | Stockton, CA | 10.9 |
