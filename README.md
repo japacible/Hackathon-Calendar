@@ -59,10 +59,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
 | [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
+| [MHacks 6](http://mhacks.org/) | Ann Arbor, MI | 9.11 - 9.13 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
 | [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [Hacking Eating Tracking Hackathon](http://www.hackingeatingtracking.org/) | Cambridge, MA | 9.18 - 9.20 |
+| [Audio Hackathon 2015](http://audiohackathon.com/) | New York City, NY | 9.19 - 9.20 | 
 | [Stamford Hackathon 1.0](http://www.eventbrite.com/e/stamford-hackathon-10-tickets-16476307078?aff=es2) | Stamford, CT | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [AEC Hackathon](http://www.meetup.com/Seattle-Hackathons/events/221871146/) | Seattle, WA | 9.25 - 9.27 |
