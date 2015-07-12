@@ -25,6 +25,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Ship It! Saturday Hackathon](http://www.eventbrite.com/e/ship-it-saturday-hackathon-at-launch-academy-tickets-17444688533?aff=es2) | Boston, MA | 7.11 |
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Hackathon for Social Change Tijuana](http://www.eventbrite.com/e/hackathon-for-social-change-tijuana-tickets-17422202276?aff=es2) | Tijuana, Mexico | 7.17 - 7.18 |
+| [Intern Hackday](https://hackday.linkedin.com/intern) | Mountain View, CA | 7.17 - 7.18 |
 | [Lincoln Labs Reboot 2015 Hackathon](http://www.eventbrite.com/e/lincoln-labs-reboot-2015-hackathon-tickets-16499648894?aff=es2) | San Francisco, CA | 7.17 - 7.18 |
 | [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
 | [Women in STEM Hackathon: Apps for Social Impact](http://www.eventbrite.com/e/women-in-stem-hackathon-apps-for-social-impact-tickets-17331779820?aff=es2) | San Mateo, CA | 7.17 - 7.18 |
@@ -47,6 +48,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Urban Spark Weekend Hackathon](http://www.eventbrite.com/e/urban-spark-weekend-hackathon-pdx-an-iurban-teen-event-tickets-17127992286?aff=es2) | Portland, OR | 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
 | [Piazza Hackathon](http://www.eventbrite.com/e/piazza-hackathon-tickets-17331078723?aff=es2) | Palo Alto, CA | 8.8 |
+| [The Invisible Hackathon](http://www.eventbrite.com/e/the-invisible-hackathon-ios-only-tickets-17663321470) | Marina del Rey, CA | 8.8 - 8.9 |
 | [2015 HackNTU](http://www.accupass.com/event/register/1505141917107287993140) | Taipei City, Taiwan | 8.19 - 8.23 |
 | [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
 | [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
