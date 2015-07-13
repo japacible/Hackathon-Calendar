@@ -7,22 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Summer Jam - Maps As Art](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
-| [Summer Jam - Wearable Tech](http://summerjam.challengepost.com/) | Online | 6.29 - 7.20 |
-| [Bioversity Hackathon](http://www.eventbrite.co.uk/e/bioversity-hackathon-tickets-17290622718?aff=es2) | London, UK | 7.3 - 7.6 |
-| [GovHack 2015](http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/) | Multiple Cities | 7.3 - 7.5 |
-| [Hack Friday](http://www.nycresistor.com/2015/07/01/hackfriday-2015/) | Brooklyn, NY | 7.3 |
-| [Hacka{EXPO}](https://hackaexpo.com/) | Milan, Italy | 7.3 - 7.5 |
-| [AngelHack Amsterdam](http://angelhack.com/hackathon/amsterdam-2015/) | Amsterdam, Netherlands | 7.4 - 7.5 |
-| [AngelHack Bogota](http://angelhack.com/hackathon/bogota-2015/) | Bogotá D.C., Colombia | 7.4 - 7.5 |
-| [AngelHack Ho Chi Minh](http://angelhack.com/hackathon/vietnam-2015/) | Hồ Chí Minh, Vietnam | 7.4 - 7.5 |
-| [AngelHack San Pedro Sula](http://angelhack.com/hackathon/san-pedro-sula-2015/) | San Petro Sula, Honduras | 7.4 - 7.5 |
-| [VR Hackathon](https://www.eventbrite.com/e/vr-hackathon-mythos-moxie-tickets-16768828016) | New York, NY | 7.10 - 7.12 |
-| [AngelHack Manhattan](http://angelhack.com/hackathon/manhattan-2015/) | Manhattan, NY | 7.11 - 7.12 |
-| [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |
-| [Hack & Tell](http://www.eventbrite.com/e/hack-tell-tickets-17449095715?aff=es2) | Milwaukee, WI | 7.11 |
-| [Hacking Journalism](http://hackingjournalism.com/) | Washington, DC | 7.11 - 7.12 |
-| [Ship It! Saturday Hackathon](http://www.eventbrite.com/e/ship-it-saturday-hackathon-at-launch-academy-tickets-17444688533?aff=es2) | Boston, MA | 7.11 |
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Hackathon for Social Change Tijuana](http://www.eventbrite.com/e/hackathon-for-social-change-tijuana-tickets-17422202276?aff=es2) | Tijuana, Mexico | 7.17 - 7.18 |
 | [Intern Hackday](https://hackday.linkedin.com/intern) | Mountain View, CA | 7.17 - 7.18 |
