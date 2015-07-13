@@ -71,6 +71,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [AEC Hackathon](http://www.meetup.com/Seattle-Hackathons/events/221871146/) | Seattle, WA | 9.25 - 9.27 |
 | [Hack DC 2](http://www.hackdc.com/) | Washington, DC | 9.25 - 9.27 |
+| [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
 | [hackNY](http://hackny.org/a/fall2015hackathon/) | New York, NY | 9.26 - 9.27 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
@@ -93,8 +94,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
-| [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
+| [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York, NY | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
