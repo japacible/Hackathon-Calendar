@@ -7,6 +7,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [AngelHack IOT Hack](http://iothack2015.com//) | Santa Clara, CA | 7.06 - 7.21 |
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Hackathon for Social Change Tijuana](http://www.eventbrite.com/e/hackathon-for-social-change-tijuana-tickets-17422202276?aff=es2) | Tijuana, Mexico | 7.17 - 7.18 |
 | [Intern Hackday](https://hackday.linkedin.com/intern) | Mountain View, CA | 7.17 - 7.18 |
@@ -20,7 +21,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Hack ECPAT](http://hackecpat.splashthat.com/) | New York, NY | 7.18 - 7.19 |
 | [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.18 - 7.19 |
-| [AngelHack IOT Hack](http://iothack2015.com//) | Santa Clara, CA | 7.06 - 7.21 |
 | [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 |
 | [CANHacks](http://www.eventbrite.com/e/canhacks-tickets-17436562227?aff=es2) | Richardson, TX | 7.24 - 7.25 |
 | [New Musical Instruments Hackathon](http://www.eventbrite.com/e/new-musical-instruments-hackathon-tickets-16168387081?aff=es2) | New York, NY | 7.24 - 7.25 |
