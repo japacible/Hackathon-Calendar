@@ -20,6 +20,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
 | [Hack ECPAT](http://hackecpat.splashthat.com/) | New York, NY | 7.18 - 7.19 |
 | [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.18 - 7.19 |
+| [ImmigrationHack](https://www.eventbrite.com/e/2015-techla-immigrationhack-community-hackathon-training-tickets-17434388726) | Los Angeles, CA | 7.19 |
 | [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 |
 | [CANHacks](http://www.eventbrite.com/e/canhacks-tickets-17436562227?aff=es2) | Richardson, TX | 7.24 - 7.25 |
 | [New Musical Instruments Hackathon](http://www.eventbrite.com/e/new-musical-instruments-hackathon-tickets-16168387081?aff=es2) | New York, NY | 7.24 - 7.25 |
@@ -28,9 +29,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [InternHacks](https://www.facebook.com/events/501665919987158/) | San Francisco, CA | 7.25 |
 | [Internet of Everything Startup Hackathon](http://www.eventbrite.com/e/internet-of-everything-ioe-startup-hackathon-sf-bay-area-tickets-16745687803?aff=es2) | Stanford, CA | 7.31 - 8.2 |
 | [Water Hackathon](http://www.eventbrite.com/e/water-hackathon-tickets-17348973246?aff=es2) | Los Angeles, CA | 7.31 - 8.1 |
+| [DCHacks](http://www.dchacks.org/) | Washington, D.C. | 8.1 - 8.2 |
 | [MasterCard Masters of Code: Mexico City](http://www.eventbrite.com/e/mastercard-masters-of-code-mexico-city-tickets-16639551346?aff=es2) | Mexico, Mexico | 8.1 - 8.2 |
 | [Urban Spark Weekend Hackathon](http://www.eventbrite.com/e/urban-spark-weekend-hackathon-pdx-an-iurban-teen-event-tickets-17127992286?aff=es2) | Portland, OR | 8.1 |
 | [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
+| [Meteor Student Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 8.8 - 8.9 |
 | [Piazza Hackathon](http://www.eventbrite.com/e/piazza-hackathon-tickets-17331078723?aff=es2) | Palo Alto, CA | 8.8 |
 | [The Invisible Hackathon](http://www.eventbrite.com/e/the-invisible-hackathon-ios-only-tickets-17663321470) | Marina del Rey, CA | 8.8 - 8.9 |
 | [2015 HackNTU](http://www.accupass.com/event/register/1505141917107287993140) | Taipei City, Taiwan | 8.19 - 8.23 |
