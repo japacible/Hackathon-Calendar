@@ -369,3 +369,22 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hack & Tell](http://www.eventbrite.com/e/hack-tell-tickets-17449095715?aff=es2) | Milwaukee, WI | 7.11 |
 | [Hacking Journalism](http://hackingjournalism.com/) | Washington, DC | 7.11 - 7.12 |
 | [Ship It! Saturday Hackathon](http://www.eventbrite.com/e/ship-it-saturday-hackathon-at-launch-academy-tickets-17444688533?aff=es2) | Boston, MA | 7.11 |
+| [Hackathon for Social Change Tijuana](http://www.eventbrite.com/e/hackathon-for-social-change-tijuana-tickets-17422202276?aff=es2) | Tijuana, Mexico | 7.17 - 7.18 |
+| [Intern Hackday](https://hackday.linkedin.com/intern) | Mountain View, CA | 7.17 - 7.18 |
+| [Lincoln Labs Reboot 2015 Hackathon](http://www.eventbrite.com/e/lincoln-labs-reboot-2015-hackathon-tickets-16499648894?aff=es2) | San Francisco, CA | 7.17 - 7.18 |
+| [Prime Hack](https://www.primehack.org/) | Taipei, Taiwan | 7.17 - 7.19 |
+| [Women in STEM Hackathon: Apps for Social Impact](http://www.eventbrite.com/e/women-in-stem-hackathon-apps-for-social-impact-tickets-17331779820?aff=es2) | San Mateo, CA | 7.17 - 7.18 |
+| [AngelHack Cincinnati](http://angelhack.com/hackathon/cincinnati-2015/) | Covington, KY | 7.18 - 7.19 |
+| [AngelHack Silicon Valley](http://angelhack.com/hackathon/silicon-valley-2015/) | Palo Alto, CA | 7.18 - 7.19 |
+| [AngelHack Tel Aviv](http://angelhack.com/hackathon/tel-aviv-spring-2015/) | Tel Aviv-Yafo, Israel | 7.18 - 7.19 |
+| [Audio and Music Hackathon London](http://www.eventbrite.com/e/audio-and-music-hackathon-london-tickets-17183538426?aff=es2) | London, UK | 7.18 - 7.19 |
+| [BattleHack Toronto](https://2015.battlehack.org/toronto) | Toronto, Canada | 7.18 - 7.19 |
+| [Hack ECPAT](http://hackecpat.splashthat.com/) | New York, NY | 7.18 - 7.19 |
+| [Hack Midwest](http://hackmidwest.com/) | Kansas City, KS | 7.18 - 7.19 |
+| [ImmigrationHack](https://www.eventbrite.com/e/2015-techla-immigrationhack-community-hackathon-training-tickets-17434388726) | Los Angeles, CA | 7.19 |
+| [Black Girls CODE NY: All Girls Hackathon](https://www.eventbrite.com/e/black-girls-code-new-york-chapter-presents-all-girls-hackathon-registration-17329455869) | Brooklyn, NY | 7.24 - 7.26 |
+| [CANHacks](http://www.eventbrite.com/e/canhacks-tickets-17436562227?aff=es2) | Richardson, TX | 7.24 - 7.25 |
+| [New Musical Instruments Hackathon](http://www.eventbrite.com/e/new-musical-instruments-hackathon-tickets-16168387081?aff=es2) | New York, NY | 7.24 - 7.25 |
+| [SEARS Retail hackathon](http://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-opportunities-registration-11947783141?aff=es2) | Seattle, WA | 7.24 - 7.26 |
+| [#EndALZ Hackathon](http://www.eventbrite.com/e/endalz-hackathon-tickets-16979821102?aff=es2) | Cambridge, MA | 7.25 |
+| [InternHacks](https://www.facebook.com/events/501665919987158/) | San Francisco, CA | 7.25 |
