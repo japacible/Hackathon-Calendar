@@ -363,6 +363,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [AngelHack Bogota](http://angelhack.com/hackathon/bogota-2015/) | Bogotá D.C., Colombia | 7.4 - 7.5 |
 | [AngelHack Ho Chi Minh](http://angelhack.com/hackathon/vietnam-2015/) | Hồ Chí Minh, Vietnam | 7.4 - 7.5 |
 | [AngelHack San Pedro Sula](http://angelhack.com/hackathon/san-pedro-sula-2015/) | San Petro Sula, Honduras | 7.4 - 7.5 |
+| [AngelHack IOT Hack](http://iothack2015.com//) | Santa Clara, CA | 7.06 - 7.21 |
 | [VR Hackathon](https://www.eventbrite.com/e/vr-hackathon-mythos-moxie-tickets-16768828016) | New York, NY | 7.10 - 7.12 |
 | [AngelHack Manhattan](http://angelhack.com/hackathon/manhattan-2015/) | Manhattan, NY | 7.11 - 7.12 |
 | [BattleHack Venice](https://2015.battlehack.org/venice) | Venice, Italy | 7.11 - 7.12 |

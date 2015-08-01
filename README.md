@@ -7,7 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [AngelHack IOT Hack](http://iothack2015.com//) | Santa Clara, CA | 7.06 - 7.21 |
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Internet of Everything Startup Hackathon](http://www.eventbrite.com/e/internet-of-everything-ioe-startup-hackathon-sf-bay-area-tickets-16745687803?aff=es2) | Stanford, CA | 7.31 - 8.2 |
 | [Water Hackathon](http://www.eventbrite.com/e/water-hackathon-tickets-17348973246?aff=es2) | Los Angeles, CA | 7.31 - 8.1 |
