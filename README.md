@@ -26,7 +26,10 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Uni Hack 2015](http://www.eventbrite.com.au/e/unihack-2015-tickets-16968061930) | Melbourne, Australia | 8.15 - 8.16 |
 | [AngelHack Cairo](http://angelhack.com/hackathon/cairo-2015/)| Cairo, Egypt| 8.18 - 8.19 |
 | [STEAM - 3D Teen Hackathon](http://www.eventbrite.com/e/steam-3d-teen-hackathon-2-day-pass-pitch-competition-tickets-17206146046?aff=es2) | Bothell, WA | 8.21 - 8.22 |
+| [Djangothon](https://www.hackerearth.com/djangothon/) | Bengaluru, India | 8.22 - 8.23 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
+| [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
+| [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
 | [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
