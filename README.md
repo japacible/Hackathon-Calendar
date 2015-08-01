@@ -7,6 +7,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [AngelHack IOT Hack](http://iothack2015.com//) | Santa Clara, CA | 7.06 - 7.21 |
 | [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
 | [Hackathon for Social Change Tijuana](http://www.eventbrite.com/e/hackathon-for-social-change-tijuana-tickets-17422202276?aff=es2) | Tijuana, Mexico | 7.17 - 7.18 |
 | [Intern Hackday](https://hackday.linkedin.com/intern) | Mountain View, CA | 7.17 - 7.18 |
