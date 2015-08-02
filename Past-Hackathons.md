@@ -389,3 +389,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [SEARS Retail hackathon](http://www.eventbrite.com/e/sears-retail-hackathon-startup-dev-20k-partnership-opportunities-registration-11947783141?aff=es2) | Seattle, WA | 7.24 - 7.26 |
 | [#EndALZ Hackathon](http://www.eventbrite.com/e/endalz-hackathon-tickets-16979821102?aff=es2) | Cambridge, MA | 7.25 |
 | [InternHacks](https://www.facebook.com/events/501665919987158/) | San Francisco, CA | 7.25 |
+| [Hack the Dot](http://www.eventbrite.com/e/hack-the-dot-seattle-tickets-17535145091) | Seattle, WA | 7.29 |
