@@ -52,6 +52,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
 | [Huskie Hack](http://www.huskiehack.org/) | DeKalb, IL | 9.26 - 9.27 |
 | [Integrate 2015 Hackathon](http://www.eventbrite.com/e/integrate-2015-hackathon-tickets-17091480077?aff=es2) | Sunnyvale, CA | 9.26 - 9.27 |
+| [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
 | [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York, NY | 10.1 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
