@@ -51,6 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
 | [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
+| [Cal Hacks](www.calhacks.io) | Berkeley, CA | 10.9 - 10.11 |
 | [H2O Hackathon](http://www.eventbrite.com/e/h2o-hackathon-tickets-15609669943?aff=es2) | Stockton, CA | 10.9 |
 | [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
 | [VR Hackathon South Africa](http://vrhackathon.com/south-africa.html) | Cape Town, South Africa | 10.9 - 10.11 |
