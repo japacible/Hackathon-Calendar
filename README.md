@@ -38,12 +38,14 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
 | [MHacks 6](http://mhacks.org/) | Ann Arbor, MI | 9.11 - 9.13 |
 | [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
+| [Hack the House](http://www.hack.house/) | London, UK | 9.12 - 9.13 |
 | [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
 | [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
 | [Hacking Eating Tracking Hackathon](http://www.hackingeatingtracking.org/) | Cambridge, MA | 9.18 - 9.20 |
 | [Audio Hackathon 2015](http://audiohackathon.com/) | New York City, NY | 9.19 - 9.20 | 
 | [Stamford Hackathon 1.0](http://www.eventbrite.com/e/stamford-hackathon-10-tickets-16476307078?aff=es2) | Stamford, CT | 9.18 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
+| [TechCrunch Disrupt SF 2015 Hackathon](https://www.eventbrite.com/e/hackathon-at-techcrunch-disrupt-sf-2015-tickets-18151440447) | San Francisco, CA | 9.19 - 9.20 |
 | [AEC Hackathon](http://www.meetup.com/Seattle-Hackathons/events/221871146/) | Seattle, WA | 9.25 - 9.27 |
 | [Hack DC 2](http://www.hackdc.com/) | Washington, DC | 9.25 - 9.27 |
 | [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
@@ -55,6 +57,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
 | [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York, NY | 10.1 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
+| [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
