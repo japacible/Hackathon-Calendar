@@ -7,21 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
-| [Internet of Everything Startup Hackathon](http://www.eventbrite.com/e/internet-of-everything-ioe-startup-hackathon-sf-bay-area-tickets-16745687803?aff=es2) | Stanford, CA | 7.31 - 8.2 |
-| [Water Hackathon](http://www.eventbrite.com/e/water-hackathon-tickets-17348973246?aff=es2) | Los Angeles, CA | 7.31 - 8.1 |
-| [DCHacks](http://www.dchacks.org/) | Washington, D.C. | 8.1 - 8.2 |
-| [MasterCard Masters of Code: Mexico City](http://www.eventbrite.com/e/mastercard-masters-of-code-mexico-city-tickets-16639551346?aff=es2) | Mexico, Mexico | 8.1 - 8.2 |
-| [Urban Spark Weekend Hackathon](http://www.eventbrite.com/e/urban-spark-weekend-hackathon-pdx-an-iurban-teen-event-tickets-17127992286?aff=es2) | Portland, OR | 8.1 |
-| [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
-| [Meteor Student Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 8.8 - 8.9 |
-| [Piazza Hackathon](http://www.eventbrite.com/e/piazza-hackathon-tickets-17331078723?aff=es2) | Palo Alto, CA | 8.8 |
-| [The Invisible Hackathon](http://www.eventbrite.com/e/the-invisible-hackathon-ios-only-tickets-17663321470) | Marina del Rey, CA | 8.8 - 8.9 |
-| [2015 HackNTU](http://www.accupass.com/event/register/1505141917107287993140) | Taipei City, Taiwan | 8.19 - 8.23 |
-| [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
-| [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
-| [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
-| [Waterloo Tech Retreat](http://techretreat.ca/) | Waterloo, Canada | 8.15 |
 | [Uni Hack 2015](http://www.eventbrite.com.au/e/unihack-2015-tickets-16968061930) | Melbourne, Australia | 8.15 - 8.16 |
 | [AngelHack Cairo](http://angelhack.com/hackathon/cairo-2015/)| Cairo, Egypt| 8.18 - 8.19 |
 | [Alexa Skill Open Hackathon](http://aws.amazon.com/start-ups/loft/ny-loft/) | New York City, NY | 8.21 |

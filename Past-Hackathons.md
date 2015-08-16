@@ -390,3 +390,18 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [#EndALZ Hackathon](http://www.eventbrite.com/e/endalz-hackathon-tickets-16979821102?aff=es2) | Cambridge, MA | 7.25 |
 | [InternHacks](https://www.facebook.com/events/501665919987158/) | San Francisco, CA | 7.25 |
 | [Hack the Dot](http://www.eventbrite.com/e/hack-the-dot-seattle-tickets-17535145091) | Seattle, WA | 7.29 |
+| [Summer Jam - Your First API](http://summerjam.challengepost.com/) | Online | 7.13 - 8.3 |
+| [Internet of Everything Startup Hackathon](http://www.eventbrite.com/e/internet-of-everything-ioe-startup-hackathon-sf-bay-area-tickets-16745687803?aff=es2) | Stanford, CA | 7.31 - 8.2 |
+| [Water Hackathon](http://www.eventbrite.com/e/water-hackathon-tickets-17348973246?aff=es2) | Los Angeles, CA | 7.31 - 8.1 |
+| [DCHacks](http://www.dchacks.org/) | Washington, D.C. | 8.1 - 8.2 |
+| [MasterCard Masters of Code: Mexico City](http://www.eventbrite.com/e/mastercard-masters-of-code-mexico-city-tickets-16639551346?aff=es2) | Mexico, Mexico | 8.1 - 8.2 |
+| [Urban Spark Weekend Hackathon](http://www.eventbrite.com/e/urban-spark-weekend-hackathon-pdx-an-iurban-teen-event-tickets-17127992286?aff=es2) | Portland, OR | 8.1 |
+| [BattleHack New York City](https://2015.battlehack.org/new_york_city) | New York City, NY | 8.8 - 8.9 |
+| [Meteor Student Summer Hackathon](http://hackathon.meteor.com/) | San Francisco, CA | 8.8 - 8.9 |
+| [Piazza Hackathon](http://www.eventbrite.com/e/piazza-hackathon-tickets-17331078723?aff=es2) | Palo Alto, CA | 8.8 |
+| [The Invisible Hackathon](http://www.eventbrite.com/e/the-invisible-hackathon-ios-only-tickets-17663321470) | Marina del Rey, CA | 8.8 - 8.9 |
+| [2015 HackNTU](http://www.accupass.com/event/register/1505141917107287993140) | Taipei City, Taiwan | 8.19 - 8.23 |
+| [AngelHack Davao](http://angelhack.com/hackathon/davao-2015/) | Davao City, Philippines | 8.14 - 8.15 |
+| [Hack The Planet](http://hacktheplanet.mlh.io/) | Mountain View, CA | 8.14 - 8.16 |
+| [UNIHACK](http://unihack.net/) | Melbourne, Australia | 8.15 |
+| [Waterloo Tech Retreat](http://techretreat.ca/) | Waterloo, Canada | 8.15 |
