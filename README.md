@@ -72,6 +72,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
+| [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
