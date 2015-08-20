@@ -12,6 +12,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Alexa Skill Open Hackathon](http://aws.amazon.com/start-ups/loft/ny-loft/) | New York City, NY | 8.21 |
 | [DataHack: Rise of the Machines](http://www.eventbrite.com/e/datahack-rise-of-the-machines-tickets-17801299165) | San Francisco, CA | 8.21 - 8.22 |
 | [STEAM - 3D Teen Hackathon](http://www.eventbrite.com/e/steam-3d-teen-hackathon-2-day-pass-pitch-competition-tickets-17206146046?aff=es2) | Bothell, WA | 8.21 - 8.22 |
+| [water! hackathon](https://www.eventbrite.com/e/water-hackathon-tickets-17359104549) | Los Angeles, CA | 8.21 - 8.23 |
 | [Djangothon](https://www.hackerearth.com/djangothon/) | Bengaluru, India | 8.22 - 8.23 |
 | [DevelopHer Hackday](https://hackday.linkedin.com/content/hackday/en-us/developher) | Sunnyvale, CA | 8.28 - 8.29 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
@@ -66,6 +67,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
+| [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York, NY | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
