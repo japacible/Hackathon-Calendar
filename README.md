@@ -14,6 +14,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [STEAM - 3D Teen Hackathon](http://www.eventbrite.com/e/steam-3d-teen-hackathon-2-day-pass-pitch-competition-tickets-17206146046?aff=es2) | Bothell, WA | 8.21 - 8.22 |
 | [water! hackathon](https://www.eventbrite.com/e/water-hackathon-tickets-17359104549) | Los Angeles, CA | 8.21 - 8.23 |
 | [Djangothon](https://www.hackerearth.com/djangothon/) | Bengaluru, India | 8.22 - 8.23 |
+| [MasterCard Masters of Code: San Francisco](http://mastersofcode.com/event/san-francisco/) | San Francisco, CA | 8.22 - 8.23 |
 | [DevelopHer Hackday](https://hackday.linkedin.com/content/hackday/en-us/developher) | Sunnyvale, CA | 8.28 - 8.29 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
 | [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
@@ -69,6 +70,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York, NY | 11.7 - 11.8 |
+| [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
