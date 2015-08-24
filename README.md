@@ -29,6 +29,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [STEAM - 3D Teen Hackathon](http://www.eventbrite.com/e/steam-3d-teen-hackathon-2-day-pass-pitch-competition-tickets-17206146046?aff=es2) | Bothell, WA | 8.21 - 8.22 |
 | [Djangothon](https://www.hackerearth.com/djangothon/) | Bengaluru, India | 8.22 - 8.23 |
 | [DevelopHer Hackday](https://hackday.linkedin.com/content/hackday/en-us/developher) | Sunnyvale, CA | 8.28 - 8.29 |
+| Monthly Music Hackathon ](http://www.meetup.com/Monthly-Music-Hackathon-TORONTO/events/224218360/) | Toronto, Canada | 8.29 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
 | [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
 | [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
@@ -48,6 +49,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack DC 2](http://www.hackdc.com/) | Washington, DC | 9.25 - 9.27 |
 | [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
+| [Genesys Hackathon](http://www.eventbrite.ca/e/genesys-hackathon-top-prize-3-apple-watches-registration-17482134535) | Toronto, Canada | 9.26 - 9.27 |
 | [hackNY](http://hackny.org/a/fall2015hackathon/) | New York, NY | 9.26 - 9.27 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
 | [Huskie Hack](http://www.huskiehack.org/) | DeKalb, IL | 9.26 - 9.27 |
