@@ -78,3 +78,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
+| [ecomhack Cologne](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18   |
+| [ecomHack Berlin](http://berlin.ecomhack.io/) | Berlin, Germany | 10.30 - 11.01 |
+| [ecomhack New York](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
