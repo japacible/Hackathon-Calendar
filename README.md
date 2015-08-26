@@ -17,6 +17,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MasterCard Masters of Code: San Francisco](http://mastersofcode.com/event/san-francisco/) | San Francisco, CA | 8.22 - 8.23 |
 | [DevelopHer Hackday](https://hackday.linkedin.com/content/hackday/en-us/developher) | Sunnyvale, CA | 8.28 - 8.29 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
+| [Sequoia::Hack 2015](http://www.sequoiahack.com/) | Bengaluru, India | 8.29 - 8.30 |
 | [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
 | [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
