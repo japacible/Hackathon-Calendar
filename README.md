@@ -51,6 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
 | [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
 | [#INCLUDE <A-THON>](https://include-hackathon.herokuapp.com) | San Juan, Puerto Rico | 10.3 - 10.4 |
+| [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
 | [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
