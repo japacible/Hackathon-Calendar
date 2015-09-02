@@ -7,18 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Uni Hack 2015](http://www.eventbrite.com.au/e/unihack-2015-tickets-16968061930) | Melbourne, Australia | 8.15 - 8.16 |
-| [AngelHack Cairo](http://angelhack.com/hackathon/cairo-2015/)| Cairo, Egypt| 8.18 - 8.19 |
-| [Alexa Skill Open Hackathon](http://aws.amazon.com/start-ups/loft/ny-loft/) | New York City, NY | 8.21 |
-| [DataHack: Rise of the Machines](http://www.eventbrite.com/e/datahack-rise-of-the-machines-tickets-17801299165) | San Francisco, CA | 8.21 - 8.22 |
-| [STEAM - 3D Teen Hackathon](http://www.eventbrite.com/e/steam-3d-teen-hackathon-2-day-pass-pitch-competition-tickets-17206146046?aff=es2) | Bothell, WA | 8.21 - 8.22 |
-| [water! hackathon](https://www.eventbrite.com/e/water-hackathon-tickets-17359104549) | Los Angeles, CA | 8.21 - 8.23 |
-| [Djangothon](https://www.hackerearth.com/djangothon/) | Bengaluru, India | 8.22 - 8.23 |
-| [MasterCard Masters of Code: San Francisco](http://mastersofcode.com/event/san-francisco/) | San Francisco, CA | 8.22 - 8.23 |
-| [DevelopHer Hackday](https://hackday.linkedin.com/content/hackday/en-us/developher) | Sunnyvale, CA | 8.28 - 8.29 |
-| [Monthly Music Hackathon](http://www.meetup.com/Monthly-Music-Hackathon-TORONTO/events/224218360/) | Toronto, Canada | 8.29 |
-| [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
-| [Sequoia::Hack 2015](http://www.sequoiahack.com/) | Bengaluru, India | 8.29 - 8.30 |
 | [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
 | [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
