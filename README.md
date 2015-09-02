@@ -59,6 +59,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
+| [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York, NY | 11.7 - 11.8 |
