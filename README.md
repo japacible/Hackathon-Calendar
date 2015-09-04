@@ -11,6 +11,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
 | [Unhackathon](http://unhackathon.org/) | New York City, NY | 9.5 - 9.6 |
+| [AT&T Mobile App Hackathon - Seattle](http://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-tickets-17925164650) | Seattle, WA | 9.11 - 9.12 |
 | [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
 | [MHacks 6](http://mhacks.org/) | Ann Arbor, MI | 9.11 - 9.13 |
@@ -27,6 +28,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack DC 2](http://www.hackdc.com/) | Washington, DC | 9.25 - 9.27 |
 | [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
+| [Virtual Reality Hackathon Seattle](http://www.eventbrite.com/e/virtual-reality-hackathon-seattle-tickets-17799672299) | Seattle, WA | 9.25 - 9.27 |
 | [Genesys Hackathon](http://www.eventbrite.ca/e/genesys-hackathon-top-prize-3-apple-watches-registration-17482134535) | Toronto, Canada | 9.26 - 9.27 |
 | [hackNY](http://hackny.org/a/fall2015hackathon/) | New York, NY | 9.26 - 9.27 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
@@ -34,6 +36,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Integrate 2015 Hackathon](http://www.eventbrite.com/e/integrate-2015-hackathon-tickets-17091480077?aff=es2) | Sunnyvale, CA | 9.26 - 9.27 |
 | [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
 | [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York, NY | 10.1 - 10.4 |
+| [Code for the Kingdom Global Hackathon Seattle](http://www.eventbrite.com/e/code-for-the-kingdom-global-hackathon-seattle-registration-17975920462) | Seattle, WA | 10.2 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
