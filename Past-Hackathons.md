@@ -417,3 +417,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Monthly Music Hackathon](http://www.meetup.com/Monthly-Music-Hackathon-TORONTO/events/224218360/) | Toronto, Canada | 8.29 |
 | [Music Games Hackathon](http://www.eventbrite.com/e/music-games-hackathon-tickets-16168573639) | New York, NY | 8.29 |
 | [Sequoia::Hack 2015](http://www.sequoiahack.com/) | Bengaluru, India | 8.29 - 8.30 |
+| [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
+| [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
+| [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
+| [Unhackathon](http://unhackathon.org/) | New York City, NY | 9.5 - 9.6 |

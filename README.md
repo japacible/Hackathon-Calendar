@@ -7,10 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [AMEE Hacks](http://www.ameehacks.com/) | Glasgow, Scotland | 9.4 - 9.6 |
-| [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
-| [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
-| [Unhackathon](http://unhackathon.org/) | New York City, NY | 9.5 - 9.6 |
 | [AT&T Mobile App Hackathon - Seattle](http://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-tickets-17925164650) | Seattle, WA | 9.11 - 9.12 |
 | [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
 | [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
