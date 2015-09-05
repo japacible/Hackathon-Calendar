@@ -30,12 +30,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
 | [Virtual Reality Hackathon Seattle](http://www.eventbrite.com/e/virtual-reality-hackathon-seattle-tickets-17799672299) | Seattle, WA | 9.25 - 9.27 |
 | [Genesys Hackathon](http://www.eventbrite.ca/e/genesys-hackathon-top-prize-3-apple-watches-registration-17482134535) | Toronto, Canada | 9.26 - 9.27 |
-| [hackNY](http://hackny.org/a/fall2015hackathon/) | New York, NY | 9.26 - 9.27 |
+| [hackNY](http://hackny.org/a/fall2015hackathon/) | New York City, NY | 9.26 - 9.27 |
 | [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
 | [Huskie Hack](http://www.huskiehack.org/) | DeKalb, IL | 9.26 - 9.27 |
 | [Integrate 2015 Hackathon](http://www.eventbrite.com/e/integrate-2015-hackathon-tickets-17091480077?aff=es2) | Sunnyvale, CA | 9.26 - 9.27 |
 | [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
-| [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York, NY | 10.1 - 10.4 |
+| [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York City, NY | 10.1 - 10.4 |
 | [Code for the Kingdom Global Hackathon Seattle](http://www.eventbrite.com/e/code-for-the-kingdom-global-hackathon-seattle-registration-17975920462) | Seattle, WA | 10.2 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
@@ -46,6 +46,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [#INCLUDE <A-THON>](https://include-hackathon.herokuapp.com) | San Juan, Puerto Rico | 10.3 - 10.4 |
 | [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
+| [WHACK](http://wellesleyhacks.org/) | Wellesley, MA | 10.3 - 10.4 |
 | [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
 | [Cal Hacks](www.calhacks.io) | Berkeley, CA | 10.9 - 10.11 |
@@ -59,13 +60,14 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
+| [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [Boston Hacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
-| [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York, NY | 11.7 - 11.8 |
+| [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York City, NY | 11.7 - 11.8 |
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
