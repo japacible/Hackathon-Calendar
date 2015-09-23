@@ -55,6 +55,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
 | [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
+| [WearHacks Montreal](http://montreal.wearhacks.com/en/) | Montreal, Canada | 10.2 - 10.4 |
 | [#INCLUDE <A-THON>](https://include-hackathon.herokuapp.com) | San Juan, Puerto Rico | 10.3 - 10.4 |
 | [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
 | [HackRU](http://hackru.org/) | New Brunswick, NJ | 10.3 - 10.4 |
@@ -81,6 +82,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Desert Hacks](http://deserthacks.org/) | Tempte, AZ | 10.23 - 10.25 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
 | [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
+| [WearHacks New York City](https://wearhacksnewyorkcity.splashthat.com/) | New York, NY | 10.23 - 10.25 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
 | [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
@@ -92,6 +94,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
+| [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York City, NY | 11.7 - 11.8 |
