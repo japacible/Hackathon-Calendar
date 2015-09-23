@@ -71,6 +71,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
+| [GSA Digital Innovation Hackathon - Fall 2015 Edition] (http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [jacobsHack!](https://2015f.jacobshack.com/) | Bremen, Germany | 10.17 - 10.18 |
