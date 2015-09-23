@@ -50,6 +50,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MedHacks 1.0](http://medhacks.org/) | Baltimore, MD | 10.2 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [Seattle Give Camp](http://seattlegivecamp.org/) | Redmond, WA | 10.2 - 10.4 |
+| [STS Fall 2015 Hackathon](http://sts.wustl.edu/hackathon/) | St. Louis, MO | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
