@@ -58,6 +58,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
 | [HackRU](http://hackru.org/) | New Brunswick, NJ | 10.3 - 10.4 |
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
+| [MasterCard Masters of Code: Istanbul](http://mastersofcode.com/event/istanbul-turkey/) | Istanbul, Turkey | 10.3 - 10.4 |
 | [WHACK](http://wellesleyhacks.org/) | Wellesley, MA | 10.3 - 10.4 |
 | [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
