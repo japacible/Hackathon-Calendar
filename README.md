@@ -69,6 +69,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon South Africa](http://vrhackathon.com/south-africa.html) | Cape Town, South Africa | 10.9 - 10.11 |
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [MasterCard Masters of Code: St. Louis](http://mastersofcode.com/event/st-louis-missouri-october-10-11-2015/) | St. Louis, MO | 10.10 - 10.11 |
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
