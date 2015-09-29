@@ -50,14 +50,17 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MedHacks 1.0](http://medhacks.org/) | Baltimore, MD | 10.2 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [Seattle Give Camp](http://seattlegivecamp.org/) | Redmond, WA | 10.2 - 10.4 |
+| [STS Fall 2015 Hackathon](http://sts.wustl.edu/hackathon/) | St. Louis, MO | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
 | [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
+| [WearHacks Montreal](http://montreal.wearhacks.com/en/) | Montreal, Canada | 10.2 - 10.4 |
 | [#INCLUDE <A-THON>](https://include-hackathon.herokuapp.com) | San Juan, Puerto Rico | 10.3 - 10.4 |
 | [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
 | [HackRU](http://hackru.org/) | New Brunswick, NJ | 10.3 - 10.4 |
 | [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
+| [MasterCard Masters of Code: Istanbul](http://mastersofcode.com/event/istanbul-turkey/) | Istanbul, Turkey | 10.3 - 10.4 |
 | [WHACK](http://wellesleyhacks.org/) | Wellesley, MA | 10.3 - 10.4 |
 | [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
 | [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
@@ -68,6 +71,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [VR Hackathon South Africa](http://vrhackathon.com/south-africa.html) | Cape Town, South Africa | 10.9 - 10.11 |
 | [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
 | [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [MasterCard Masters of Code: St. Louis](http://mastersofcode.com/event/st-louis-missouri-october-10-11-2015/) | St. Louis, MO | 10.10 - 10.11 |
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
@@ -79,6 +83,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Desert Hacks](http://deserthacks.org/) | Tempte, AZ | 10.23 - 10.25 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
 | [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
+| [WearHacks New York City](https://wearhacksnewyorkcity.splashthat.com/) | New York, NY | 10.23 - 10.25 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
 | [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
@@ -91,6 +96,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
+| [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
 | [HackDuke](http://www.hackduke.org) | Durham, NC | 11.7 - 11.8 |
