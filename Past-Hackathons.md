@@ -421,3 +421,39 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Pebble Rocks Boulder](http://pebblerocksboulder.com/) | Boulder, CO | 9.4 - 9.6 |
 | [PennApps XII](http://2015f.pennapps.com/) | Philadelphia, PA | 9.4 - 9.6 |
 | [Unhackathon](http://unhackathon.org/) | New York City, NY | 9.5 - 9.6 |
+| [AT&T Mobile App Hackathon - Seattle](http://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-tickets-17925164650) | Seattle, WA | 9.11 - 9.12 |
+| [GlobalHack V](http://www.eventbrite.com/e/globalhack-v-tickets-17287634781) | St. Louis, MO | 9.11 - 9.13 |
+| [HopHacks](https://hophacks.com/s15/) | Baltimore, MD | 9.11 - 9.13 |
+| [MHacks 6](http://mhacks.org/) | Ann Arbor, MI | 9.11 - 9.13 |
+| [WeCanCode Ensenada](http://community.advancio.com/wcc-hack-2015-ensenada) | Ensenada, Mexico | 9.11 - 9.12 |
+| [BattleHack Stockholm](https://2015.battlehack.org/stockholm) | Stockholm, Sweden | 9.12 - 9.13 |
+| [Hack Now: Making a Difference](https://www.workwave.com/events/event/0/19-corporate-event/5-hack-now-making-a-difference-third-annual-workwave-hackathon) | West Long Branch, NJ | 9.12 - 9.13 |
+| [Hack the House](http://www.hack.house/) | London, UK | 9.12 - 9.13 |
+| [RamHacks](http://ramhacks.vcu.edu/) | Richmond, VA | 9.12 - 9.13 |
+| [BigRed//Hacks](http://www.bigredhacks.com) | Ithaca, NY | 9.18 - 9.20 |
+| [HackISU](http://hackisu.com/) | Ames, IA | 9.18 - 9.20 |
+| [Hack the North](http://hackthenorth.com) | Waterloo, Canada | 9.18 - 9.20 |
+| [Hacking Eating Tracking Hackathon](http://www.hackingeatingtracking.org/) | Cambridge, MA | 9.18 - 9.20 |
+| [Stamford Hackathon](http://www.stamfordhackathon.org/) | Stamford, CT | 9.18 - 9.20 |
+| [WUHack](http://wuhack.com/) | St. Louis, MO | 9.18 - 9.20 |
+| [Audio Hackathon 2015](http://audiohackathon.com/) | New York City, NY | 9.19 - 9.20 | 
+| [Stamford Hackathon 1.0](http://www.eventbrite.com/e/stamford-hackathon-10-tickets-16476307078?aff=es2) | Stamford, CT | 9.18 - 9.20 |
+| [Hackagong](http://hackagong.com/) | Wollongong, Australia | 9.19 - 9.20 |
+| [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
+| [LexHack](http://lexhack.org/) | Lexington, MA | 9.19 |
+| [TechCrunch Disrupt SF 2015 Hackathon](https://www.eventbrite.com/e/hackathon-at-techcrunch-disrupt-sf-2015-tickets-18151440447) | San Francisco, CA | 9.19 - 9.20 |
+| [Hacks 4 Humanity](http://hacks4humanity.com/) | Tempe, AZ | 9.20 - 9.21 |
+| [AEC Hackathon](http://www.meetup.com/Seattle-Hackathons/events/221871146/) | Seattle, WA | 9.25 - 9.27 |
+| [Hack DC 2](http://www.hackdc.com/) | Washington, DC | 9.25 - 9.27 |
+| [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
+| [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
+| [Virtual Reality Hackathon Seattle](http://www.eventbrite.com/e/virtual-reality-hackathon-seattle-tickets-17799672299) | Seattle, WA | 9.25 - 9.27 |
+| [Code for Kenmore Hackathon](http://www.kenmorewa.gov/hackathon) | Kenmore, WA | 9.26 |
+| [Genesys Hackathon](http://www.eventbrite.ca/e/genesys-hackathon-top-prize-3-apple-watches-registration-17482134535) | Toronto, Canada | 9.26 - 9.27 |
+| [HackCUU](http://www.hackcuu.com/) | Chihuahua, Mexico | 9.26 - 9.27 |
+| [HackGenY](http://www.hackgeny.com/london/) | London, UK | 9.26 - 9.27 |
+| [hackNY](http://hackny.org/a/fall2015hackathon/) | New York City, NY | 9.26 - 9.27 |
+| [HackTX](http://hacktx.com/) | Austin, TX | 9.26 - 9.27 |
+| [Huskie Hack](http://www.huskiehack.org/) | DeKalb, IL | 9.26 - 9.27 |
+| [Integrate 2015 Hackathon](http://www.eventbrite.com/e/integrate-2015-hackathon-tickets-17091480077?aff=es2) | Sunnyvale, CA | 9.26 - 9.27 |
+| [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
