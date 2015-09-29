@@ -34,6 +34,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackGT](http://hackgt.com/) | Atlanta, GA | 9.25 - 9.27 |
 | [MythicApps](http://www.mythicapps.io/) | Lansing, MI | 9.25 - 9.27 |
 | [Virtual Reality Hackathon Seattle](http://www.eventbrite.com/e/virtual-reality-hackathon-seattle-tickets-17799672299) | Seattle, WA | 9.25 - 9.27 |
+| [Code for Kenmore Hackathon](http://www.kenmorewa.gov/hackathon) | Kenmore, WA | 9.26 |
 | [Genesys Hackathon](http://www.eventbrite.ca/e/genesys-hackathon-top-prize-3-apple-watches-registration-17482134535) | Toronto, Canada | 9.26 - 9.27 |
 | [HackCUU](http://www.hackcuu.com/) | Chihuahua, Mexico | 9.26 - 9.27 |
 | [HackGenY](http://www.hackgeny.com/london/) | London, UK | 9.26 - 9.27 |
@@ -75,7 +76,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
-| [GSA Digital Innovation Hackathon - Fall 2015 Edition] (http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
+| [GSA Digital Innovation Hackathon](http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [jacobsHack!](https://2015f.jacobshack.com/) | Bremen, Germany | 10.17 - 10.18 |
@@ -92,6 +93,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
+| [CSNE Hackathon](http://csne-erc.org/students/hackathon) | Seattle, WA | 11.6 - 11.9 |
 | [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
@@ -112,6 +114,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |
 | [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
+| [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
 | [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
