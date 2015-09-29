@@ -86,6 +86,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
+| [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
