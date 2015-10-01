@@ -56,6 +56,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [ecomhack "The New Fashion Experience"](http://berlin.ecomhack.io/) | Berlin, Germany | 10.30 - 11.01 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
+| [Hack InOut](https://hackinout.co/) | Surat, India | 10.31 - 11.1 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
 | [CSNE Hackathon](http://csne-erc.org/students/hackathon) | Seattle, WA | 11.6 - 11.9 |
 | [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
@@ -82,6 +83,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
 | [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
+| [Innovation Drive for Impact](http://www.rtbi.in/Hackathon/) | Chennai, India | 11.28 |
+| [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
