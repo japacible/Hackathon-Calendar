@@ -70,6 +70,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [HackHarvard](http://hackharvard.org/) | Cambridge, MA | 11.13 - 11.15 |
+| [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
 | [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
 | [OHI/O 2015](http://hack.osu.edu/) | Columbus, OH | 11.14 - 11.15 |
