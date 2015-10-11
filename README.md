@@ -82,6 +82,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
 | [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
+| [Disrupt London Hackathon 2015] (http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, U.K. | 12.5 - 12.6| 
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
