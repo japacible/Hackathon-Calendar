@@ -40,7 +40,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
 | [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
 | [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
+| [Facebook SEA: LGBTQA Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-lgbtqa-student-hackathon-tickets-18511132295) | Seattle, WA | 10.16 - 10.17 |
 | [GSA Digital Innovation Hackathon](http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
+| [HackATL](http://hackatl.org/) | Atlanta, GA | 10.16 - 10.18 |
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [jacobsHack!](https://2015f.jacobshack.com/) | Bremen, Germany | 10.17 - 10.18 |
@@ -73,17 +75,18 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
 | [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
+| [Hack4Fem Hackathon](http://www.hack4fem.org/) | Boston, MA | 11.14 |
 | [OHI/O 2015](http://hack.osu.edu/) | Columbus, OH | 11.14 - 11.15 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
 | [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Toronto, Canada | 11.20 - 11.22 |
-| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |
+| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |g
 | [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
 | [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
-| [Disrupt London Hackathon 2015] (http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, U.K. | 12.5 - 12.6| 
+| [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6| 
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
