@@ -441,6 +441,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hackagong](http://hackagong.com/) | Wollongong, Australia | 9.19 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
 | [LexHack](http://lexhack.org/) | Lexington, MA | 9.19 |
+| [Project Tango Hackathon](http://bvrgdg.devpost.com/) | Boston, MA | 9.19 |
 | [TechCrunch Disrupt SF 2015 Hackathon](https://www.eventbrite.com/e/hackathon-at-techcrunch-disrupt-sf-2015-tickets-18151440447) | San Francisco, CA | 9.19 - 9.20 |
 | [Hacks 4 Humanity](http://hacks4humanity.com/) | Tempe, AZ | 9.20 - 9.21 |
 | [AEC Hackathon](http://www.meetup.com/Seattle-Hackathons/events/221871146/) | Seattle, WA | 9.25 - 9.27 |
