@@ -55,7 +55,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
 | [Money 20/20 Hackathon](http://www.money2020.com/) | Las Vegas, NV | 10.25 - 10.28 |
-| [ecomhack "The New Fashion Experience"](http://berlin.ecomhack.io/) | Berlin, Germany | 10.30 - 11.01 |
+| [ecomHack "The New Shopping Experience"](http://berlin.ecomhack.io/) | Berlin, Germany | 10.30 - 11.1 |
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Hack InOut](https://hackinout.co/) | Surat, India | 10.31 - 11.1 |
