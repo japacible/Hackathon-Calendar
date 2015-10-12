@@ -78,6 +78,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Desert Hacks](http://deserthacks.org/) | Tempte, AZ | 10.23 - 10.25 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
 | [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
+[CA GreenGov Challenge] (http://www.dgs.ca.gov/dgs/Home/GreenGovChallenge.aspx) | Sacramento, CA | 10.24 - 10-.25|
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
 | [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
