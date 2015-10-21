@@ -79,6 +79,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
 | [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
 | [Hack4Fem Hackathon](http://www.hack4fem.org/) | Boston, MA | 11.14 |
+| [EnergyHack Reloaded](http://www.energyhack.de/) | Berlin, GER| 11.14 |
 | [OHI/O 2015](http://hack.osu.edu/) | Columbus, OH | 11.14 - 11.15 |
 | [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
 | [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Toronto, Canada | 11.20 - 11.22 |
