@@ -458,3 +458,42 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Huskie Hack](http://www.huskiehack.org/) | DeKalb, IL | 9.26 - 9.27 |
 | [Integrate 2015 Hackathon](http://www.eventbrite.com/e/integrate-2015-hackathon-tickets-17091480077?aff=es2) | Sunnyvale, CA | 9.26 - 9.27 |
 | [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
+| [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York City, NY | 10.1 - 10.4 |
+| [Code for the Kingdom Global Hackathon Seattle](http://www.eventbrite.com/e/code-for-the-kingdom-global-hackathon-seattle-registration-17975920462) | Seattle, WA | 10.2 - 10.4 |
+| [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
+| [inGenius 2015](http://ingeniushack.com/) | Bangalore, India | 10.2 - 10.3 |
+| [MavHack](http://www.mavhack.com/) | Arlington, TX | 10.2 - 10.3 |
+| [MedHacks 1.0](http://medhacks.org/) | Baltimore, MD | 10.2 - 10.4 |
+| [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
+| [Seattle Give Camp](http://seattlegivecamp.org/) | Redmond, WA | 10.2 - 10.4 |
+| [STS Fall 2015 Hackathon](http://sts.wustl.edu/hackathon/) | St. Louis, MO | 10.2 - 10.4 |
+| [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
+| [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
+| [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
+| [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
+| [WearHacks Montreal](http://montreal.wearhacks.com/en/) | Montreal, Canada | 10.2 - 10.4 |
+| [#INCLUDE <A-THON>](https://include-hackathon.herokuapp.com) | San Juan, Puerto Rico | 10.3 - 10.4 |
+| [HackDartmouth](http://hackdartmouth.io/) | Hanover, NH | 10.3 - 10.4 |
+| [HackRU](http://hackru.org/) | New Brunswick, NJ | 10.3 - 10.4 |
+| [Hack Upstate VI](http://hackupstate.com/) | Syracuse, NY | 10.3 - 10.4 |
+| [MasterCard Masters of Code: Istanbul](http://mastersofcode.com/event/istanbul-turkey/) | Istanbul, Turkey | 10.3 - 10.4 |
+| [WHACK](http://wellesleyhacks.org/) | Wellesley, MA | 10.3 - 10.4 |
+| [Amazon AWS re:invent](http://reinvent.awsevents.com/) | Las Vegas, NV | 10.5 - 10.9 |
+| [BlowHack](https://www.eventbrite.co.uk/e/blowhack-tickets-16555279286?hc_location=ufi) | TBD | 10.7 - 10.9 |
+| [Cal Hacks](www.calhacks.io) | Berkeley, CA | 10.9 - 10.11 |
+| [H2O Hackathon](http://www.eventbrite.com/e/h2o-hackathon-tickets-15609669943?aff=es2) | Stockton, CA | 10.9 |
+| [HackNC](http://hacknc.com/) | Chapel Hill, NC | 10.9 - 10.11 |
+| [Kent Hack Enough](http://khe.io) | Kent, OH | 10.9 - 10.11 |
+| [VR Hackathon South Africa](http://vrhackathon.com/south-africa.html) | Cape Town, South Africa | 10.9 - 10.11 |
+| [Local Hack Day II](http://localhackday.mlh.io/) | Multiple Cities | 10.10 |
+| [BattleHack Tel Aviv](https://2015.battlehack.org/tel_aviv) | Tel Aviv, Israel | 10.10 - 10.11 |
+| [MasterCard Masters of Code: St. Louis](http://mastersofcode.com/event/st-louis-missouri-october-10-11-2015/) | St. Louis, MO | 10.10 - 10.11 |
+| [I2E Healthcare Hackathon](http://www.eventbrite.com/e/linguamatics-text-mining-summit-and-i2e-healthcare-hackathon-2015-tickets-16330157942?aff=es2) | Newport, RI | 10.12 - 10.14 |
+| [BoilerMake](http://boilermake.org/) | West Lafayette, IN | 10.16 - 10.18 |
+| [ecomhack "Everyday Commerce"](http://cologne.ecomhack.io/) | Cologne, Germany | 10.16 - 10.18 |
+| [Facebook SEA: LGBTQA Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-lgbtqa-student-hackathon-tickets-18511132295) | Seattle, WA | 10.16 - 10.17 |
+| [GSA Digital Innovation Hackathon](http://open.gsa.gov/Digital-Innovation-Hackathon-Fall2015/) | Washington, DC | 10.16 |
+| [HackATL](http://hackatl.org/) | Atlanta, GA | 10.16 - 10.18 |
+| [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
+| [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
+| [jacobsHack!](https://2015f.jacobshack.com/) | Bremen, Germany | 10.17 - 10.18 |
