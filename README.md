@@ -11,6 +11,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Desert Hacks](http://deserthacks.org/) | Tempte, AZ | 10.23 - 10.25 |
 | [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
 | [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
+| [The Hackathon of Outlandish Things](https://www.eventbrite.com/e/the-hackathon-of-outlandish-things-seattle-tickets-18300052951) | Seattle, WA | 10.23 - 10.24 |
 | [WearHacks New York City](https://wearhacksnewyorkcity.splashthat.com/) | New York, NY | 10.23 - 10.25 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
 | [CA GreenGov Challenge](http://www.dgs.ca.gov/dgs/Home/GreenGovChallenge.aspx) | Sacramento, CA | 10.24 - 10.25 |
@@ -27,6 +28,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
 | [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
+| [Product Hunt Hackathon](http://www.producthunthackathon.com/) | London, UK | 11.6 - 11.8 |
 | [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
@@ -47,7 +49,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Toronto, Canada | 11.20 - 11.22 |
 | [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |g
 | [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
+| [Facebook Seattle: Women Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-women-student-hackathon-tickets-18511223568?aff=es2) | Seattle, WA | 11.20 - 11.21 |
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
+| [HackTrain](http://hacktrain.com/) | London, UK | 11.20 - 11.22 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
