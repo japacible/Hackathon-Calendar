@@ -13,6 +13,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
 | [WearHacks New York City](https://wearhacksnewyorkcity.splashthat.com/) | New York, NY | 10.23 - 10.25 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
+| [CA GreenGov Challenge](http://www.dgs.ca.gov/dgs/Home/GreenGovChallenge.aspx) | Sacramento, CA | 10.24 - 10.25 |
 | [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
 | [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
 | [Money 20/20 Hackathon](http://www.money2020.com/) | Las Vegas, NV | 10.24 - 10.25 |
@@ -58,6 +59,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+<<<<<<< HEAD
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
+=======
+>>>>>>> f32d182c3266a7ffea3c170726d6834aae26dac8
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
