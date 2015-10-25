@@ -63,9 +63,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-<<<<<<< HEAD
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
-=======
->>>>>>> f32d182c3266a7ffea3c170726d6834aae26dac8
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
