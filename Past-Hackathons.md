@@ -497,3 +497,14 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [VR Hackathon Albania](http://vrhackathon.com/albania.html) | Tirana, Albania | 10.16 - 10.18 |
 | [DubHacks](http://15f.dubhacks.co/) | Seattle, WA | 10.17 - 10.18 |
 | [jacobsHack!](https://2015f.jacobshack.com/) | Bremen, Germany | 10.17 - 10.18 |
+| [AGHacks](http://www.aghacks.com/) | Krakow, Poland | 10.23 - 10.25 |
+| [Desert Hacks](http://deserthacks.org/) | Tempte, AZ | 10.23 - 10.25 |
+| [HackingEDU](http://hackingedu.co/) | San Mateo, CA | 10.23 - 10.25 |
+| [HackUMass](http://www.hackumass.com/) | Amherst, MA | 10.23 - 10.25 |
+| [The Hackathon of Outlandish Things](https://www.eventbrite.com/e/the-hackathon-of-outlandish-things-seattle-tickets-18300052951) | Seattle, WA | 10.23 - 10.24 |
+| [WearHacks New York City](https://wearhacksnewyorkcity.splashthat.com/) | New York, NY | 10.23 - 10.25 |
+| [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.24 - 10.25 |
+| [CA GreenGov Challenge](http://www.dgs.ca.gov/dgs/Home/GreenGovChallenge.aspx) | Sacramento, CA | 10.24 - 10.25 |
+| [def hacks()](http://defhacks.xyz/) | New York City, NY | 10.24 - 10.25 |
+| [Waterloo Codefest](http://www.waterloo.ca/en/government/WaterlooCodefest.asp) | Waterloo, Canada | 10.24 - 10.25 |
+| [Money 20/20 Hackathon](http://www.money2020.com/) | Las Vegas, NV | 10.24 - 10.25 |
