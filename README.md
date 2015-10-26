@@ -75,6 +75,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CodeDay](https://codeday.org/) | 19 Cities, US | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.8 - 11.9 |
 | [HackHarvard](http://hackharvard.org/) | Cambridge, MA | 11.13 - 11.15 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.13 - 11.15 |
 | [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
 | [Codestellation](http://codestellation.io/) | Waltham, MA | 11.14 - 11.15 |
 | [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
