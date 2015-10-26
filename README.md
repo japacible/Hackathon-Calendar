@@ -70,6 +70,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
 | [Hack the Debate](http://hackthedebate.com/) | Washington, DC | 11.7 - 11.8 |
 | [HackDuke](http://www.hackduke.org) | Durham, NC | 11.7 - 11.8 |
+| [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.7 - 11.8 |
 | [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York City, NY | 11.7 - 11.8 |
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [CodeDay](https://codeday.org/) | 19 Cities, US | 11.7 - 11.8 |
