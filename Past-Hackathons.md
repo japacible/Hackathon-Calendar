@@ -151,7 +151,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [THacks](http://thacks.org/) | Beijing, China | 11.22 - 11.23 |
 | [WildHacks](http://wildhacks.org/) | Evaston, IL | 11.22 - 11.23 |
 | [Yo Hackathon](https://www.eventbrite.com/e/24-hr-yo-hackathon-at-yo-headquarters-in-sf-tickets-13686186753) | San Francisco, CA | 11.22 - 11.23 |
-| [MADhack - Mobile App Development Hackathon](http://www.resco.net/madhack/) | Bratislava, SVK | 11.27 - 11.28 |
 | [HACKAGONG](http://hackagong.com/) | Wollongong, Australia | 11.29 - 11.30 |
 | [OxHACK 2014](http://oxhack.co.uk/) | Oxford, UK | 11.29 - 11.30 |
 | [Local Hack Day](http://localhackday.mlh.io/) | Multiple Cities | 12.6 |
