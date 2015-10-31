@@ -22,6 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Hack InOut](https://hackinout.co/) | Surat, India | 10.31 - 11.1 |
+| [Quickbooks Connect Hackathon](http://www.hackathon.io/quickbooks-connect) | San Jose, CA | 11.1-11.2 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
 | [CSNE Hackathon](http://csne-erc.org/students/hackathon) | Seattle, WA | 11.6 - 11.9 |
 | [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
