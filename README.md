@@ -11,14 +11,17 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
 | [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
 | [Hack InOut](https://hackinout.co/) | Surat, India | 10.31 - 11.1 |
-| [Quickbooks Connect Hackathon](http://www.hackathon.io/quickbooks-connect) | San Jose, CA | 11.1-11.2 |
+| [Quickbooks Connect Hackathon](http://www.eventbrite.com/e/quickbooks-connect-100k-hackathon-tickets-18343862988) | San Jose, CA | 11.1 - 11.2 |
 | [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
 | [CSNE Hackathon](http://csne-erc.org/students/hackathon) | Seattle, WA | 11.6 - 11.9 |
 | [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
+| [FinnApps Party](http://www.finappsparty.com/) | Barcelona, Spain | 11.6 - 11.7 |
 | [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
 | [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
+| [Health Promotion Innovation Challenge](http://defi-innovation-sante.org/) | Montreal, Canada | 11.6 - 11.8 |
 | [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
 | [Product Hunt Hackathon](http://www.producthunthackathon.com/) | London, UK | 11.6 - 11.8 |
+| [Swisscom IoT Hackathon](http://iot-hackathon.swisscom.com/) | Zurich, Switzerland | 11.6 - 11.8 |
 | [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
