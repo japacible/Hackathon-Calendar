@@ -64,4 +64,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
+| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
