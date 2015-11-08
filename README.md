@@ -26,6 +26,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
 | [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
+| [CHE Hacks](https://chehacks.com/) | Cherry Hill, NJ | 11.7 - 11.8 |
 | [Hack the Debate](http://hackthedebate.com/) | Washington, DC | 11.7 - 11.8 |
 | [HackDuke](http://www.hackduke.org) | Durham, NC | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.7 - 11.8 |
@@ -57,7 +58,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.28 - 11.29 |
 | [Innovation Drive for Impact](http://www.rtbi.in/Hackathon/) | Chennai, India | 11.28 |
 | [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
-| [OpenHack](http://www.openhack.io/)  | Lund, Sweden | 12.4 - 12.6|
+| [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
 | [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
 
 | Hackathon                                                | Location        | Date (2016)            |
