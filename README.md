@@ -63,8 +63,10 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
+| [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
