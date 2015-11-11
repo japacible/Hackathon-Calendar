@@ -7,33 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [ecomHack "The New Shopping Experience"](http://berlin.ecomhack.io/) | Berlin, Germany | 10.30 - 11.1 |
-| [LeadingAge HackFest](http://www.eventbrite.com/e/2015-leadingage-hackfest-hackathon-registration-11225376403?aff=es2) | Boston, MA | 10.30 - 11.1 |
-| [BostonHacks](https://bostonhacks.io/) | Boston, MA | 10.31 - 11.1 |
-| [Hack InOut](https://hackinout.co/) | Surat, India | 10.31 - 11.1 |
-| [Quickbooks Connect Hackathon](http://www.eventbrite.com/e/quickbooks-connect-100k-hackathon-tickets-18343862988) | San Jose, CA | 11.1 - 11.2 |
-| [Citrus Hack](https://citrushack.com) | Riverside, CA | 11.6 - 11.8 |
-| [CSNE Hackathon](http://csne-erc.org/students/hackathon) | Seattle, WA | 11.6 - 11.9 |
-| [Facebook Student of Colors Hackathon](https://fb.me/sea-poc-hack) | Seattle, WA | 11.6 - 11.7 |
-| [FinnApps Party](http://www.finappsparty.com/) | Barcelona, Spain | 11.6 - 11.7 |
-| [HackHolyoke](http://www.hackholyoke.org/) | South Hadley, MA | 11.6 - 11.7 |
-| [hackUstate](http://hackustate.org/) | Logan, UT | 11.6 - 11.7 |
-| [Health Promotion Innovation Challenge](http://defi-innovation-sante.org/) | Montreal, Canada | 11.6 - 11.8 |
-| [ING Hackathon](http://hackathon.ingbank.com.tr/) | Istanbul, Turkey | 11.6 - 11.8 |
-| [Junction Hackathon](http://hackjunction.com/index.html) | Helsinki, Finland | 11.6 - 11.8 |
-| [Product Hunt Hackathon](http://www.producthunthackathon.com/) | London, UK | 11.6 - 11.8 |
-| [Swisscom IoT Hackathon](http://iot-hackathon.swisscom.com/) | Zurich, Switzerland | 11.6 - 11.8 |
-| [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
-| [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
-| [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
-| [CHE Hacks](https://chehacks.com/) | Cherry Hill, NJ | 11.7 - 11.8 |
-| [Hack the Debate](http://hackthedebate.com/) | Washington, DC | 11.7 - 11.8 |
-| [HackDuke](http://www.hackduke.org) | Durham, NC | 11.7 - 11.8 |
-| [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.7 - 11.8 |
-| [MasterCard Masters of Code: New York](http://www.eventbrite.com/e/mastercard-masters-of-code-new-york-tickets-14977044744?aff=es2) | New York City, NY | 11.7 - 11.8 |
-| [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
-| [CodeDay](https://codeday.org/) | 19 Cities, US | 11.7 - 11.8 |
-| [HackShanghai](http://www.hackshanghai.com/) | Shanghai, China | 11.7 - 11.8 |
 | [HackHarvard](http://hackharvard.org/) | Cambridge, MA | 11.13 - 11.15 |
 | [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.13 - 11.15 |
 | [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
