@@ -22,6 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
 | [Facebook Seattle: Women Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-women-student-hackathon-tickets-18511223568?aff=es2) | Seattle, WA | 11.20 - 11.21 |
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
+| [Hack the TV](http://www.eventbrite.com/e/hack-the-tv-tickets-18913305205) | San Francisco, CA | 11.20 - 11.22 |
 | [HackTrain](http://hacktrain.com/) | London, UK | 11.20 - 11.22 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
@@ -30,6 +31,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MADhack - Mobile App Development Hackathon](http://www.resco.net/madhack/) | Bratislava, SVK | 11.27 - 11.28 |
 | [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.28 - 11.29 |
 | [Innovation Drive for Impact](http://www.rtbi.in/Hackathon/) | Chennai, India | 11.28 |
+| [JPHacks](https://jphacks.com/) | Multiple Cities, Japan | 11.28 - 11.29 |
 | [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
 | [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
 | [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
