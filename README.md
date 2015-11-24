@@ -24,7 +24,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
 | [Hack the TV](http://www.eventbrite.com/e/hack-the-tv-tickets-18913305205) | San Francisco, CA | 11.20 - 11.22 |
 | [HackTrain](http://hacktrain.com/) | London, UK | 11.20 - 11.22 |
-| [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 11.20 - 11.22 |
 | [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
 | [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
 | [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
@@ -55,3 +54,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 03.19 - 03.21 |
