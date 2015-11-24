@@ -47,6 +47,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
 | [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
+| [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
