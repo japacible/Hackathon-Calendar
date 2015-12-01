@@ -40,8 +40,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
 | [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
-| [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [DeltaHacks II](http://deltahacks.com) | Hamilton, Canada | 1.16 - 1.17 |
+| [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
 | [HackBeanpot](https://www.eventbrite.com/e/hackbeanpot-2016-a-hackathon-for-bostons-students-tickets-19414641716) | Cambridge, MA | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
@@ -55,5 +55,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
-| [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
+| [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
