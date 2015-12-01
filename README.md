@@ -33,6 +33,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [JPHacks](https://jphacks.com/) | Multiple Cities, Japan | 11.28 - 11.29 |
 | [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
 | [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
+| [All Star Hacks](http://allstarhacks.tk/) | New York City, NY | 12.12 |
 | [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
 | [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
 
