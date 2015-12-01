@@ -51,6 +51,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
 | [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
+| [HackTJ](https://hacktj.org/) | Alexandria, VA | 2.6 - 2.7 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
