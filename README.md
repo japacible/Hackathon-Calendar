@@ -59,3 +59,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
