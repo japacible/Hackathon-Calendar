@@ -40,15 +40,19 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
+| [HackRice](http://hack.rice.edu/) | Houston, TX | 1.15 - 1.17 |
 | [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
+| [QuackHack](http://www.quackhack.io/) | Eugene, OR | 1.15 - 1.17 |
 | [DeltaHacks II](http://deltahacks.com) | Hamilton, Canada | 1.16 - 1.17 |
 | [DragonHacks](http://dragonhacks.io/) | Philadelphia, PA | 1.16 - 1.17 |
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
 | [HackBeanpot](https://www.eventbrite.com/e/hackbeanpot-2016-a-hackathon-for-bostons-students-tickets-19414641716) | Cambridge, MA | 1.22 - 1.24 |
+| [IrishHacks](http://irishhacks.org/) | South Bend, IN | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
+| [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
 | [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
 | [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
 | [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
@@ -58,7 +62,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
+| [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
+| [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
