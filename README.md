@@ -51,10 +51,12 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [IrishHacks](http://irishhacks.org/) | South Bend, IN | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
+| [Yale Healthcare Hackathon](http://www.yalehackhealth.org/) | New Haven, CT | 1.22 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
 | [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
 | [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
 | [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
+| [Hack the Brain](http://www.bulldoghacks.org/) | New Haven, CT | 2.5 - 2.6 |
 | [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
 | [Hack@Brown](https://2016.hackatbrown.org/) | Providence, RI | 2.6 - 2.7 |
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
