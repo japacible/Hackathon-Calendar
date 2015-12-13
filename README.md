@@ -9,7 +9,9 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [All Star Hacks](http://allstarhacks.tk/) | New York City, NY | 12.12 |
 | [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
+| [HackKings](http://hackkings.org/) | London, UK | 12.12 - 12.13 |
 | [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
+| [Hack the Holidays](https://hacktheholidays.io/) | Peterborough, UK | 12.19 - 12.20 |
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
@@ -47,4 +49,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
