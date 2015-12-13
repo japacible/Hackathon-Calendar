@@ -535,3 +535,29 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [CodeDay](https://codeday.org/) | 19 Cities, US | 11.7 - 11.8 |
 | [HackShanghai](http://www.hackshanghai.com/) | Shanghai, China | 11.7 - 11.8 |
+| [HackHarvard](http://hackharvard.org/) | Cambridge, MA | 11.13 - 11.15 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.13 - 11.15 |
+| [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
+| [Codestellation](http://codestellation.io/) | Waltham, MA | 11.14 - 11.15 |
+| [EnergyHack Reloaded](http://www.energyhack.de/) | Berlin, Germany | 11.14 |
+| [Hack4Fem Hackathon](http://www.hack4fem.org/) | Boston, MA | 11.14 |
+| [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
+| [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
+| [OHI/O 2015](http://hack.osu.edu/) | Columbus, OH | 11.14 - 11.15 |
+| [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
+| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Toronto, Canada | 11.20 - 11.22 |
+| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |g
+| [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
+| [Facebook Seattle: Women Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-women-student-hackathon-tickets-18511223568?aff=es2) | Seattle, WA | 11.20 - 11.21 |
+| [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
+| [Hack the TV](http://www.eventbrite.com/e/hack-the-tv-tickets-18913305205) | San Francisco, CA | 11.20 - 11.22 |
+| [HackTrain](http://hacktrain.com/) | London, UK | 11.20 - 11.22 |
+| [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
+| [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
+| [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
+| [MADhack - Mobile App Development Hackathon](http://www.resco.net/madhack/) | Bratislava, SVK | 11.27 - 11.28 |
+| [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.28 - 11.29 |
+| [Innovation Drive for Impact](http://www.rtbi.in/Hackathon/) | Chennai, India | 11.28 |
+| [JPHacks](https://jphacks.com/) | Multiple Cities, Japan | 11.28 - 11.29 |
+| [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
+| [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
