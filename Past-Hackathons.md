@@ -564,4 +564,5 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [JPHacks](https://jphacks.com/) | Multiple Cities, Japan | 11.28 - 11.29 |
 | [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
 | [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
+| [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
 | [GreatUniHack](http://greatunihack.com/) | Manchester, UK | 12.5 - 12.6 |

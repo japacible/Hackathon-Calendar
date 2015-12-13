@@ -8,7 +8,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | Hackathon                                                | Location        | Date (2015)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [All Star Hacks](http://allstarhacks.tk/) | New York City, NY | 12.12 |
-| [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
 | [HackKings](http://hackkings.org/) | London, UK | 12.12 - 12.13 |
 | [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
 | [Hack the Holidays](https://hacktheholidays.io/) | Peterborough, UK | 12.19 - 12.20 |
