@@ -22,7 +22,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [DragonHacks](http://dragonhacks.io/) | Philadelphia, PA | 1.16 - 1.17 |
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
-| [HackBeanpot](https://www.eventbrite.com/e/hackbeanpot-2016-a-hackathon-for-bostons-students-tickets-19414641716) | Cambridge, MA | 1.22 - 1.24 |
+| [HackBeanpot](http://www.hackbeanpot.com) | Cambridge, MA | 1.22 - 1.24 |
 | [IrishHacks](http://irishhacks.org/) | South Bend, IN | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
