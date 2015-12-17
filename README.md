@@ -43,6 +43,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
+| [UHack] (http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
