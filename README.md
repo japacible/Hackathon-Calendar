@@ -5,13 +5,6 @@ This repo tracks upcoming hackathons. To add a hackathon to this list, please su
 
 Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
 
-| Hackathon                                                | Location        | Date (2015)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
-| [All Star Hacks](http://allstarhacks.tk/) | New York City, NY | 12.12 |
-| [HackKings](http://hackkings.org/) | London, UK | 12.12 - 12.13 |
-| [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
-| [Hack the Holidays](https://hacktheholidays.io/) | Peterborough, UK | 12.19 - 12.20 |
-
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
@@ -23,7 +16,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
 | [HackBeanpot](http://www.hackbeanpot.com) | Cambridge, MA | 1.22 - 1.24 |
-| [IrishHacks](http://irishhacks.org/) | South Bend, IN | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
 | [Yale Healthcare Hackathon](http://www.yalehackhealth.org/) | New Haven, CT | 1.22 - 1.24 |
