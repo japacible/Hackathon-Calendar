@@ -50,3 +50,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Makerthon Mebourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
+| [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
