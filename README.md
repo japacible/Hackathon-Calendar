@@ -42,6 +42,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackTJ](https://hacktj.org/) | Alexandria, VA | 2.6 - 2.7 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
+| [MakeMIT](http://makemit.org/) | Cambridge, MA | 2.13 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
