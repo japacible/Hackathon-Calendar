@@ -21,6 +21,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [DeltaHacks II](http://deltahacks.com) | Hamilton, Canada | 1.16 - 1.17 |
 | [DragonHacks](http://dragonhacks.io/) | Philadelphia, PA | 1.16 - 1.17 |
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
+| [Charlotte Hack] (https://www.eventbrite.com/e/charlotte-hack-unc-charlotte-tickets-19538149130/) | Charlotte, NC | 1.22 -1.23 | 
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
 | [HackBeanpot](http://www.hackbeanpot.com) | Cambridge, MA | 1.22 - 1.24 |
 | [IrishHacks](http://irishhacks.org/) | South Bend, IN | 1.22 - 1.24 |
