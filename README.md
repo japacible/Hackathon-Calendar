@@ -43,6 +43,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
+| [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [def hacks()] (http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
