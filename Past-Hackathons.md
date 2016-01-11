@@ -460,6 +460,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [MasterCard Masters of Code: Montreal](http://mastersofcode.com/event/montreal/) | Montreal, Canada | 9.26 - 9.27 |
 | [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York City, NY | 10.1 - 10.4 |
 | [Code for the Kingdom Global Hackathon Seattle](http://www.eventbrite.com/e/code-for-the-kingdom-global-hackathon-seattle-registration-17975920462) | Seattle, WA | 10.2 - 10.4 |
+| [Glasgow Uni Hackathon](http://gutechsoc.com/hackathon) | Glasgow, Scotland | 10.2 - 10.4 |
 | [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
 | [inGenius 2015](http://ingeniushack.com/) | Bangalore, India | 10.2 - 10.3 |
 | [MavHack](http://www.mavhack.com/) | Arlington, TX | 10.2 - 10.3 |
@@ -526,8 +527,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Swisscom IoT Hackathon](http://iot-hackathon.swisscom.com/) | Zurich, Switzerland | 11.6 - 11.8 |
 | [WearHacks Los Angeles](http://wearhacksla.splashthat.com/) | Los Angeles, CA | 11.6 - 11.8 |
 | [YHack](http://www.yhack.org) | New Haven, CT | 11.6 - 11.8 |
-| [Aston Hack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
+| [AstonHack](http://astonhack.co.uk/) | Birmingham, UK | 11.7 - 11.8 |
 | [CHE Hacks](https://chehacks.com/) | Cherry Hill, NJ | 11.7 - 11.8 |
+| [FuseHack](http://www.fusehack.com/) | Amsterdam, Netherland | 11.7 - 11.8 |
 | [Hack the Debate](http://hackthedebate.com/) | Washington, DC | 11.7 - 11.8 |
 | [HackDuke](http://www.hackduke.org) | Durham, NC | 11.7 - 11.8 |
 | [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.7 - 11.8 |
@@ -535,3 +537,36 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.7 - 11.8 |
 | [CodeDay](https://codeday.org/) | 19 Cities, US | 11.7 - 11.8 |
 | [HackShanghai](http://www.hackshanghai.com/) | Shanghai, China | 11.7 - 11.8 |
+| [HackHarvard](http://hackharvard.org/) | Cambridge, MA | 11.13 - 11.15 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.13 - 11.15 |
+| [HackSC](http://hacksc.com/) | Los Angeles, CA | 11.13 - 11.15 |
+| [BathHack](http://www.bathhack.com/) | Bath, UK | 11.14 - 11.15 |
+| [Codestellation](http://codestellation.io/) | Waltham, MA | 11.14 - 11.15 |
+| [EnergyHack Reloaded](http://www.energyhack.de/) | Berlin, Germany | 11.14 |
+| [Hack4Fem Hackathon](http://www.hack4fem.org/) | Boston, MA | 11.14 |
+| [HackRPI](http://www.hackrpi.com/) | Troy, NY | 11.14 - 11.15 |
+| [MasterCard Masters of Code: London](http://www.eventbrite.com/e/mastercard-masters-of-code-london-tickets-14977046750?aff=es2) | London, UK | 11.14 - 11.15 |
+| [OHI/O 2015](http://hack.osu.edu/) | Columbus, OH | 11.14 - 11.15 |
+| [BattleHack Finals](https://2014.battlehack.org/finals) | San Jose, CA | 11.15 - 11.16 |
+| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Toronto, Canada | 11.20 - 11.22 |
+| [<Br/eak>Poverty Hackathon](http://www.devswithoutborders.org/breakpoverty) | Nairobi, Kenya| 11.20 - 11.22 |
+| [ecomhack "Personal Commerce"](http://newyork.ecomhack.io/) | New York City, NY | 11.20 - 11.22 |
+| [Facebook Seattle: Women Student Hackathon](https://www.eventbrite.com/e/facebook-seattle-women-student-hackathon-tickets-18511223568?aff=es2) | Seattle, WA | 11.20 - 11.21 |
+| [hack cc](http://www.hackcc.org/) | Los Angeles, CA | 11.20 - 11.22 |
+| [Hack the TV](http://www.eventbrite.com/e/hack-the-tv-tickets-18913305205) | San Francisco, CA | 11.20 - 11.22 |
+| [HackTrain](http://hacktrain.com/) | London, UK | 11.20 - 11.22 |
+| [CodeRED](http://uhcode.red/) | Houston, TX | 11.21 - 11.22 |
+| [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.21 - 11.22 |
+| [Hack Western 2](https://hackwestern.com/) | London, Canada | 11.27 - 11.29 |
+| [MADhack - Mobile App Development Hackathon](http://www.resco.net/madhack/) | Bratislava, SVK | 11.27 - 11.28 |
+| [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.28 - 11.29 |
+| [Innovation Drive for Impact](http://www.rtbi.in/Hackathon/) | Chennai, India | 11.28 |
+| [JPHacks](https://jphacks.com/) | Multiple Cities, Japan | 11.28 - 11.29 |
+| [Opportunity Hack](http://opportunity-hack-2015-chennai.devpost.com/) | Chennai, India | 11.28 - 11.29 |
+| [OpenHack](http://www.openhack.io/) | Lund, Sweden | 12.4 - 12.6|
+| [Disrupt London Hackathon 2015](http://techcrunch.com/events/disrupt-london-hackathon-2015/event-home/)  | London, UK | 12.5 - 12.6|
+| [GreatUniHack](http://greatunihack.com/) | Manchester, UK | 12.5 - 12.6 |
+| [All Star Hacks](http://allstarhacks.tk/) | New York City, NY | 12.12 |
+| [HackKings](http://hackkings.org/) | London, UK | 12.12 - 12.13 |
+| [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
+| [Hack the Holidays](https://hacktheholidays.io/) | Peterborough, UK | 12.19 - 12.20 |
