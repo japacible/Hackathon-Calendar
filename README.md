@@ -30,6 +30,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack the Brain](http://www.bulldoghacks.org/) | New Haven, CT | 2.5 - 2.6 |
 | [HackFSU](http://hackfsu.com/) | Tallahassee, FL | 2.5 - 2.7 |
 | [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
+| [Scotiabank Hack IT: Debt Challenge](http://www.scotiabankhackit.com/) | Toronto, Canada | 2.5 - 2.7 |
 | [Hack@Brown](https://2016.hackatbrown.org/) | Providence, RI | 2.6 - 2.7 |
 | [Hack@Smith](http://hackatsmith.org/) | Northampton, MA | 2.6 - 2.7 |
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
