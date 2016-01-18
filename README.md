@@ -29,7 +29,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Fashion / Tech Hackthon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.29 - 1.31 |
 | [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
 | [Startup Weekend: EuroSeattle 3](http://www.up.co/communities/usa/seattle/startup-weekend/6911) | Seattle, WA | 1.29 - 1.31 |
-| [BudweiserTackle Impossible](http://www.tackleimpossible.com/) | Toronto, Canada | 1.29 - 1.31 |
+| [Budweiser Tackle Impossible](http://www.tackleimpossible.com/) | Toronto, Canada | 1.29 - 1.31 |
 | [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
 | [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
 | [Hack the Brain](http://www.bulldoghacks.org/) | New Haven, CT | 2.5 - 2.6 |
