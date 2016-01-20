@@ -50,6 +50,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
 | [NFL Hackathon](http://nflhackathon.com/) | San Francisco, CA | 2.20 - 2.21 |
 | [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
+| [Philly Codefest 4.0](http://phillycodefest.com/) | Philadelphia, PA | 2.20 - 2.21 |
 | [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
