@@ -57,6 +57,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | London, UK| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | Zurich, Switzerland | 3.4 - 3.6 |
+| [StudentHack](https://studenthack.com/) | Manchester, UK | 3.4 - 3.6 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
 | [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
