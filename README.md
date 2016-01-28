@@ -10,6 +10,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CODEX Hackathon](http://codexhackathon.com/) | Cambridge, MA | 1.8 - 1.10 |
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
 | [HackRice](http://hack.rice.edu/) | Houston, TX | 1.15 - 1.17 |
+| [IndiaHacks](http://https://www.hackerearth.com/sprints/open-source-india-hacks-2016//) | Online Hackathon  | 1.30 - 3.1 |
 | [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
 | [Girls in Tech's Super Football App Challenge Hackathon](https://www.eventbrite.com/e/hosted-at-galvanize-espnw-presents-girls-in-techs-super-football-app-challenge-hackathon-tickets-19453661425?aff=ebrowse) | San Francisco, CA | 1.15 - 1.17 |
 | [QuackHack](http://www.quackhack.io/) | Eugene, OR | 1.15 - 1.17 |
