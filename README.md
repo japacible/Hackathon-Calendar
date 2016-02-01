@@ -65,4 +65,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
+| [HackRU](http://hackru.org/) | Piscataway, NJ | 4.16 - 4.17 |
 | [VR Hackathon](http://vrhackathon.com/seattle.html) | Seattle, WA | 4.22 - 4.24 |
