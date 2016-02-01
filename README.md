@@ -66,3 +66,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
 | [VR Hackathon](http://vrhackathon.com/seattle.html) | Seattle, WA | 4.22 - 4.24 |
+| [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
