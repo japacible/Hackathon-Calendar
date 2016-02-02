@@ -61,6 +61,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [def hacks()](http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
+| [GrizzHacks](http://grizzhacks.com) | Rochester, MI | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
