@@ -35,6 +35,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack the Left](https://www.facebook.com/events/205927149755389) | San Francisco, CA | 2.5 - 2.7 |
 | [HackFSU](http://hackfsu.com/) | Tallahassee, FL | 2.5 - 2.7 |
 | [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
+| [HopHacks](https://hophacks.com/) | Baltimore, MD | 2.5 - 2.7 |
 | [Scotiabank Hack IT: Debt Challenge](http://www.scotiabankhackit.com/) | Toronto, Canada | 2.5 - 2.7 |
 | [SotonHack](http://hacka.typeform.com/to/t5o4r5) | Southampton, UK | 2.5 - 2.7 |
 | [Hack@Brown](https://2016.hackatbrown.org/) | Providence, RI | 2.6 - 2.7 |
