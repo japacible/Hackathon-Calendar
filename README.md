@@ -54,6 +54,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
+| [MasseyHacks] (https://bit.ly/masseyhacks/) | Windsor, Ontario | 2.27 
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | London, UK| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | Zurich, Switzerland | 3.4 - 3.6 |
