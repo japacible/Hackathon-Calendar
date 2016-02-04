@@ -52,6 +52,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
 | [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
+| [SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)](https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350) | Hamburg, Germany | 2.25 - 2.27 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
