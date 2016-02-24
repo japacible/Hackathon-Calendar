@@ -55,6 +55,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
+| [MangoHacks](http://mangohacks.com/) | Miami, FL| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | London, UK| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | Zurich, Switzerland | 3.4 - 3.6 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
