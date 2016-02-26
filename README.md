@@ -10,7 +10,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [CODEX Hackathon](http://codexhackathon.com/) | Cambridge, MA | 1.8 - 1.10 |
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
 | [HackRice](http://hack.rice.edu/) | Houston, TX | 1.15 - 1.17 |
-| [IndiaHacks](https://www.hackerearth.com/sprints/open-source-india-hacks-2016//) | Online Hackathon  | 1.30 - 3.1 |
 | [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
 | [Girls in Tech's Super Football App Challenge Hackathon](https://www.eventbrite.com/e/hosted-at-galvanize-espnw-presents-girls-in-techs-super-football-app-challenge-hackathon-tickets-19453661425?aff=ebrowse) | San Francisco, CA | 1.15 - 1.17 |
 | [QuackHack](http://www.quackhack.io/) | Eugene, OR | 1.15 - 1.17 |
@@ -26,6 +25,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Yale Healthcare Hackathon](http://www.yalehackhealth.org/) | New Haven, CT | 1.22 - 1.24 |
 | [ConUHacks](http://conuhacks.io/) | Montreal, Canada | 1.23 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
+| [IndiaHacks](https://www.hackerearth.com/sprints/open-source-india-hacks-2016) | Online | 1.28 - 2.29 |
 | [Expedia Hackathon @ UW](http://expedia-seattle-hackathon.devpost.com/) | Seattle, WA | 1.29 - 1.31 |
 | [Fashion / Tech Hackthon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.29 - 1.31 |
 | [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
