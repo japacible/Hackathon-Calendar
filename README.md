@@ -26,11 +26,11 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [ConUHacks](http://conuhacks.io/) | Montreal, Canada | 1.23 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
 | [IndiaHacks](https://www.hackerearth.com/sprints/open-source-india-hacks-2016) | Online | 1.28 - 2.29 |
+| [Budweiser Tackle Impossible](http://www.tackleimpossible.com/) | Toronto, Canada | 1.29 - 1.31 |
 | [Expedia Hackathon @ UW](http://expedia-seattle-hackathon.devpost.com/) | Seattle, WA | 1.29 - 1.31 |
 | [Fashion / Tech Hackthon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.29 - 1.31 |
 | [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
 | [Startup Weekend: EuroSeattle 3](http://www.up.co/communities/usa/seattle/startup-weekend/6911) | Seattle, WA | 1.29 - 1.31 |
-| [Budweiser Tackle Impossible](http://www.tackleimpossible.com/) | Toronto, Canada | 1.29 - 1.31 |
 | [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
 | [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
 | [Hack the Brain](http://www.bulldoghacks.org/) | New Haven, CT | 2.5 - 2.6 |
@@ -44,15 +44,15 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack@Smith](http://hackatsmith.org/) | Northampton, MA | 2.6 - 2.7 |
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
 | [HackTJ](https://hacktj.org/) | Alexandria, VA | 2.6 - 2.7 |
-| [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [Nuimo Hackathon](https://www.eventbrite.com/e/nuimo-hackathon-tickets-21057873667) | Berlin, Germany | 2.6 |
+| [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [Winter WonderHack](https://wwhack.org/) | Houghton, Michigan | 2.12 - 2.14 |
 | [MakeMIT](http://makemit.org/) | Cambridge, MA | 2.13 |
+| [Hack UPC](https://hackupc.com/) | Barcelona, Spain | 2.19 - 2.21 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
-| [Hack UPC](https://hackupc.com/) | Barcelona, ESP | 2.19 - 2.21 |
 | [McHacks](https://mchacks.io/) | Montreal, Canada | 2.20 - 2.21 |
 | [NFL Hackathon](http://nflhackathon.com/) | San Francisco, CA | 2.20 - 2.21 |
 | [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
@@ -61,17 +61,17 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)](https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350) | Hamburg, Germany | 2.25 - 2.27 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
-| [VTHacks](http://www.vthacks.com/) | Blacksburg, VA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
+| [VTHacks](http://www.vthacks.com/) | Blacksburg, VA | 2.26 - 2.28 |
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [MasseyHacks](https://bit.ly/masseyhacks/) | Windsor, Ontario | 2.27 |
 | [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 2.27 - 2.28 |
 | [Qredo Hackathon for Mobile App Devs](https://www.eventbrite.co.uk/e/qredo-hackathon-for-mobile-app-developers-tickets-19602719261/) | London, UK | 2.27 - 2.28 |
 | [Hackfest ISM](http://www.hackfestism.org/) | Dhanbad, India | 3.4 - 3.6 |
 | [MangoHacks](http://mangohacks.com/) | Miami, FL| 3.4 - 3.6 |
+| [QHacks](http://qhacks.io/) | Kingston, Canada | 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | London, UK| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | Zurich, Switzerland | 3.4 - 3.6 |
-| [QHacks](http://qhacks.io/) | Kingston, Canada | 3.4 - 3.6 |
 | [StudentHack](https://studenthack.com/) | Manchester, UK | 3.4 - 3.6 |
 | [THack Berlin Travel Hackathon](https://www.eventbrite.com/e/thack-berlin-travel-hackathon-tickets-20834398246) | Berlin, Germany | 3.4 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
@@ -79,7 +79,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [WearHacks Toronto 2](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
-| [Baseball Hack Day](http://www.baseballhackday.com/) | Boston, Philly, Montreal and, now Chicago | 3.19 |
+| [Baseball Hack Day](http://www.baseballhackday.com/) | Multiple Cities | 3.19 |
 | [def hacks()](http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
 | [GrizzHacks](http://grizzhacks.com) | Rochester, MI | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
