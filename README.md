@@ -53,6 +53,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
+| [VTHacks](http://www.vthacks.com/) | Blacksburg, VA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [MangoHacks](http://mangohacks.com/) | Miami, FL| 3.4 - 3.6 |
