@@ -42,6 +42,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
 | [HackTJ](https://hacktj.org/) | Alexandria, VA | 2.6 - 2.7 |
 | [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
+| [Nuimo Hackathon](https://www.eventbrite.com/e/nuimo-hackathon-tickets-21057873667) | Berlin, Germany | 2.6 |
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [Winter WonderHack](https://wwhack.org/) | Houghton, Michigan | 2.12 - 2.14 |
 | [MakeMIT](http://makemit.org/) | Cambridge, MA | 2.13 |
