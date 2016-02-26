@@ -66,6 +66,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [def hacks()](http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [tribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 4.1 - 4.3 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
