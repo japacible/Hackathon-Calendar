@@ -25,6 +25,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Yale Healthcare Hackathon](http://www.yalehackhealth.org/) | New Haven, CT | 1.22 - 1.24 |
 | [ConUHacks](http://conuhacks.io/) | Montreal, Canada | 1.23 - 1.24 |
 | [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
+| [IndiaHacks](https://www.hackerearth.com/sprints/open-source-india-hacks-2016) | Online | 1.28 - 2.29 |
 | [Expedia Hackathon @ UW](http://expedia-seattle-hackathon.devpost.com/) | Seattle, WA | 1.29 - 1.31 |
 | [Fashion / Tech Hackthon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.29 - 1.31 |
 | [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
