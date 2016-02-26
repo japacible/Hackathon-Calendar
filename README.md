@@ -63,6 +63,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [VTHacks](http://www.vthacks.com/) | Blacksburg, VA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
+| [MasseyHacks] (https://bit.ly/masseyhacks/) | Windsor, Ontario | 2.27 
 | [HackLondon](https://hacklondon.org/) | London, UK | 2.27 - 2.28 |
 | [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 2.27 - 2.28 |
 | [MangoHacks](http://mangohacks.com/) | Miami, FL| 3.4 - 3.6 |
