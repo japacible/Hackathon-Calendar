@@ -67,6 +67,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MasseyHacks](https://bit.ly/masseyhacks/) | Windsor, Ontario | 2.27 |
 | [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 2.27 - 2.28 |
 | [Qredo Hackathon for Mobile App Devs](https://www.eventbrite.co.uk/e/qredo-hackathon-for-mobile-app-developers-tickets-19602719261/) | London, UK | 2.27 - 2.28 |
+| [Hackfest ISM](http://www.hackfestism.org/) | Dhanbad, India | 3.4 - 3.6 |
 | [MangoHacks](http://mangohacks.com/) | Miami, FL| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | London, UK| 3.4 - 3.6 |
 | [SIX Hackathon](http://www.six-group.com/about/en/site/hackathon.html) | Zurich, Switzerland | 3.4 - 3.6 |
