@@ -7,58 +7,6 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [CODEX Hackathon](http://codexhackathon.com/) | Cambridge, MA | 1.8 - 1.10 |
-| [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
-| [HackRice](http://hack.rice.edu/) | Houston, TX | 1.15 - 1.17 |
-| [Knight Hacks](http://knighthacks.org/) | Orlando, FL | 1.15 - 1.17 |
-| [Girls in Tech's Super Football App Challenge Hackathon](https://www.eventbrite.com/e/hosted-at-galvanize-espnw-presents-girls-in-techs-super-football-app-challenge-hackathon-tickets-19453661425?aff=ebrowse) | San Francisco, CA | 1.15 - 1.17 |
-| [QuackHack](http://www.quackhack.io/) | Eugene, OR | 1.15 - 1.17 |
-| [DeltaHacks II](http://deltahacks.com) | Hamilton, Canada | 1.16 - 1.17 |
-| [DragonHacks](http://dragonhacks.io/) | Philadelphia, PA | 1.16 - 1.17 |
-| [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
-| [MLK Day & Civic Hack](https://www.eventbrite.com/e/super-happy-dev-house-sea3-mlk-day-civic-hack-tickets-20498508591) | Seattle, WA | 1.17 |
-| [Charlotte Hack](https://www.eventbrite.com/e/charlotte-hack-unc-charlotte-tickets-19538149130/) | Charlotte, NC | 1.22 -1.23 | 
-| [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
-| [HackBeanpot](http://www.hackbeanpot.com) | Cambridge, MA | 1.22 - 1.24 |
-| [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
-| [UofTHacks](https://uofthacks.com/) | Toronto, Canada | 1.22 - 1.24 |
-| [Yale Healthcare Hackathon](http://www.yalehackhealth.org/) | New Haven, CT | 1.22 - 1.24 |
-| [ConUHacks](http://conuhacks.io/) | Montreal, Canada | 1.23 - 1.24 |
-| [SwampHacks](http://swamphacks.com/) | Gainesville, FL | 1.23 - 1.24 |
-| [IndiaHacks](https://www.hackerearth.com/sprints/open-source-india-hacks-2016) | Online | 1.28 - 2.29 |
-| [Budweiser Tackle Impossible](http://www.tackleimpossible.com/) | Toronto, Canada | 1.29 - 1.31 |
-| [Expedia Hackathon @ UW](http://expedia-seattle-hackathon.devpost.com/) | Seattle, WA | 1.29 - 1.31 |
-| [Fashion / Tech Hackthon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.29 - 1.31 |
-| [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 1.29 - 1.31 |
-| [Startup Weekend: EuroSeattle 3](http://www.up.co/communities/usa/seattle/startup-weekend/6911) | Seattle, WA | 1.29 - 1.31 |
-| [Hack Cambridge](http://www.hackcambridge.com/) | Cambridge, UK | 1.30 - 1.31 |
-| [Los Altos Hacks](http://www.losaltoshacks.com/) | Mountain View, CA | 1.30 - 1.31 |
-| [Hack the Brain](http://www.bulldoghacks.org/) | New Haven, CT | 2.5 - 2.6 |
-| [Hack the Left](https://www.facebook.com/events/205927149755389) | San Francisco, CA | 2.5 - 2.7 |
-| [HackFSU](http://hackfsu.com/) | Tallahassee, FL | 2.5 - 2.7 |
-| [HackYSU](http://hackysu.com/) | Youngstown, OH | 2.5 - 2.7 |
-| [HopHacks](https://hophacks.com/) | Baltimore, MD | 2.5 - 2.7 |
-| [Scotiabank Hack IT: Debt Challenge](http://www.scotiabankhackit.com/) | Toronto, Canada | 2.5 - 2.7 |
-| [SotonHack](http://hacka.typeform.com/to/t5o4r5) | Southampton, UK | 2.5 - 2.7 |
-| [Hack@Brown](https://2016.hackatbrown.org/) | Providence, RI | 2.6 - 2.7 |
-| [Hack@Smith](http://hackatsmith.org/) | Northampton, MA | 2.6 - 2.7 |
-| [Hackpoly](http://www.hackpoly.com/) | Pomona, CA | 2.6 - 2.7 |
-| [HackTJ](https://hacktj.org/) | Alexandria, VA | 2.6 - 2.7 |
-| [Nuimo Hackathon](https://www.eventbrite.com/e/nuimo-hackathon-tickets-21057873667) | Berlin, Germany | 2.6 |
-| [Venture](http://venture.leangap.org/) | Cambridge, MA | 2.6 - 2.7 |
-| [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
-| [Winter WonderHack](https://wwhack.org/) | Houghton, Michigan | 2.12 - 2.14 |
-| [MakeMIT](http://makemit.org/) | Cambridge, MA | 2.13 |
-| [Hack UPC](https://hackupc.com/) | Barcelona, Spain | 2.19 - 2.21 |
-| [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
-| [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
-| [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
-| [McHacks](https://mchacks.io/) | Montreal, Canada | 2.20 - 2.21 |
-| [NFL Hackathon](http://nflhackathon.com/) | San Francisco, CA | 2.20 - 2.21 |
-| [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
-| [Philly Codefest 4.0](http://phillycodefest.com/) | Philadelphia, PA | 2.20 - 2.21 |
-| [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
-| [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)](https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350) | Hamburg, Germany | 2.25 - 2.27 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
