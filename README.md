@@ -48,6 +48,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |
 | [MHacks 7](http://mhacks.org/) | Ann Arbor, MI | 2.19 - 2.21 |
+| [Hack UPC](https://hackupc.com/) | Barcelona, ESP | 2.19 - 2.21 |
 | [NFL Hackathon](http://nflhackathon.com/) | San Francisco, CA | 2.20 - 2.21 |
 | [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
 | [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
