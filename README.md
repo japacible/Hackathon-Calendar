@@ -92,3 +92,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [QueensHack](https://queenshack.nyc) | Queens, NYC | 4.23 - 4.24 |
 | [hackMHS](http://hackmhs.com/) | Millburn, NJ | 5.21 - 5.22 |
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
+| [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
