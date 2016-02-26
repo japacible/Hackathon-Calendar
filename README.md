@@ -53,6 +53,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Hack UPC](https://hackupc.com/) | Barcelona, ESP | 2.19 - 2.21 |
 | [NFL Hackathon](http://nflhackathon.com/) | San Francisco, CA | 2.20 - 2.21 |
 | [OHacks](http://www.ohacks.co/) | Oakland, CA | 2.20 |
+| [Philly Codefest 4.0](http://phillycodefest.com/) | Philadelphia, PA | 2.20 - 2.21 |
 | [T9Hacks](http://t9hacks.org/) | Boulder, CO | 2.20 - 2.21 |
 | [UHack](http://coe.miami.edu/uhack2015/) | Miami, FL | 2.20 - 2.21 |
 | [SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)](https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350) | Hamburg, Germany | 2.25 - 2.27 |
