@@ -87,4 +87,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [HackRU](http://hackru.org/) | Piscataway, NJ | 4.16 - 4.17 |
 | [VR Hackathon](http://vrhackathon.com/seattle.html) | Seattle, WA | 4.22 - 4.24 |
 | [QueensHack](https://queenshack.nyc) | Queens, NYC | 4.23 - 4.24 |
+| [hackMHS](http://hackmhs.com/) | Millburn, NJ | 5.21 - 5.22 |
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
