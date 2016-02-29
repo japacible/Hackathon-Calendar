@@ -36,6 +36,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
 | [HackRU](http://hackru.org/) | Piscataway, NJ | 4.16 - 4.17 |
+| [Uncommon Hacks](https://www.uncommonhacks.com/) | Chicago, IL | 4.16 - 4.17 |
 | [VR Hackathon](http://vrhackathon.com/seattle.html) | Seattle, WA | 4.22 - 4.24 |
 | [QueensHack](https://queenshack.nyc) | Queens, NYC | 4.23 - 4.24 |
 | [hackMHS](http://hackmhs.com/) | Millburn, NJ | 5.21 - 5.22 |
