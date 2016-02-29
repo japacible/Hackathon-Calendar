@@ -1,12 +1,18 @@
 Upcoming Hackathons
 ===================
 
-This repo tracks upcoming hackathons. To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. **Keep hackathons organized by start date and then alphabetically.**
+This repo tracks upcoming hackathons.
 
-Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
+To add a hackathon to this list, please submit an issue or fork this repo and
+submit a pull request.
 
-| Hackathon                                                | Location        | Date (2016)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
+**Keep hackathons organized by start date and then alphabetically.**
+
+Inspired by the
+[Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) repo.
+
+| Hackathon               | Location                | Date (2016)             |
+| ----------------------- | ----------------------- | :---------------------: |
 | [SehenHörenTeilen - der Hackathon von NDR und ARD Aktuell (Tagesschau)](https://www.eventbrite.com/e/sehenhorenteilen-der-hackathon-von-ndr-und-ard-aktuell-tagesschau-tickets-20415513350) | Hamburg, Germany | 2.25 - 2.27 |
 | [Hacktech](http://hacktech.io/) | Pasadena, CA | 2.26 - 2.28 |
 | [SpartaHack 2016](https://spartahack.com/) | East Lansing, MI | 2.26 - 2.28 |
