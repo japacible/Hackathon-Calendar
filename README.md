@@ -31,6 +31,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [def hacks()](http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
 | [GrizzHacks](http://grizzhacks.com) | Rochester, MI | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 4.1 - 4.3 |
 | [tribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 4.1 - 4.3 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
