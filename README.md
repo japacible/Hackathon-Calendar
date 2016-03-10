@@ -42,4 +42,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [hackMHS](http://hackmhs.com/) | Millburn, NJ | 5.21 - 5.22 |
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
-| [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 4.26 |
+| [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
