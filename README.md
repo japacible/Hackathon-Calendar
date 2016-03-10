@@ -24,8 +24,8 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [THack Berlin Travel Hackathon](https://www.eventbrite.com/e/thack-berlin-travel-hackathon-tickets-20834398246) | Berlin, Germany | 3.4 |
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
 | [HackUMBC](https://hackumbc.org/) | Baltimore County, MD | 3.5 - 3.6 |
-| [ Amazon Alexa and Echo Hackathon](https://www.eventbrite.com/e/amazon-and-connected-lab-present-the-amazon-alexa-and-echo-hackathon-tickets-21835938881) | St. Gallen, Switzerland | 3.11 - 3.13 |
-| [START Hack](http://starthack.ch/) | Toronto, Canada | 3.11 - 3.13 |
+| [ Amazon Alexa and Echo Hackathon](https://www.eventbrite.com/e/amazon-and-connected-lab-present-the-amazon-alexa-and-echo-hackathon-tickets-21835938881) | Toronto, Canada | 3.11 - 3.13 |
+| [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [WearHacks Toronto 2](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [Baseball Hack Day](http://www.baseballhackday.com/) | Multiple Cities | 3.19 |
