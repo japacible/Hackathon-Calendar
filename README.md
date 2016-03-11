@@ -17,6 +17,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [GrizzHacks](http://grizzhacks.com) | Rochester, MI | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
 | [HackGSU](http://hackgsu.com/) | Atlanta, GA | 3.25 - 3.27 |
+| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 4.1 - 4.3 |
 | [tribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 4.1 - 4.3 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
@@ -30,4 +31,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MasseyHacks II] (http://masseyhacks.ca/) | Windsor, Ontario | 5.21 - 5.22 |
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
-| [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 4.26 |
+| [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
