@@ -125,7 +125,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Bay BitHack 2014](http://baybithack.com/) | Berkeley, CA | 11.1 - 11.2 |
 | [Haunted Hackathon at Spotify](https://www.eventbrite.com/e/haunted-hackathon-at-spotify-tickets-13663444731) | New York, NY | 11.1 |
 | [HackCC](http://www.hackcc.org) | Santa Monica, CA | 11.7 - 11.9 |
-| [HackHolyoke](https://www.mtholyoke.edu/org/compsci/hackholyoke/) | South Hadley, MA | 11.7 - 11.8 | 
+| [HackHolyoke](https://www.mtholyoke.edu/org/compsci/hackholyoke/) | South Hadley, MA | 11.7 - 11.8 |
 | [HackSC](http://f2014.hacksc.com/) | Los Angeles, CA | 11.7 - 11.9 |
 | [McHacks](http://mchacks.io/) | Montreal, Canada | 11.7 - 11.9 |
 | [CodeDay Fall](http://codeday.org/) | Multiple Cities | 11.8 - 11.9 |
@@ -436,7 +436,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hacking Eating Tracking Hackathon](http://www.hackingeatingtracking.org/) | Cambridge, MA | 9.18 - 9.20 |
 | [Stamford Hackathon](http://www.stamfordhackathon.org/) | Stamford, CT | 9.18 - 9.20 |
 | [WUHack](http://wuhack.com/) | St. Louis, MO | 9.18 - 9.20 |
-| [Audio Hackathon 2015](http://audiohackathon.com/) | New York City, NY | 9.19 - 9.20 | 
+| [Audio Hackathon 2015](http://audiohackathon.com/) | New York City, NY | 9.19 - 9.20 |
 | [Stamford Hackathon 1.0](http://www.eventbrite.com/e/stamford-hackathon-10-tickets-16476307078?aff=es2) | Stamford, CT | 9.18 - 9.20 |
 | [Hackagong](http://hackagong.com/) | Wollongong, Australia | 9.19 - 9.20 |
 | [HackMIT](https://hackmit.org) | Cambridge, MA | 9.19 - 9.20 |
@@ -571,6 +571,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackTbilisi](http://2015f.hacktbilisi.com/en)  | Tbilisi, Georgia | 12.18 - 12.20|
 | [Hack the Holidays](https://hacktheholidays.io/) | Peterborough, UK | 12.19 - 12.20 |
 
+| Hackathon                                                | Location        | Date (2016)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
 | [CODEX Hackathon](http://codexhackathon.com/) | Cambridge, MA | 1.8 - 1.10 |
 | [Hack The 6ix](https://www.hackthe6ix.com/#6ix) | Toronto, Canada | 1.15 - 1.17 |
 | [HackRice](http://hack.rice.edu/) | Houston, TX | 1.15 - 1.17 |
@@ -581,7 +583,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [DragonHacks](http://dragonhacks.io/) | Philadelphia, PA | 1.16 - 1.17 |
 | [EagleHacks](http://www.eaglehacks.com/) | Allen, TX | 1.16 |
 | [MLK Day & Civic Hack](https://www.eventbrite.com/e/super-happy-dev-house-sea3-mlk-day-civic-hack-tickets-20498508591) | Seattle, WA | 1.17 |
-| [Charlotte Hack](https://www.eventbrite.com/e/charlotte-hack-unc-charlotte-tickets-19538149130/) | Charlotte, NC | 1.22 -1.23 | 
+| [Charlotte Hack](https://www.eventbrite.com/e/charlotte-hack-unc-charlotte-tickets-19538149130/) | Charlotte, NC | 1.22 -1.23 |
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.22 - 1.24 |
 | [HackBeanpot](http://www.hackbeanpot.com) | Cambridge, MA | 1.22 - 1.24 |
 | [PennApps XIII](http://2016s.pennapps.com/) | Philadelphia, PA | 1.22 - 1.24 |
