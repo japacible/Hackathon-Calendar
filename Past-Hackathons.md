@@ -615,6 +615,7 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [TreeHacks](https://www.treehacks.com/) | Stanford, CA | 2.12 - 2.14 |
 | [Winter WonderHack](https://wwhack.org/) | Houghton, Michigan | 2.12 - 2.14 |
 | [MakeMIT](http://makemit.org/) | Cambridge, MA | 2.13 |
+| [Hexploiter](http://www.hexploiter.com/) | Chennai, India | 2.13 |
 | [Hack UPC](https://hackupc.com/) | Barcelona, Spain | 2.19 - 2.21 |
 | [HackIllinois](http://www.hackillinois.org/) | Champaign, IL | 2.19 - 2.21 |
 | [HackISU](http://www.hackisu.com/) | Ames, IA | 2.19 - 2.21 |

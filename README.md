@@ -25,15 +25,18 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [BrickHack](https://brickhack.io/) | Rochester, NY | 3.5 - 3.6 |
 | [HackUMBC](https://hackumbc.org/) | Baltimore County, MD | 3.5 - 3.6 |
 | [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
+| [Brandeis Makeathon](http://brandeismakeathon.com) | Waltham, MA | 3.12 - 3.13 |
 | [WearHacks Toronto 2](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 3.11 - 3.13 |
 | [WearHacks Waterloo](http://waterloo.wearhacks.com/) | Waterloo, Canada | 3.18 - 3.20 |
 | [Baseball Hack Day](http://www.baseballhackday.com/) | Multiple Cities | 3.19 |
 | [def hacks()](http://defhacks.xyz) | New York, NY | 3.19 - 3.20 |
 | [GrizzHacks](http://grizzhacks.com) | Rochester, MI | 3.19 - 3.20 |
 | [Makerthon Melbourne](https://makerthonMelbourne.com/) | Melbourne, VIC, Australia | 3.19 - 3.20 |
+| [HackGSU](http://hackgsu.com/) | Atlanta, GA | 3.25 - 3.27 |
 | [tribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 4.1 - 4.3 |
 | [HackBCA](http://hackbca.com) | Hackensack, NJ | 4.2 - 4.3 |
 | [PantherHacks](http://pantherhacks.org/) | Milwaukee, WI | 4.2 |
+| [Bitcamp](http://bitca.mp/) | College Park, MD | 4.8 - 4.10 | 
 | [HackDFW](http://hackdfw.com/) | Dallas, TX | 4.16 - 4.17 |
 | [HackRU](http://hackru.org/) | Piscataway, NJ | 4.16 - 4.17 |
 | [VR Hackathon](http://vrhackathon.com/seattle.html) | Seattle, WA | 4.22 - 4.24 |
