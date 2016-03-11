@@ -7,6 +7,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+| [ Amazon Alexa and Echo Hackathon](https://www.eventbrite.com/e/amazon-and-connected-lab-present-the-amazon-alexa-and-echo-hackathon-tickets-21835938881) | Toronto, Canada | 3.11 - 3.13 |
 | [START Hack](http://starthack.ch/) | St. Gallen, Switzerland | 3.11 - 3.13 |
 | [Brandeis Makeathon](http://brandeismakeathon.com) | Waltham, MA | 3.12 - 3.13 |
 | [WearHacks Toronto 2](https://wearhackstoronto.splashthat.com/) | Toronto, Canada | 3.11 - 3.13 |
